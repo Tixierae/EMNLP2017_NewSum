@@ -1,0 +1,10 @@
+One of ICSIs research groups at Berkley met to discuss progress on the current project a tourism based dialogue system.
+The small group had visual aids which assisted their discussion.
+They have conducted the first test with a human playing the part of both automated and human operator which provided valuable feedback.
+They discussed the development of the belief network that will be behind the system.
+They touched on representation ontology interaction and the desire for a generalised system.
+They also talked about upcoming meetings with people from different groups and how they could benefit.
+The girl who played the system in the first test should be hired to do it permanently.
+When developing the BayesNet the group have to be mind full of a potential combinatoric explosion.
+The first Wizard test has been completed.
+Me003 has been working on developing the BayesNet.

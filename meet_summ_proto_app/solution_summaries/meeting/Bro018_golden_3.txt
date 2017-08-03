@@ -1,0 +1,38 @@
+Group members reported on their work progress.
+The new features for the voiced unvoiced recognition experiment only improved results marginally.
+The energy was included in the inputs but not the spectral slope which is also a voicedness factor.
+Alternative combinations of inputs will be implemented.
+A second ongoing task concerns the ascertainment of the complete set of dynamic acoustic events sufficient for phone or word recognition at least in the TIMIT corpus.
+A test comparing recurrent neural nets with Support Vector Machines for detection of phonological features in MFCCs is also going to be run as part of a class project.
+SVMs work like a condensed nearest neighbour and are reputed to learn patterns with less training data.
+Another comparison project in progress is the one between PLP amd mel cepstrum for SRI it is also proceeding with various checks being considered.
+It is generally accepted that PLP is more noise robust.
+A final report summarised how the mean subtraction method shrank the error rates for the digit recognition.
+This achievement suggests that the method should also be tried on better systems like SRI.
+For possible improvements in the voicedness detection it was suggested that the MLP inputs become simpler the net can be fed just with the log magnitude perhaps along with the variance over multiple frames.
+The accuracy of the two nets should be compared by adding all the probabilities of voiced unvoiced phones in the 56 output MLP the respective result in the other MLP should be at least as good.
+At the same time the France Telecom proposal and code will be studied closely for useful ideas.
+Regarding the acoustic events experiment it was recommended that a simpler task be done first event phone co occurrences should be counted in order to get phone probabilities for a discrete HMM.
+The results can be used as base for the evaluation of more sophisticated methods.
+An appropriately modified version of TIMIT can be used as training data.
+As for the PLP mel cepstrum comparison a test is going to be carried out to check whether the pruning threshold is causing the search errors.
+Finally the subtraction method for spectral means will also be tested on SRI since the base results for this were much better that for Aurora.
+The voicedness recognition results are only marginally better after the last experiment using a net with three outputs.
+It shows that the issue is actually what the inputs to the net are.
+The 63 accuracy for the voiced unvoiced net is not very good.
+Later as the France Telecom proposal was discussed it was noted that a constant used in the energy expression looks equivocal.
+With regard to the dynamic acoustic events experiments the markings offered by both the Switchboard and TIMIT corpus are not readily appropriate.
+An automatic translation process will only provide some of the desired characteristics.
+In the PLP mel cepstrum comparison for SRI a difference of a few percent has been found.
+This could be due to differences in normalisation or a bug in the scripts.
+It was also found that the amount of pruning was higher for the PLP features and the run time of the recogniser longer.
+Finally as to the digit recognition the initial 41 error rate for the far mike was due to the training data being clean.
+However for a real system even an error rate of 4 5 is very poor.
+Two MLPs were trained on noisy TIMIT for voiced unvoiced one with 3 outputs and one with 56.
+The former used three extra inputs spectrum difference variance auto correlation function variance and R0 added to the 15 of the Aurora base system.
+Its accuracy is 63 including noise while for the latter is 56.
+The nets only take about a day to train.
+The planning of another neural net to define the complete set of acoustic events for phone recognition is also under way.
+As to the PLP mel cepstrum comparison for SRI the headers of the wave files are being checked for compression inconsistencies or other data that may indicate a bug in the scripts responsible for the errors found.
+Furthermore while discussing the RASTA code it was clarified that although there is no control on the frequency range in the FFT this is done by the filter bank which ignores the highest and lowest bins.
+As to digit recognition the mean subtraction method tested with the Aurora setup resulted in reduction of error rates from 18 to 4 in TI digits and from 41 to 8 for Meeting Recorder far mike digits.

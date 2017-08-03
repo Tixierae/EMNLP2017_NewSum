@@ -1,0 +1,568 @@
+IS1009c.A.dialog-act.dharshi.1	40.24	40.69	A	PM	stl	-1	0	Okay 
+IS1009c.A.dialog-act.dharshi.2	42.16	43.363	A	PM	be.pos	-1	0	Hello everyone 
+IS1009c.A.dialog-act.dharshi.3	43.363	44.768	A	PM	fra	-1	0	Um 
+IS1009c.C.dialog-act.dharshi.1	43.25	43.42	C	ID	be.pos	-1	0	Hi 
+IS1009c.B.dialog-act.dharshi.1	43.77	44.09	B	UI	be.pos	-1	0	Right 
+IS1009c.D.dialog-act.dharshi.1	43.37	43.8	D	ME	be.pos	-1	0	Hi 
+IS1009c.A.dialog-act.dharshi.4	44.79	47.18	A	PM	be.pos	-1	0	Um well uh how we doing 
+IS1009c.C.dialog-act.dharshi.2	48.29	48.77	C	ID	be.pos	-1	0	Yeah good 
+IS1009c.A.dialog-act.dharshi.5	49.27	56.25	A	PM	inf	+1	1	Uh first we going uh oh we're the um minutes of the last meeting more or less um 
+IS1009c.B.dialog-act.dharshi.2	55.6	55.97	B	UI	bck	-1	0	Uh-huh 
+IS1009c.A.dialog-act.dharshi.7	56.25	66.63	A	PM	inf	+1	1	um in the last meeting uh the marketing manager had presented or her method of working meeting there 
+IS1009c.A.dialog-act.dharshi.8	66.63	68.7	A	PM	inf	-1	0	meeting there any suggestions 
+IS1009c.A.dialog-act.dharshi.9	69.97	79.04	A	PM	inf	-1	0	From everyone to have to see you how old she best could market to do this this product at the within the budget and that was given 
+IS1009c.A.dialog-act.dharshi.10	81.38	88.2	A	PM	inf	-1	0	Uh uh in general The idea is that it should be something that it's not difficult to use 
+IS1009c.A.dialog-act.dharshi.11	89.75	94.57	A	PM	inf	-1	0	Um it's also an item that people who was a lot so 
+IS1009c.A.dialog-act.dharshi.12	94.57	98.14	A	PM	inf	-1	0	so we should address that and of course it should 
+IS1009c.A.dialog-act.dharshi.13	98.14	104.16	A	PM	inf	-1	0	and of course it should be something That is very simple to use 
+IS1009c.A.dialog-act.dharshi.14	105.56	113.43	A	PM	inf	-1	0	In addition to that to make it to sell of course uh the marketing manager who wishes that it's be very attractive for like she 
+IS1009c.D.dialog-act.dharshi.2	105.136	105.456	D	ME	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.15	113.43	116.76	A	PM	inf	-1	0	for like she says put some sizzling to it in one way or another 
+IS1009c.A.dialog-act.dharshi.16	117.77	125.7	A	PM	inf	-1	0	So that that people are buying it now because in particular we smaller items that's a very important fact "'cause" 
+IS1009c.A.dialog-act.dharshi.17	125.7	130.04	A	PM	inf	-1	0	"'cause" um they say say well i go home and think about it that will work Um 
+IS1009c.A.dialog-act.dharshi.18	130.79	137.5	A	PM	inf	-1	0	Um also mentioned was it should be uh it it should have a very short learning curve 
+IS1009c.A.dialog-act.dharshi.19	138.68	143.15	A	PM	inf	-1	0	And maybe could be sold by using a slogan 
+IS1009c.C.dialog-act.dharshi.3	144.08	144.21	C	ID	bck	-1	0	Mm 
+IS1009c.A.dialog-act.dharshi.20	144.863	151.56	A	PM	inf	+1	1	I'll or technical manager have as then said that she feels it should have a chip 
+IS1009c.D.dialog-act.dharshi.3	151.776	152.352	D	ME	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.21	153.03	156.45	A	PM	inf	-1	0	That has infrared bits and it has an 
+IS1009c.A.dialog-act.dharshi.22	156.45	160.34	A	PM	inf	-1	0	and it has an interface controls we interface controls the chip 
+IS1009c.A.dialog-act.dharshi.23	161.42	166.36	A	PM	inf	-1	0	Therefore message is uh will be controlled in the same manner they should be extra 
+IS1009c.A.dialog-act.dharshi.25	166.36	172.65	A	PM	inf	-1	0	they should be extra features like lead buttons maybe i'd be if too many buttons are pressed 
+IS1009c.A.dialog-act.dharshi.26	173.85	176.6	A	PM	inf	-1	0	My heart uh a child lock a Um 
+IS1009c.A.dialog-act.dharshi.27	176.6	188.18	A	PM	inf	-1	0	Um and uh maybe display clocks so that people could to um Could see the time you know what shall they want to watch also mentioned was 
+IS1009c.A.dialog-act.dharshi.28	188.18	191.44	A	PM	inf	-1	0	also mentioned was uh maybe different shapes 
+IS1009c.A.dialog-act.dharshi.29	193.38	201.13	A	PM	inf	-1	0	So the components of the things should be button bob hope's inferred the infrared bulb is battery chips liars and maybe 
+IS1009c.A.dialog-act.dharshi.30	201.13	208.54	A	PM	inf	-1	0	and maybe some kind of a holder Uh for the for the uh uh item 
+IS1009c.A.dialog-act.dharshi.31	210.26	214.37	A	PM	inf	-1	0	French you know who is uh were um interface 
+IS1009c.B.dialog-act.dharshi.3	213.74	214.88	B	UI	inf	-1	0	Interface design 
+IS1009c.A.dialog-act.dharshi.33	214.37	224.41	A	PM	inf	-1	0	interface designer uh um uh uh has mentioned that's be there what we should have an on off button and also 
+IS1009c.A.dialog-act.dharshi.32	224.41	228.56	A	PM	inf	-1	0	and also has mention an interesting features that each would have maybe a channel 
+IS1009c.A.dialog-act.dharshi.34	230.09	235.61	A	PM	inf	-1	0	Particularly this may be small children that equip and they're watching channel that is some desirable it would be 
+IS1009c.A.dialog-act.dharshi.35	235.61	236.83	A	PM	inf	-1	0	it would be compact for personal 
+IS1009c.A.dialog-act.dharshi.36	236.83	240.93	A	PM	inf	-1	0	compact for personal favourite was it would be t. shaped and 
+IS1009c.A.dialog-act.dharshi.37	240.93	243.26	A	PM	inf	-1	0	and maybe having a not a lot clock and the material 
+IS1009c.A.dialog-act.dharshi.38	243.26	247.94	A	PM	inf	-1	0	and the material should possibly be in a lot of non allergic make sure 
+IS1009c.A.dialog-act.dharshi.39	250.22	256.99	A	PM	inf	-1	0	Oh uh to different systems uh that exist are infra-red or radio waves 
+IS1009c.A.dialog-act.dharshi.40	258.04	264.8	A	PM	inf	-1	0	Uh maybe it should have the electric electricity electricity saving feature 
+IS1009c.D.dialog-act.dharshi.4	263.872	265.846	D	ME	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.41	265.83	277.22	A	PM	inf	-1	0	And even possibly a time or two so that people can prove i look at their favourite to uh uh uh uh a program on the right from the remote 
+IS1009c.B.dialog-act.dharshi.4	277.31	277.82	B	UI	bck	-1	0	Yes 
+IS1009c.A.dialog-act.dharshi.42	279.09	284.52	A	PM	el.ass	+1	1	Are are we all in agreement that that's that what we discussed last time okay 
+IS1009c.A.dialog-act.dharshi.43	284.52	285.08	A	PM	ass	-1	0	okay 
+IS1009c.B.dialog-act.dharshi.5	284.27	284.56	B	UI	ass	-1	0	Yes 
+IS1009c.C.dialog-act.dharshi.4	284.08	284.29	C	ID	ass	-1	0	Yeah 
+IS1009c.D.dialog-act.dharshi.5	284.68	286.62	D	ME	ass	-1	0	No i think that's pretty much is it yellow 
+IS1009c.A.dialog-act.dharshi.44	286.592	287.44	A	PM	ass	-1	0	Oh okay then we 
+IS1009c.A.dialog-act.dharshi.45	287.44	290.94	A	PM	inf	-1	0	okay then we i'm looking for three presentations and 
+IS1009c.A.dialog-act.dharshi.46	290.94	295.06	A	PM	ass	-1	0	and uh i don't know whether the order matters not sure uh i don't i 
+IS1009c.A.dialog-act.dharshi.47	295.06	296.89	A	PM	ass	-1	0	i don't i don't think so also 
+IS1009c.A.dialog-act.dharshi.48	296.89	299.05	A	PM	el.sug	-1	0	don't think so also whoever wants yeah okay 
+IS1009c.B.dialog-act.dharshi.6	297.33	299.26	B	UI	off	-1	0	Okay thank you sir Okay 
+IS1009c.A.dialog-act.dharshi.49	299.05	299.75	A	PM	ass	-1	0	yeah okay 
+IS1009c.B.dialog-act.dharshi.7	299.97	300.43	B	UI	ass	-1	0	Okay 
+IS1009c.B.dialog-act.dharshi.8	305.45	307.008	B	UI	sug	-1	0	Um i slide please 
+IS1009c.A.dialog-act.dharshi.50	306.1	309.21	A	PM	off	-1	0	Okay yes right it's uh oh 
+IS1009c.A.dialog-act.dharshi.51	314.19	315.53	A	PM	oth	-1	0	One was already 
+IS1009c.D.dialog-act.dharshi.6	316.768	317.12	D	ME	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.52	321.45	323.61	A	PM	el.inf	-1	0	And that's numbers it's too right 
+IS1009c.B.dialog-act.dharshi.9	323.83	324.1	B	UI	inf	-1	0	Three 
+IS1009c.A.dialog-act.dharshi.53	324.58	324.83	A	PM	und	-1	0	Three 
+IS1009c.B.dialog-act.dharshi.10	325.8	326.67	B	UI	inf	-1	0	That's true 
+IS1009c.B.dialog-act.dharshi.11	328.02	328.41	B	UI	ass	-1	0	Yes 
+IS1009c.B.dialog-act.dharshi.12	335.7	336.0	B	UI	stl	-1	0	Okay 
+IS1009c.A.dialog-act.dharshi.54	337.53	337.75	A	PM	ass	-1	0	Okay 
+IS1009c.B.dialog-act.dharshi.13	337.56	344.0	B	UI	inf	+1	1	Oh as an interface design uh i would give more emphasis on the interface how the remote looks like so that it decided that 
+IS1009c.B.dialog-act.dharshi.14	344.0	347.11	B	UI	inf	-1	0	that it decided that it is attractive the customers 
+IS1009c.B.dialog-act.dharshi.15	349.04	350.03	B	UI	sug	-1	0	Next 
+IS1009c.B.dialog-act.dharshi.16	351.32	356.89	B	UI	inf	+1	1	Okay now the function of a remote is to send messages to the television this 
+IS1009c.B.dialog-act.dharshi.17	356.89	367.77	B	UI	inf	-1	0	this message us could be uh switch on off mess age or switch to next channel and i say it was that thing that john lewis a smidgen want to a particular channel like 
+IS1009c.B.dialog-act.dharshi.18	367.77	371.25	B	UI	inf	-1	0	like you can have the numbers one two three four up to nine 
+IS1009c.A.dialog-act.dharshi.55	373.38	376.33	A	PM	el.inf	-1	0	Nine what nine channel uh switches 
+IS1009c.B.dialog-act.dharshi.19	377.33	377.69	B	UI	und	-1	0	Let me 
+IS1009c.A.dialog-act.dharshi.56	377.96	379.11	A	PM	el.inf	-1	0	Nine channel switches is yeah uh-huh 
+IS1009c.A.dialog-act.dharshi.57	379.11	379.6	A	PM	fra	-1	0	is yeah uh-huh 
+IS1009c.A.dialog-act.dharshi.58	379.6	381.29	A	PM	ass	-1	0	is yeah uh-huh uh-huh 
+IS1009c.B.dialog-act.dharshi.20	379.14	380.91	B	UI	inf	-1	0	Yes nine numbers 
+IS1009c.B.dialog-act.dharshi.21	382.97	386.21	B	UI	inf	-1	0	And then you have smart thing uh well but then by the choosing which 
+IS1009c.A.dialog-act.dharshi.59	386.19	386.65	A	PM	bck	-1	0	Mm hmm 
+IS1009c.B.dialog-act.dharshi.22	386.21	393.13	B	UI	inf	-1	0	by the choosing which you can spot the channels if we don't want to see this touch and then we can stop it to the fault standard always see worse so 
+IS1009c.B.dialog-act.dharshi.23	395.8	398.11	B	UI	inf	+1	1	Then it should have an extra button and next 
+IS1009c.B.dialog-act.dharshi.24	398.11	406.85	B	UI	inf	-1	0	and next back and channel that which you can keep on um uh mm the scrolling the channels one by one next 
+IS1009c.A.dialog-act.dharshi.60	402.95	403.4	A	PM	bck	-1	0	Uh-huh 
+IS1009c.C.dialog-act.dharshi.5	402.87	404.07	C	ID	inf	-1	0	Mm 
+IS1009c.A.dialog-act.dharshi.61	405.29	405.61	A	PM	bck	-1	0	Uh-huh 
+IS1009c.B.dialog-act.dharshi.25	406.85	407.93	B	UI	sug	-1	0	next slide please 
+IS1009c.A.dialog-act.dharshi.62	408.02	408.35	A	PM	bck	-1	0	Uh-huh 
+IS1009c.B.dialog-act.dharshi.26	410.4	415.93	B	UI	inf	-1	0	Then you should have a button and that should that should get this can be used for increasing or decreasing the wall you 
+IS1009c.A.dialog-act.dharshi.63	416.14	416.57	A	PM	bck	-1	0	Uh-huh 
+IS1009c.B.dialog-act.dharshi.27	418.1	424.59	B	UI	inf	+1	1	Then they should be uh but then beach can give subtitles for a particular program which is going on a daily we should example 
+IS1009c.B.dialog-act.dharshi.28	424.59	439.69	B	UI	inf	-1	0	example if you're watching the french programme and you would like to have a subtitles in english that they should be a channel which can read that this may can use them in the television so that the user can see uh the yeah the subtitles on the screen 
+IS1009c.D.dialog-act.dharshi.7	430.132	430.448	D	ME	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.64	430.74	431.07	A	PM	bck	-1	0	Uh-huh 
+IS1009c.B.dialog-act.dharshi.29	441.93	453.03	B	UI	inf	+1	1	Then they should they uh they should be some buttons which can control features like the carlo colour of the picture of the contrast sharpness brightness of the picture 
+IS1009c.B.dialog-act.dharshi.30	456.77	458.73	B	UI	inf	+1	1	No they should be a member of a switch 
+IS1009c.B.dialog-act.dharshi.31	462.72	464.72	B	UI	inf	-1	0	They should be a mute to but then suddenly 
+IS1009c.B.dialog-act.dharshi.32	464.72	475.16	B	UI	inf	-1	0	then suddenly if if if uh if you were he gets a telephone call and and if you want he doesn't want to switch on the uh at t. v. but you you can read use the sound you can 
+IS1009c.B.dialog-act.dharshi.33	475.16	482.36	B	UI	inf	-1	0	you can bring their one him down and you can watch you can do it by talking you can watch the t. v. not the most 
+IS1009c.B.dialog-act.dharshi.34	482.36	488.84	B	UI	inf	+1	1	not the most important feature i would like to have it might be more would be the speech recognition feature 
+IS1009c.B.dialog-act.dharshi.35	490.45	495.72	B	UI	inf	-1	0	It's an integrated programme programmable sample sensor speaker you want it 
+IS1009c.B.dialog-act.dharshi.36	498.52	507.09	B	UI	inf	-1	0	So a remote can be it can be uh our design which can have the y. so they could deny is as you can record your own voice 
+IS1009c.A.dialog-act.dharshi.65	509.48	509.95	A	PM	bck	-1	0	Uh-huh 
+IS1009c.B.dialog-act.dharshi.37	510.39	514.7	B	UI	inf	-1	0	Which can be they could be nice to buy a otherwise recognise the in the television for example 
+IS1009c.B.dialog-act.dharshi.38	514.7	528.11	B	UI	inf	+1	1	for example if you want to see we if we want to see them anchorage and then if you say just say in mind china Uh that that the the uh yeah the remote will automatically the switch to the mind johno uh-huh to the t. v. but have 
+IS1009c.D.dialog-act.dharshi.8	514.528	514.8	D	ME	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.66	524.19	524.51	A	PM	bck	-1	0	Uh-huh 
+IS1009c.A.dialog-act.dharshi.67	527.63	527.98	A	PM	bck	-1	0	Uh-huh 
+IS1009c.B.dialog-act.dharshi.39	528.11	535.86	B	UI	inf	-1	0	to the t. v. but have some recogniser which are recognise they use those whites and accordingly to change its functionalities that this 
+IS1009c.A.dialog-act.dharshi.68	535.0	535.66	A	PM	bck	-1	0	uh-huh 
+IS1009c.A.dialog-act.dharshi.69	535.66	536.0	A	PM	bck	-1	0	uh-huh 
+IS1009c.B.dialog-act.dharshi.40	535.86	539.31	B	UI	inf	-1	0	that this is one of the very important feature a remote control can have 
+IS1009c.B.dialog-act.dharshi.41	541.18	545.27	B	UI	inf	+1	1	So this is one one of the interface which can be created 
+IS1009c.A.dialog-act.dharshi.70	546.82	547.18	A	PM	bck	-1	0	Uh-huh 
+IS1009c.B.dialog-act.dharshi.42	547.2	552.29	B	UI	inf	+1	1	As many simple interface which has all but uh uh important features 
+IS1009c.A.dialog-act.dharshi.71	553.84	554.55	A	PM	bck	-1	0	Uh-huh uh-huh 
+IS1009c.B.dialog-act.dharshi.43	553.37	554.43	B	UI	sug	-1	0	But please next slide 
+IS1009c.A.dialog-act.dharshi.72	554.55	554.77	A	PM	bck	-1	0	uh-huh 
+IS1009c.B.dialog-act.dharshi.44	555.73	562.63	B	UI	inf	+1	1	That these at some of their remotes which are different and shape and colour but they have many buttons so 
+IS1009c.A.dialog-act.dharshi.73	562.14	562.64	A	PM	bck	-1	0	Uh-huh 
+IS1009c.B.dialog-act.dharshi.45	562.63	568.61	B	UI	inf	-1	0	so sometimes the use of finds it very difficult to recognise which button is for what function and all that so you can 
+IS1009c.B.dialog-act.dharshi.46	568.61	573.6	B	UI	inf	+1	1	that so you can you can design and interface which is really simple and it is user-friendly you when a 
+IS1009c.B.dialog-act.dharshi.47	573.6	575.96	B	UI	inf	-1	0	you when a kid can use that so 
+IS1009c.A.dialog-act.dharshi.74	575.77	576.11	A	PM	bck	-1	0	Uh-huh 
+IS1009c.B.dialog-act.dharshi.48	575.96	578.1	B	UI	sug	-1	0	so can you want to uh to the next slide Yeah 
+IS1009c.B.dialog-act.dharshi.49	579.0	585.06	B	UI	inf	+1	1	so this is one of the interface a lot of the remote which has this by voice of recognise that and it says multipurpose 
+IS1009c.A.dialog-act.dharshi.75	584.88	585.29	A	PM	bck	-1	0	Uh-huh 
+IS1009c.D.dialog-act.dharshi.9	584.512	584.8	D	ME	fra	-1	0	{vocalsound}
+IS1009c.B.dialog-act.dharshi.50	585.06	592.82	B	UI	inf	-1	0	and it says multipurpose use it can be used for t. v. can be used for cable satellite it can be used for v. c. r. d. v. d.s and audio 
+IS1009c.B.dialog-act.dharshi.51	595.19	597.66	B	UI	inf	-1	0	And this has been but twice recogniser 
+IS1009c.A.dialog-act.dharshi.76	598.603	599.226	A	PM	fra	-1	0	{vocalsound}
+IS1009c.B.dialog-act.dharshi.52	601.65	603.35	B	UI	sug	-1	0	Hmmm the minutes and yeah no this 
+IS1009c.B.dialog-act.dharshi.53	603.35	610.14	B	UI	inf	+1	1	yeah no this is an interface for that right uh for a remote uh uh uh which uh child can use uh this is user-friendly 
+IS1009c.A.dialog-act.dharshi.77	609.9	610.25	A	PM	bck	-1	0	Uh-huh 
+IS1009c.B.dialog-act.dharshi.54	610.14	612.85	B	UI	inf	-1	0	uh this is user-friendly it's very attractive and 
+IS1009c.B.dialog-act.dharshi.55	612.85	616.64	B	UI	inf	-1	0	and the children can use that as well as they can play with that and this 
+IS1009c.B.dialog-act.dharshi.56	616.64	620.22	B	UI	inf	+1	1	and this comes with different colours different shapes 
+IS1009c.C.dialog-act.dharshi.6	620.84	620.95	C	ID	bck	-1	0	Mm 
+IS1009c.A.dialog-act.dharshi.78	626.71	626.97	A	PM	bck	-1	0	Uh-huh 
+IS1009c.B.dialog-act.dharshi.57	626.93	631.45	B	UI	inf	-1	0	And this this such i did uh interface as a minimum buttons and all the 
+IS1009c.D.dialog-act.dharshi.10	630.851	631.12	D	ME	fra	-1	0	{vocalsound}
+IS1009c.B.dialog-act.dharshi.58	631.45	637.23	B	UI	inf	-1	0	and all the important uh buttons are that in this small compact 
+IS1009c.B.dialog-act.dharshi.59	638.15	640.76	B	UI	inf	-1	0	Attractive tried interface 
+IS1009c.B.dialog-act.dharshi.60	646.56	647.79	B	UI	sug	-1	0	Thanks larry is not this 
+IS1009c.B.dialog-act.dharshi.61	647.79	656.94	B	UI	inf	+1	1	is not this as uh bank always nice remote which cannot be misplaced but it's impossible to misplace i But 
+IS1009c.A.dialog-act.dharshi.79	649.328	651.424	A	PM	fra	-1	0	{vocalsound}
+IS1009c.C.dialog-act.dharshi.7	653.76	660.512	C	ID	fra	-1	0	{vocalsound}
+IS1009c.D.dialog-act.dharshi.11	654.384	655.312	D	ME	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.80	655.008	655.232	A	PM	fra	-1	0	{vocalsound}
+IS1009c.D.dialog-act.dharshi.12	656.32	657.48	D	ME	be.pos	-1	0	Yeah i know made i. 
+IS1009c.B.dialog-act.dharshi.62	656.94	658.096	B	UI	fra	-1	0	But it's 
+IS1009c.D.dialog-act.dharshi.13	657.48	663.12	D	ME	be.pos	-1	0	i. I can do is that a minute 
+IS1009c.B.dialog-act.dharshi.63	658.096	659.286	B	UI	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.81	659.872	661.625	A	PM	fra	-1	0	{vocalsound}
+IS1009c.B.dialog-act.dharshi.64	661.14	661.76	B	UI	fra	-1	0	This is i 
+IS1009c.B.dialog-act.dharshi.65	661.76	667.29	B	UI	inf	-1	0	This is i Good as a very very good i know it's better that it to the to the the way 
+IS1009c.D.dialog-act.dharshi.14	663.12	667.387	D	ME	fra	-1	0	{vocalsound}
+IS1009c.B.dialog-act.dharshi.66	667.29	672.576	B	UI	inf	-1	0	to the to the the way that was the remote control uh it's important but do you do is raise are loose 
+IS1009c.D.dialog-act.dharshi.15	667.387	668.017	D	ME	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.82	672.77	673.22	A	PM	bck	-1	0	Uh-huh 
+IS1009c.B.dialog-act.dharshi.67	673.89	676.848	B	UI	inf	-1	0	So the lambs that's interface which can be created 
+IS1009c.B.dialog-act.dharshi.68	678.37	689.86	B	UI	sug	+1	1	And the plus the prefer it's uh would be s. p. uh uh or to incorporate speech recognises uh bits for a response to use this voice for the particular uh function 
+IS1009c.D.dialog-act.dharshi.16	679.664	679.936	D	ME	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.83	688.49	688.84	A	PM	bck	-1	0	Uh-huh 
+IS1009c.A.dialog-act.dharshi.84	690.57	690.76	A	PM	bck	-1	0	Right 
+IS1009c.B.dialog-act.dharshi.70	691.97	692.3	B	UI	be.pos	-1	0	Thank you that's 
+IS1009c.B.dialog-act.dharshi.71	692.3	692.947	B	UI	fra	-1	0	you that's 
+IS1009c.A.dialog-act.dharshi.85	693.53	693.98	A	PM	bck	-1	0	Uh-huh 
+IS1009c.A.dialog-act.dharshi.86	711.48	713.67	A	PM	be.pos	-1	0	Oh okay thank you very much uh 
+IS1009c.A.dialog-act.dharshi.87	713.67	716.81	A	PM	el.ass	+1	1	uh any comments on the presentation 
+IS1009c.D.dialog-act.dharshi.17	720.37	724.94	D	ME	inf	+1	1	No um that's that we still have quite a twice things out there um 
+IS1009c.C.dialog-act.dharshi.8	724.39	724.67	C	ID	bck	-1	0	Mm 
+IS1009c.D.dialog-act.dharshi.18	724.94	727.32	D	ME	stl	-1	0	there um what uh i'm you know suggestions 
+IS1009c.D.dialog-act.dharshi.19	727.32	728.92	D	ME	ass	-1	0	you know suggestions that but 
+IS1009c.B.dialog-act.dharshi.72	728.73	728.96	B	UI	bck	-1	0	Yeah 
+IS1009c.D.dialog-act.dharshi.20	728.92	731.78	D	ME	sug	+1	1	that but uh we're gonna have to narrow it down a little more i don't think 
+IS1009c.D.dialog-act.dharshi.21	731.78	734.96	D	ME	fra	-1	0	a little more i don't think that we can get uh up to 
+IS1009c.D.dialog-act.dharshi.22	734.96	737.86	D	ME	ass	-1	0	up to to shape is good the channel one is good too too 
+IS1009c.D.dialog-act.dharshi.23	737.86	740.06	D	ME	ass	-1	0	too too big to misplace i think it's it's funny i 
+IS1009c.B.dialog-act.dharshi.73	740.4	742.752	B	UI	bck	-1	0	Okay 
+IS1009c.D.dialog-act.dharshi.24	740.06	748.14	D	ME	ass	-1	0	i i am i i i think that's gonna be our impulse perch it's sad that i cannot cannot it's it's gonna be a little 
+IS1009c.C.dialog-act.dharshi.9	740.656	742.32	C	ID	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.88	742.29	744.116	A	PM	fra	-1	0	Yeah i i i think 
+IS1009c.B.dialog-act.dharshi.75	747.79	748.745	B	UI	bck	-1	0	Okay 
+IS1009c.D.dialog-act.dharshi.25	748.14	750.47	D	ME	ass	-1	0	it's it's gonna be a little bit too unwieldy 
+IS1009c.B.dialog-act.dharshi.74	748.745	749.301	B	UI	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.89	749.36	756.66	A	PM	sug	-1	0	No i think say these are presentations but uh uh uh as far as a decision making week getting to that after after but if 
+IS1009c.D.dialog-act.dharshi.27	751.59	752.07	D	ME	bck	-1	0	Yeah 
+IS1009c.D.dialog-act.dharshi.28	752.07	752.31	D	ME	bck	-1	0	{vocalsound}
+IS1009c.D.dialog-act.dharshi.26	754.76	756.62	D	ME	ass	-1	0	I have to come back to that later okay 
+IS1009c.B.dialog-act.dharshi.76	755.64	755.93	B	UI	bck	-1	0	Yeah 
+IS1009c.A.dialog-act.dharshi.90	756.66	757.17	A	PM	stl	-1	0	but if i totally know whether 
+IS1009c.A.dialog-act.dharshi.91	757.17	763.2	A	PM	el.ass	-1	0	i totally know whether anybody had any uh any anything to add to uh for presentation 
+IS1009c.D.dialog-act.dharshi.29	762.54	766.69	D	ME	ass	+1	1	No i think a presentation was good and she really explored all the options yeah 
+IS1009c.A.dialog-act.dharshi.92	764.18	764.42	A	PM	bck	-1	0	My 
+IS1009c.A.dialog-act.dharshi.93	766.47	767.35	A	PM	bck	-1	0	Uh-huh how was the one 
+IS1009c.A.dialog-act.dharshi.94	767.35	769.47	A	PM	el.sug	-1	0	how was the one next to um 
+IS1009c.A.dialog-act.dharshi.95	770.63	771.41	A	PM	ass	-1	0	Mm okay and you 
+IS1009c.C.dialog-act.dharshi.10	770.14	770.7	C	ID	off	-1	0	Yeah okay 
+IS1009c.A.dialog-act.dharshi.96	771.41	772.267	A	PM	el.inf	-1	0	and you 
+IS1009c.C.dialog-act.dharshi.11	772.09	772.82	C	ID	inf	-1	0	Yes 
+IS1009c.D.dialog-act.dharshi.30	775.2	775.552	D	ME	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.97	777.11	777.78	A	PM	ass	-1	0	Uh okay 
+IS1009c.C.dialog-act.dharshi.12	778.3	780.1	C	ID	inf	-1	0	Uh the next one so it's 
+IS1009c.A.dialog-act.dharshi.98	779.59	780.01	A	PM	oth	-1	0	Oops 
+IS1009c.C.dialog-act.dharshi.13	780.1	781.22	C	ID	inf	-1	0	it's 
+IS1009c.A.dialog-act.dharshi.100	787.6	788.72	A	PM	oth	-1	0	Components design uh-huh 
+IS1009c.C.dialog-act.dharshi.14	787.59	788.21	C	ID	inf	-1	0	Come on 
+IS1009c.A.dialog-act.dharshi.101	788.72	789.96	A	PM	ass	-1	0	design uh-huh yeah okay 
+IS1009c.C.dialog-act.dharshi.15	796.98	807.15	C	ID	off	+1	1	Um this time um i'm going to um concentrate more on the components and the technical side of the remote control of design uh on 
+IS1009c.D.dialog-act.dharshi.31	803.33	803.94	D	ME	bck	-1	0	Uh-huh 
+IS1009c.C.dialog-act.dharshi.16	807.15	809.45	C	ID	sug	-1	0	uh on to the next slide 
+IS1009c.A.dialog-act.dharshi.102	808.35	808.54	A	PM	bck	-1	0	Uh-huh 
+IS1009c.C.dialog-act.dharshi.17	810.13	817.22	C	ID	inf	+1	1	I have just a belief uh don few of components which we've required for the remote control uh construction uh the first 
+IS1009c.D.dialog-act.dharshi.32	811.984	812.272	D	ME	fra	-1	0	{vocalsound}
+IS1009c.C.dialog-act.dharshi.18	817.22	823.78	C	ID	inf	+1	0	uh the first one is key is to keep all the components like integrated suck you would battery it's a fact that writes like 
+IS1009c.C.dialog-act.dharshi.19	823.78	824.296	C	ID	stl	-1	0	a fact that writes like Oh 
+IS1009c.C.dialog-act.dharshi.20	824.52	826.96	C	ID	inf	-1	0	Oh it can be a plastic quite hard 
+IS1009c.C.dialog-act.dharshi.21	826.96	829.74	C	ID	inf	-1	0	quite hard plastic so that it can be struck even 
+IS1009c.C.dialog-act.dharshi.22	829.74	835.49	C	ID	inf	-1	0	even if you just uh well you know if you if it falls down then it doesn't three so 
+IS1009c.C.dialog-act.dharshi.23	835.49	837.53	C	ID	inf	+1	1	three so it should be strong and uh um 
+IS1009c.A.dialog-act.dharshi.103	837.36	837.74	A	PM	bck	-1	0	Uh-huh 
+IS1009c.C.dialog-act.dharshi.24	837.53	841.99	C	ID	inf	-1	0	and uh um they are more harmful materials used in that and 
+IS1009c.C.dialog-act.dharshi.25	841.99	843.49	C	ID	inf	+1	0	that and it should be recycled but 
+IS1009c.A.dialog-act.dharshi.104	844.73	845.18	A	PM	bck	-1	0	Uh-huh 
+IS1009c.C.dialog-act.dharshi.26	845.23	846.75	C	ID	stl	-1	0	Ah and uh oh yeah 
+IS1009c.D.dialog-act.dharshi.33	845.72	846.54	D	ME	ass	-1	0	Uh-huh good point 
+IS1009c.C.dialog-act.dharshi.27	846.75	847.12	C	ID	ass	-1	0	oh yeah and also are 
+IS1009c.C.dialog-act.dharshi.28	847.12	850.03	C	ID	inf	-1	0	and also are using of cutting component components like uh if we want 
+IS1009c.C.dialog-act.dharshi.29	850.03	858.23	C	ID	inf	+1	1	like uh if we want to have different colours blue red green so uh uh we have to use a some kind of a call on the component components And 
+IS1009c.C.dialog-act.dharshi.30	858.84	864.44	C	ID	inf	+1	1	And uh the second important thing is that uh it uh integrated thank you um 
+IS1009c.D.dialog-act.dharshi.34	858.672	859.009	D	ME	fra	-1	0	{vocalsound}
+IS1009c.C.dialog-act.dharshi.31	864.44	870.57	C	ID	inf	+1	1	um the sure we can use a highly sophisticated one because it's like the it's like the heart of the remote control it if it is 
+IS1009c.C.dialog-act.dharshi.32	870.57	879.57	C	ID	sug	-1	0	control it if it is not the fish and then everything but it's going to be uh like a then if it's less efficient so it you should be should have a highly sophisticated one and it should 
+IS1009c.C.dialog-act.dharshi.33	879.57	883.48	C	ID	inf	-1	0	and it should be racist into high as well as a low temperatures suppose if 
+IS1009c.C.dialog-act.dharshi.34	883.48	895.79	C	ID	inf	-1	0	suppose if it is thirty degrees outside forty degrees outside it should it should it be able to address is the the temperature the the price and uh i can listen to it i just i know 
+IS1009c.C.dialog-act.dharshi.35	895.79	900.48	C	ID	sug	-1	0	just i know it should be a bit well um it could put it it's time uh and and i'm facility 
+IS1009c.C.dialog-act.dharshi.36	901.4	907.13	C	ID	inf	+1	1	And they all are the component we should all be have in the remote control or is that a sister of 
+IS1009c.C.dialog-act.dharshi.37	907.13	916.07	C	ID	inf	-1	0	of which is like uh it it is very very much important for the electricity uh fiddle to to to the remote controller and also a capacitator 
+IS1009c.C.dialog-act.dharshi.38	916.07	917.52	C	ID	inf	-1	0	and also a capacitator which isn't 
+IS1009c.C.dialog-act.dharshi.39	917.52	921.99	C	ID	inf	-1	0	which isn't it isn't i think it's it's like a battery capacity a 
+IS1009c.C.dialog-act.dharshi.40	921.99	923.6	C	ID	sug	-1	0	capacity a new go on to the next slide please 
+IS1009c.D.dialog-act.dharshi.35	922.16	922.43	D	ME	bck	-1	0	Uh-huh 
+IS1009c.A.dialog-act.dharshi.105	923.64	924.03	A	PM	bck	-1	0	Uh-huh 
+IS1009c.C.dialog-act.dharshi.41	926.05	930.19	C	ID	inf	-1	0	Well i do you want a transistor and resonator these are all this that 
+IS1009c.C.dialog-act.dharshi.42	930.19	936.92	C	ID	inf	-1	0	these are all this that technical uh in a two electronic components of components which at which we have to use in the remote control or a 
+IS1009c.C.dialog-act.dharshi.43	936.92	937.63	C	ID	inf	-1	0	or a battery uh i 
+IS1009c.C.dialog-act.dharshi.44	937.63	939.88	C	ID	off	-1	0	battery uh i would like to say just one thing uh 
+IS1009c.C.dialog-act.dharshi.45	939.88	941.09	C	ID	stl	-1	0	one thing uh if we Uh if 
+IS1009c.C.dialog-act.dharshi.46	941.62	950.16	C	ID	inf	+1	2	Uh if we will be able to me "'cause" least a rechargeable battery can be should be need not go for our high-performance battery even if it is a mobile 
+IS1009c.C.dialog-act.dharshi.47	950.16	954.34	C	ID	inf	-1	0	even if it is a mobile phones battery it quite can't you can't charge much it it it's not 
+IS1009c.D.dialog-act.dharshi.36	950.04	950.38	D	ME	bck	-1	0	Uh-huh 
+IS1009c.C.dialog-act.dharshi.48	954.34	956.28	C	ID	inf	-1	0	it it it's not that how you would expect you can also we can 
+IS1009c.C.dialog-act.dharshi.49	956.28	960.94	C	ID	inf	-1	0	you can also we can if it is a rechargeable one then people can use it for a long time so 
+IS1009c.C.dialog-act.dharshi.50	960.94	967.48	C	ID	inf	-1	0	it for a long time so in that way we can cut cut the cost but uh it yet that we have to me the battery as rechargeable one 
+IS1009c.C.dialog-act.dharshi.51	968.32	972.15	C	ID	inf	-1	0	And we we have a circuit board uh in a remote control to go to the 
+IS1009c.C.dialog-act.dharshi.52	972.15	974.46	C	ID	sug	-1	0	go to the next slide and how 
+IS1009c.C.dialog-act.dharshi.53	974.46	977.54	C	ID	inf	-1	0	and how it works how the remote controller works when you press 
+IS1009c.A.dialog-act.dharshi.106	984.52	984.89	A	PM	off	-1	0	Why 
+IS1009c.C.dialog-act.dharshi.54	986.39	987.14	C	ID	be.pos	-1	0	Well when you press a button 
+IS1009c.C.dialog-act.dharshi.55	987.14	992.05	C	ID	inf	-1	0	Well when you press a button when you do with that you complete a specific connection that means when you 
+IS1009c.C.dialog-act.dharshi.56	992.05	1001.07	C	ID	inf	-1	0	that means when you when you press a button that will be uh it's it's more it's a cute and that me the button and it will send some signals through the wires and then at the chip 
+IS1009c.D.dialog-act.dharshi.37	993.68	994.017	D	ME	fra	-1	0	{vocalsound}
+IS1009c.C.dialog-act.dharshi.57	1001.07	1006.04	C	ID	inf	-1	0	and then at the chip will sense that connection and most that data but it is pressed suppose you have pressed 
+IS1009c.C.dialog-act.dharshi.58	1006.04	1013.97	C	ID	inf	-1	0	suppose you have pressed channel one button number one you have placed than the old the chip but you know that the number one button was pressed it 
+IS1009c.D.dialog-act.dharshi.38	1013.296	1013.616	D	ME	fra	-1	0	{vocalsound}
+IS1009c.C.dialog-act.dharshi.59	1013.97	1017.7	C	ID	inf	-1	0	was pressed it was it produces a morse a morse code line signal specific to that button 
+IS1009c.C.dialog-act.dharshi.60	1018.28	1021.81	C	ID	inf	-1	0	Every button and the individual button has it's a one more school suppose 
+IS1009c.C.dialog-act.dharshi.61	1021.81	1031.51	C	ID	inf	-1	0	more school suppose that that well use it has pressed a button button one then it would have a spare the circuit will generate a specific morse code to put that back button and the transistor 
+IS1009c.C.dialog-act.dharshi.62	1031.51	1038.96	C	ID	inf	-1	0	and the transistor that amplify the signal and the l. e. d. which translates the signal into infrared light make 
+IS1009c.C.dialog-act.dharshi.63	1038.96	1042.47	C	ID	inf	-1	0	light make you have got a signal by pressing the button that's the 
+IS1009c.C.dialog-act.dharshi.64	1042.47	1046.34	C	ID	inf	-1	0	that's the that a morse code has been generated like they did it it's like you Now 
+IS1009c.C.dialog-act.dharshi.65	1046.9	1050.88	C	ID	inf	-1	0	you Now that signal that morse code has to be amplified but the transistor that 
+IS1009c.C.dialog-act.dharshi.66	1050.88	1054.49	C	ID	inf	-1	0	but the transistor that is the use of transistor transistor be which we use in the remote control it will amplify 
+IS1009c.C.dialog-act.dharshi.67	1054.49	1062.05	C	ID	inf	-1	0	control it will amplify the signal and it will send it to the e. d. and which translates the signal into an inset infrared that's that's inside and the t. v. 
+IS1009c.C.dialog-act.dharshi.68	1062.05	1069.14	C	ID	inf	-1	0	that's inside and the t. v. can see the infrared light and seeing the signal seen the signal three it reacts appropriately that we need c.s 
+IS1009c.C.dialog-act.dharshi.69	1069.14	1078.71	C	ID	inf	-1	0	that we need c.s that amplify that more morse code signal that it it up it will uh will know which what what actually it has to uh do then it 
+IS1009c.C.dialog-act.dharshi.70	1078.71	1081.0	C	ID	inf	-1	0	do then it will do the appropriate actions so uh this is how 
+IS1009c.C.dialog-act.dharshi.71	1081.0	1084.06	C	ID	inf	-1	0	uh this is how the remote controller works 
+IS1009c.B.dialog-act.dharshi.77	1083.82	1084.16	B	UI	bck	-1	0	Mm 
+IS1009c.C.dialog-act.dharshi.72	1086.08	1087.39	C	ID	sug	-1	0	Yeah thanks 
+IS1009c.C.dialog-act.dharshi.73	1088.18	1089.5	C	ID	inf	-1	0	Yeah i have few pictures when you look 
+IS1009c.C.dialog-act.dharshi.74	1089.5	1093.84	C	ID	fra	-1	0	when you look at the uh the old remote control it well it's it's it this 
+IS1009c.C.dialog-act.dharshi.75	1093.84	1096.02	C	ID	inf	+1	1	it's it's it this is a normal remote control that and and the next 
+IS1009c.C.dialog-act.dharshi.76	1096.02	1097.75	C	ID	sug	-1	0	and and the next one 
+IS1009c.D.dialog-act.dharshi.39	1095.56	1095.83	D	ME	bck	-1	0	Uh-huh 
+IS1009c.C.dialog-act.dharshi.77	1099.16	1101.76	C	ID	inf	-1	0	And they'll be hard to have a few buttons and not and uh 
+IS1009c.C.dialog-act.dharshi.78	1101.76	1107.81	C	ID	inf	-1	0	and not and uh if you open the remote control or you have this set you said keyboard and few electronic components like 
+IS1009c.D.dialog-act.dharshi.41	1106.15	1106.45	D	ME	bck	-1	0	Uh-huh 
+IS1009c.C.dialog-act.dharshi.79	1107.81	1112.06	C	ID	inf	+1	1	components like it you can see a chip there which is having a team games and also our capacity 
+IS1009c.A.dialog-act.dharshi.108	1110.14	1110.38	A	PM	bck	-1	0	Uh-huh 
+IS1009c.D.dialog-act.dharshi.40	1109.75	1110.1	D	ME	bck	-1	0	Yeah 
+IS1009c.C.dialog-act.dharshi.80	1112.06	1117.89	C	ID	inf	-1	0	and also our capacity of capacity or three or sisters and also would resonate it up 
+IS1009c.C.dialog-act.dharshi.81	1117.89	1120.75	C	ID	stl	-1	0	it up um mm yeah and that 
+IS1009c.C.dialog-act.dharshi.82	1120.75	1122.52	C	ID	inf	-1	0	yeah and that and the day or transistor 
+IS1009c.A.dialog-act.dharshi.107	1123.6	1123.84	A	PM	bck	-1	0	Uh-huh 
+IS1009c.C.dialog-act.dharshi.83	1124.1	1125.28	C	ID	stl	-1	0	The electronic components are all of that upon 
+IS1009c.C.dialog-act.dharshi.84	1125.28	1131.65	C	ID	inf	-1	0	are all of that upon the components have all those uh things that could chip but they would transistors 
+IS1009c.C.dialog-act.dharshi.85	1134.12	1135.51	C	ID	stl	-1	0	Yeah they um can you uh you can see 
+IS1009c.C.dialog-act.dharshi.86	1135.51	1141.56	C	ID	inf	+1	1	can you uh you can see the t. v. a. double one eight three five really believe that uh it cheap um 
+IS1009c.A.dialog-act.dharshi.109	1138.92	1140.15	A	PM	bck	-1	0	Uh-huh you see uh-huh 
+IS1009c.B.dialog-act.dharshi.78	1139.58	1140.05	B	UI	bck	-1	0	Yeah 
+IS1009c.A.dialog-act.dharshi.110	1140.15	1140.46	A	PM	bck	-1	0	see uh-huh 
+IS1009c.D.dialog-act.dharshi.42	1140.8	1141.09	D	ME	bck	-1	0	Yes 
+IS1009c.C.dialog-act.dharshi.87	1142.74	1149.4	C	ID	inf	+1	1	{vocalsound}
+IS1009c.B.dialog-act.dharshi.79	1149.28	1149.71	B	UI	bck	-1	0	Uh-huh 
+IS1009c.C.dialog-act.dharshi.88	1149.4	1152.4	C	ID	inf	-1	0	{vocalsound}
+IS1009c.C.dialog-act.dharshi.89	1152.4	1156.95	C	ID	inf	-1	0	{vocalsound}
+IS1009c.C.dialog-act.dharshi.90	1156.95	1159.81	C	ID	inf	-1	0	{vocalsound}
+IS1009c.C.dialog-act.dharshi.91	1159.81	1162.37	C	ID	inf	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.111	1161.97	1163.03	A	PM	bck	-1	0	Uh-huh uh-huh 
+IS1009c.C.dialog-act.dharshi.92	1162.37	1163.87	C	ID	sug	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.112	1163.03	1163.35	A	PM	bck	-1	0	uh-huh 
+IS1009c.C.dialog-act.dharshi.93	1164.98	1166.63	C	ID	inf	-1	0	So uh this is this the keyboard the green 
+IS1009c.C.dialog-act.dharshi.94	1166.63	1168.62	C	ID	inf	-1	0	keyboard the green one is a circuit board actually 
+IS1009c.C.dialog-act.dharshi.95	1168.62	1175.06	C	ID	inf	+1	1	actually uh building the circuit board board is pretty pretty easy and also it's uh it's an inexpensive uh it's it costs 
+IS1009c.C.dialog-act.dharshi.96	1175.06	1178.5	C	ID	inf	-1	0	uh it's it costs less than what you print of the people because i uh 
+IS1009c.C.dialog-act.dharshi.97	1178.5	1187.46	C	ID	inf	-1	0	because i uh well when you when you are building a some steak use some of those are cute and also wires it's it's better to go for printing because it you 
+IS1009c.C.dialog-act.dharshi.98	1187.46	1196.07	C	ID	inf	-1	0	because it you can build these kind of circuit boards on a on a buck and it's just printing nothing like oh you know you don't need to use why it's not it's not exactly 
+IS1009c.B.dialog-act.dharshi.80	1193.38	1193.76	B	UI	bck	-1	0	Uh-huh 
+IS1009c.C.dialog-act.dharshi.99	1196.07	1198.42	C	ID	inf	-1	0	it's not exactly wires we are using it's just printing 
+IS1009c.C.dialog-act.dharshi.100	1198.42	1201.32	C	ID	inf	-1	0	it's just printing something on a board that do those 
+IS1009c.D.dialog-act.dharshi.43	1198.657	1198.994	D	ME	fra	-1	0	{vocalsound}
+IS1009c.C.dialog-act.dharshi.101	1201.32	1205.31	C	ID	inf	-1	0	that do those prints would act act as a biased and so that's a keeps 
+IS1009c.C.dialog-act.dharshi.102	1206.71	1209.79	C	ID	inf	-1	0	So would that be in a row think it is is the keyboard and also 
+IS1009c.C.dialog-act.dharshi.103	1209.79	1215.08	C	ID	inf	-1	0	and also you can see uh there and it's like all of the axis four buttons make it then you press 
+IS1009c.C.dialog-act.dharshi.104	1215.08	1220.47	C	ID	inf	-1	0	make it then you press a button that's a cute and the the button will be activated it will 
+IS1009c.C.dialog-act.dharshi.105	1220.47	1221.03	C	ID	stl	-1	0	it will it will uh get 
+IS1009c.C.dialog-act.dharshi.106	1221.03	1229.29	C	ID	inf	-1	0	it will uh get some signals from it and it will uh it with chi it's just a send the signal signals to the be um integrated circuit next 
+IS1009c.B.dialog-act.dharshi.81	1224.56	1225.0	B	UI	bck	-1	0	Yeah 
+IS1009c.C.dialog-act.dharshi.107	1229.29	1230.67	C	ID	sug	-1	0	next 
+IS1009c.C.dialog-act.dharshi.108	1231.24	1232.11	C	ID	stl	-1	0	Uh so this is these are the sake you would 
+IS1009c.C.dialog-act.dharshi.109	1232.11	1235.28	C	ID	inf	-1	0	these are the sake you would sell and and they need the buttons uh can you see the 
+IS1009c.C.dialog-act.dharshi.110	1235.28	1237.81	C	ID	el.inf	-1	0	uh can you see the black are from mars they 
+IS1009c.A.dialog-act.dharshi.113	1237.53	1237.85	A	PM	inf	-1	0	Uh-huh 
+IS1009c.C.dialog-act.dharshi.111	1237.81	1239.04	C	ID	inf	-1	0	mars they they are so cute 
+IS1009c.D.dialog-act.dharshi.44	1237.83	1238.13	D	ME	inf	-1	0	Yes 
+IS1009c.C.dialog-act.dharshi.112	1239.98	1241.13	C	ID	sug	-1	0	And um 
+IS1009c.C.dialog-act.dharshi.113	1241.13	1250.76	C	ID	inf	-1	0	And um lake colby have a design but before we have seen some uh a few things like that instead of buttons we have some schools up 
+IS1009c.C.dialog-act.dharshi.114	1250.76	1260.04	C	ID	inf	+1	2	up but i have a push button requires a simple chip and the me that that we have the scroll wheel requires normally a regular chip which is a higher price range it for school pros 
+IS1009c.C.dialog-act.dharshi.115	1260.04	1266.66	C	ID	inf	+1	1	it for school pros we have to go for that sophisticated and all that you feel complete chip uh 
+IS1009c.D.dialog-act.dharshi.45	1259.97	1260.27	D	ME	bck	-1	0	Okay 
+IS1009c.B.dialog-act.dharshi.82	1263.62	1263.84	B	UI	bck	-1	0	Okay 
+IS1009c.C.dialog-act.dharshi.116	1266.66	1276.68	C	ID	inf	+1	1	uh and uh as energy source to be all for the basic battery um orange and use a hard dynamo um i kinda provision of energy more than 
+IS1009c.C.dialog-act.dharshi.117	1276.68	1282.3	C	ID	inf	-1	0	more than what is that you shake actually to provide energy so with that also we can have an uh back to be um or 
+IS1009c.C.dialog-act.dharshi.118	1282.3	1285.35	C	ID	inf	+1	1	um or they can use solar cells um 
+IS1009c.C.dialog-act.dharshi.119	1285.35	1285.81	C	ID	stl	-1	0	um 
+IS1009c.D.dialog-act.dharshi.46	1285.3	1286.54	D	ME	ass	-1	0	Uh that's interesting 
+IS1009c.C.dialog-act.dharshi.120	1287.33	1287.59	C	ID	ass	-1	0	Yeah 
+IS1009c.C.dialog-act.dharshi.121	1289.93	1293.58	C	ID	inf	-1	0	Oh yeah the product can be the uh delivered into different cases uh usually 
+IS1009c.C.dialog-act.dharshi.122	1293.58	1301.24	C	ID	inf	-1	0	uh usually the case is and card flats that of a v. c. usually uh uh or not my remote control it um 
+IS1009c.B.dialog-act.dharshi.83	1297.17	1297.47	B	UI	bck	-1	0	Yeah 
+IS1009c.C.dialog-act.dharshi.123	1301.24	1301.62	C	ID	stl	-1	0	um 
+IS1009c.A.dialog-act.dharshi.114	1302.84	1304.09	A	PM	stl	-1	0	Okay and you have more pictures 
+IS1009c.C.dialog-act.dharshi.124	1303.58	1303.93	C	ID	ass	-1	0	Yeah 
+IS1009c.A.dialog-act.dharshi.115	1304.09	1305.22	A	PM	el.inf	-1	0	and you have more pictures uh we have five minutes 
+IS1009c.A.dialog-act.dharshi.116	1305.22	1307.39	A	PM	inf	-1	0	uh we have five minutes to the end of the meeting 
+IS1009c.C.dialog-act.dharshi.125	1306.72	1310.79	C	ID	inf	-1	0	Yeah maybe i have just one more slide think um 
+IS1009c.C.dialog-act.dharshi.126	1312.14	1316.0	C	ID	inf	+1	1	Like we can have all made materials such as plastic rubber wood titanium but i can be kind 
+IS1009c.C.dialog-act.dharshi.127	1316.0	1318.05	C	ID	inf	-1	0	i can be kind to you um and also 
+IS1009c.C.dialog-act.dharshi.128	1318.05	1325.83	C	ID	inf	-1	0	um and also for the electronics we can use a simple and regular of it that at all an advanced chip on the print um 
+IS1009c.C.dialog-act.dharshi.129	1325.83	1329.75	C	ID	inf	-1	0	print um also in so it includes the infrared sender sender um 
+IS1009c.C.dialog-act.dharshi.130	1329.75	1335.92	C	ID	inf	-1	0	um yeah uh and for the movie just do the lab uh sample sensors be sample speaker 
+IS1009c.C.dialog-act.dharshi.131	1337.16	1338.3	C	ID	inf	-1	0	Yeah 
+IS1009c.C.dialog-act.dharshi.132	1339.22	1340.12	C	ID	inf	-1	0	So for now thank you 
+IS1009c.A.dialog-act.dharshi.117	1340.33	1340.6	A	PM	ass	-1	0	Okay well thank you 
+IS1009c.A.dialog-act.dharshi.118	1340.6	1341.13	A	PM	be.pos	-1	0	Okay well thank you 
+IS1009c.C.dialog-act.dharshi.133	1340.12	1340.42	C	ID	be.pos	-1	0	thank you 
+IS1009c.A.dialog-act.dharshi.119	1342.48	1345.77	A	PM	el.ass	-1	0	Any particular comments by anybody 
+IS1009c.D.dialog-act.dharshi.47	1346.48	1352.75	D	ME	el.inf	+1	1	Uh uh on the scroll-wheel pushbutton um can you can achieve scrolling by repeated be pushing a button 
+IS1009c.C.dialog-act.dharshi.134	1353.52	1355.97	C	ID	inf	+1	1	No no the the the the scrolling was a a different like 
+IS1009c.C.dialog-act.dharshi.135	1355.97	1363.26	C	ID	inf	+1	1	was a a different like you can go first switches like buttons or scrolls uh it which which we used to do before ten ten years before like you know nobody 
+IS1009c.D.dialog-act.dharshi.48	1359.27	1359.63	D	ME	bck	-1	0	Uh-huh 
+IS1009c.C.dialog-act.dharshi.136	1363.26	1367.83	C	ID	inf	+1	1	you know nobody uses it because you need you need a car sophisticated chip and also 
+IS1009c.D.dialog-act.dharshi.49	1366.02	1366.759	D	ME	fra	-1	0	{vocalsound}
+IS1009c.C.dialog-act.dharshi.137	1367.83	1371.72	C	ID	sug	+1	1	chip and also i think it's better be go for the ordinary buttons yeah 
+IS1009c.D.dialog-act.dharshi.50	1368.34	1368.52	D	ME	fra	-1	0	Mm 
+IS1009c.D.dialog-act.dharshi.51	1371.09	1372.37	D	ME	ass	-1	0	We discover push buttons for in the 
+IS1009c.C.dialog-act.dharshi.138	1371.72	1373.96	C	ID	ass	-1	0	yeah you have pushbuttons yeah yeah 
+IS1009c.B.dialog-act.dharshi.84	1372.41	1373.1	B	UI	bck	-1	0	Right 
+IS1009c.D.dialog-act.dharshi.52	1372.37	1374.42	D	ME	ass	-1	0	for in the interest of cost okay 
+IS1009c.C.dialog-act.dharshi.139	1373.96	1374.38	C	ID	ass	-1	0	yeah yeah 
+IS1009c.D.dialog-act.dharshi.53	1374.42	1374.69	D	ME	ass	-1	0	okay 
+IS1009c.A.dialog-act.dharshi.120	1374.98	1376.47	A	PM	inf	+1	0	We don't have a lot of time left and we will still 
+IS1009c.A.dialog-act.dharshi.121	1376.47	1378.1	A	PM	sug	+1	0	left and we will still have to make a decision and the marketing expert 
+IS1009c.A.dialog-act.dharshi.122	1378.1	1382.69	A	PM	sug	-1	0	and the marketing expert has to present for her of thing 
+IS1009c.D.dialog-act.dharshi.54	1378.816	1379.248	D	ME	fra	-1	0	{vocalsound}
+IS1009c.D.dialog-act.dharshi.55	1381.16	1381.88	D	ME	ass	-1	0	Okay in the 
+IS1009c.D.dialog-act.dharshi.56	1381.88	1383.48	D	ME	sug	-1	0	Okay in the right to lifers my next slide 
+IS1009c.A.dialog-act.dharshi.123	1383.83	1384.86	A	PM	off	-1	0	Uh okay 
+IS1009c.D.dialog-act.dharshi.57	1386.41	1395.91	D	ME	inf	+1	1	Um right mind that the that is uh i'm interested in what the competition is doing and wanna see how we can make our sauce different from the competition so 
+IS1009c.D.dialog-act.dharshi.58	1395.91	1402.22	D	ME	inf	-1	0	the competition so i i've really be um looking at the press and the ads that are out there for a remote control or "'s" eyes uh i'd 
+IS1009c.D.dialog-act.dharshi.59	1402.22	1407.93	D	ME	inf	-1	0	eyes uh i'd spend a lot of time on the internet um sitting around doing the same thing and 
+IS1009c.D.dialog-act.dharshi.60	1407.93	1416.6	D	ME	inf	-1	0	thing and then one out um people's houses or meetings or anything like that i try to notice what kind of remote controls people have and if it 
+IS1009c.D.dialog-act.dharshi.61	1416.6	1418.86	D	ME	inf	-1	0	and if it can be in conversation i ask about it now 
+IS1009c.D.dialog-act.dharshi.62	1418.86	1421.48	D	ME	sug	-1	0	i ask about it now and encourage you all to do the same um 
+IS1009c.D.dialog-act.dharshi.63	1421.48	1426.85	D	ME	inf	+1	1	um and my findings from this is the you know small is beautiful um 
+IS1009c.D.dialog-act.dharshi.64	1426.85	1430.16	D	ME	inf	-1	0	um people like something that really fits in your hand simple was beautiful 
+IS1009c.B.dialog-act.dharshi.85	1429.75	1430.06	B	UI	bck	-1	0	Yeah 
+IS1009c.D.dialog-act.dharshi.65	1430.16	1431.44	D	ME	inf	+1	1	simple was beautiful they don't want 
+IS1009c.D.dialog-act.dharshi.66	1431.44	1435.52	D	ME	inf	-1	0	they don't want to have to square it small print um you want buttons 
+IS1009c.D.dialog-act.dharshi.67	1435.52	1441.1	D	ME	inf	-1	0	you want buttons are used functions are obvious and they want um as few buttons as possible and they don't care 
+IS1009c.D.dialog-act.dharshi.68	1441.1	1443.55	D	ME	inf	-1	0	and they don't care for the mode thing they want 
+IS1009c.D.dialog-act.dharshi.69	1443.55	1445.58	D	ME	inf	-1	0	they want each button to do something uh eye-catching 
+IS1009c.D.dialog-act.dharshi.70	1445.58	1446.76	D	ME	inf	+1	1	uh eye-catching is important it's gotta 
+IS1009c.D.dialog-act.dharshi.71	1446.76	1449.23	D	ME	inf	-1	0	is important it's gotta look you it's gotta look appealing okay i don't think 
+IS1009c.D.dialog-act.dharshi.72	1449.23	1449.58	D	ME	sug	-1	0	okay i don't think 
+IS1009c.D.dialog-act.dharshi.73	1449.58	1451.45	D	ME	off	-1	0	okay i don't think that's that's we um 
+IS1009c.D.dialog-act.dharshi.74	1451.45	1457.82	D	ME	sug	-1	0	um and are preferences as far as i'm concerned are we gotta get to the market before the competition uh it 
+IS1009c.D.dialog-act.dharshi.75	1457.82	1462.5	D	ME	inf	-1	0	competition uh it has to be look really great and it has to come out before the others that we have a 
+IS1009c.D.dialog-act.dharshi.76	1462.5	1468.4	D	ME	inf	-1	0	others that we have a light up on time to sell it for should be for other people get out there christmas item and we 
+IS1009c.D.dialog-act.dharshi.77	1468.4	1473.54	D	ME	sug	-1	0	and we should develop one or two features we can really do well on an ad campaign if we try to 
+IS1009c.D.dialog-act.dharshi.78	1473.54	1480.32	D	ME	inf	-1	0	if we try to sell people are there's too many great feature is um the consumer just gets confused and we don't get anywhere so you've got a 
+IS1009c.D.dialog-act.dharshi.79	1480.32	1488.72	D	ME	sug	-1	0	so you've got a narrower selection down to one and two things i think that we're gonna say are really great about our our our new product and 
+IS1009c.D.dialog-act.dharshi.80	1488.72	1494.81	D	ME	inf	-1	0	and i've been looking around um at what designed every year different things are popular and in 
+IS1009c.D.dialog-act.dharshi.81	1494.81	1499.39	D	ME	inf	+1	1	and in my research this you have an update fruit and vegetables it's a really popular and you were tired 
+IS1009c.D.dialog-act.dharshi.82	1499.39	1503.24	D	ME	inf	-1	0	and you were tired of hard plastic and hard metal they're more 
+IS1009c.D.dialog-act.dharshi.83	1503.24	1509.82	D	ME	inf	+1	1	they're more back into saw feel spongy feeling things things with maybe a little cloth on um so 
+IS1009c.D.dialog-act.dharshi.84	1509.82	1514.7	D	ME	sug	-1	0	um so those are things we wanna look at is for is still ability of the item 
+IS1009c.B.dialog-act.dharshi.86	1514.93	1515.28	B	UI	bck	-1	0	Mm hmm 
+IS1009c.A.dialog-act.dharshi.124	1517.17	1518.2	A	PM	stl	-1	0	Okay um 
+IS1009c.D.dialog-act.dharshi.85	1517.088	1517.392	D	ME	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.125	1518.2	1524.85	A	PM	inf	-1	0	um mm that Concludes presentation of everyone And 
+IS1009c.A.dialog-act.dharshi.126	1524.85	1532.03	A	PM	sug	+1	1	And what we we have to see side in this meeting is um the concept of the remote 
+IS1009c.D.dialog-act.dharshi.86	1532.45	1532.84	D	ME	bck	-1	0	Uh-huh 
+IS1009c.A.dialog-act.dharshi.127	1533.62	1540.15	A	PM	el.sug	-1	0	And uh the So what do we think from a concept 
+IS1009c.D.dialog-act.dharshi.87	1540.368	1541.184	D	ME	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.128	1541.12	1541.94	A	PM	el.sug	-1	0	Of the remote 
+IS1009c.A.dialog-act.dharshi.129	1545.423	1545.867	A	PM	fra	-1	0	{vocalsound}
+IS1009c.D.dialog-act.dharshi.88	1545.19	1548.97	D	ME	sug	-1	0	You wanna try to come back to where is the mm the material and 
+IS1009c.A.dialog-act.dharshi.130	1547.99	1548.789	A	PM	fra	-1	0	Yeah 
+IS1009c.B.dialog-act.dharshi.87	1547.66	1548.2	B	UI	off	-1	0	Uh yeah so i would like to include 
+IS1009c.B.dialog-act.dharshi.88	1548.2	1551.84	B	UI	sug	+1	1	so i would like to include this feature which is call this voice recogniser 
+IS1009c.A.dialog-act.dharshi.131	1552.189	1554.917	A	PM	ass	-1	0	Oh okay uh-huh 
+IS1009c.D.dialog-act.dharshi.89	1552.21	1552.54	D	ME	ass	-1	0	Okay 
+IS1009c.C.dialog-act.dharshi.140	1554.5	1554.81	C	ID	bck	-1	0	Uh-huh 
+IS1009c.D.dialog-act.dharshi.90	1556.31	1559.45	D	ME	el.ass	-1	0	The speech recognition is most important as for sure sure 
+IS1009c.B.dialog-act.dharshi.89	1559.94	1562.54	B	UI	ass	+1	1	This could be uh one feature which could be sellable 
+IS1009c.C.dialog-act.dharshi.141	1559.51	1559.8	C	ID	fra	-1	0	Yeah 
+IS1009c.D.dialog-act.dharshi.91	1562.76	1565.29	D	ME	ass	-1	0	Yeah i like that could that could be a rest are feature that that won't be 
+IS1009c.A.dialog-act.dharshi.133	1563.7	1564.559	A	PM	fra	-1	0	I think that's 
+IS1009c.C.dialog-act.dharshi.142	1563.53	1563.74	C	ID	bck	-1	0	Yeah 
+IS1009c.D.dialog-act.dharshi.92	1565.29	1567.93	D	ME	ass	-1	0	that that won't be really good yeah i agree with that 
+IS1009c.A.dialog-act.dharshi.132	1566.99	1567.43	A	PM	bck	-1	0	Uh-huh 
+IS1009c.C.dialog-act.dharshi.143	1566.82	1572.87	C	ID	ass	+1	2	Yeah but but other than of a remote stop for the whole whole uh find it will work because 
+IS1009c.C.dialog-act.dharshi.144	1572.87	1578.09	C	ID	inf	+1	2	will work because the speech recogniser click it has it it's one of those issues Yeah it's not 
+IS1009c.D.dialog-act.dharshi.93	1577.14	1578.17	D	ME	el.inf	-1	0	This this problem 
+IS1009c.C.dialog-act.dharshi.145	1578.56	1581.96	C	ID	inf	-1	0	Yeah it's not distance problem it it's recognise single person's what it's like 
+IS1009c.B.dialog-act.dharshi.90	1580.06	1580.37	B	UI	bck	-1	0	Uh-huh 
+IS1009c.C.dialog-act.dharshi.146	1581.96	1584.57	C	ID	inf	-1	0	person's what it's like maybe different people will be having different voices so i 
+IS1009c.C.dialog-act.dharshi.147	1584.57	1587.44	C	ID	fra	-1	0	voices so i would like to have a close a new data 
+IS1009c.D.dialog-act.dharshi.94	1584.87	1585.27	D	ME	stl	-1	0	Yeah 
+IS1009c.A.dialog-act.dharshi.134	1586.54	1589.296	A	PM	ass	-1	0	Well you you teach you have to teach i i 
+IS1009c.C.dialog-act.dharshi.148	1588.75	1593.24	C	ID	inf	+1	2	To to get done could we could not recognising system that's the i think i say 
+IS1009c.D.dialog-act.dharshi.95	1589.648	1589.904	D	ME	fra	-1	0	{vocalsound}
+IS1009c.B.dialog-act.dharshi.91	1591.21	1592.7	B	UI	stl	-1	0	No it's it's a yeah it's it's 
+IS1009c.B.dialog-act.dharshi.92	1592.7	1600.58	B	UI	inf	+1	1	a yeah it's it's like you're recording oh well on uh um a question already and then you're expecting an answer from for example 
+IS1009c.B.dialog-act.dharshi.93	1600.58	1605.91	B	UI	inf	-1	0	from for example you have a t. v. system i'm the user and my family members that they use that i 
+IS1009c.C.dialog-act.dharshi.149	1603.38	1603.72	C	ID	bck	-1	0	Uh-huh 
+IS1009c.B.dialog-act.dharshi.94	1605.91	1610.79	B	UI	inf	-1	0	they use that i will already the cord up uh one question like uh good morning like around 
+IS1009c.C.dialog-act.dharshi.153	1607.27	1607.92	C	ID	fra	-1	0	Yeah but uh yeah 
+IS1009c.C.dialog-act.dharshi.154	1607.92	1608.14	C	ID	bck	-1	0	Yeah but uh yeah Uh-huh 
+IS1009c.C.dialog-act.dharshi.150	1608.9	1609.19	C	ID	bck	-1	0	Uh-huh 
+IS1009c.B.dialog-act.dharshi.95	1610.79	1614.38	B	UI	inf	-1	0	good morning like around eight o'clock on want to see the news in the television so i say it 
+IS1009c.C.dialog-act.dharshi.151	1613.06	1613.4	C	ID	bck	-1	0	Uh-huh 
+IS1009c.B.dialog-act.dharshi.96	1614.38	1617.56	B	UI	inf	-1	0	so i say it is good morning and that you switch on it to recognise 
+IS1009c.B.dialog-act.dharshi.97	1617.56	1620.29	B	UI	inf	-1	0	it to recognise my wise and the switch on 
+IS1009c.C.dialog-act.dharshi.152	1617.23	1617.66	C	ID	bck	-1	0	Uh-huh 
+IS1009c.C.dialog-act.dharshi.155	1619.41	1619.69	C	ID	bck	-1	0	Yeah 
+IS1009c.A.dialog-act.dharshi.135	1619.98	1622.67	A	PM	oth	-1	0	Okay before we get too far off here um the components 
+IS1009c.A.dialog-act.dharshi.136	1622.67	1626.07	A	PM	inf	-1	0	um the components of the concept is the energy what kind of energy 
+IS1009c.A.dialog-act.dharshi.137	1626.07	1628.97	A	PM	el.sug	+1	1	what kind of energy do we foresee 
+IS1009c.A.dialog-act.dharshi.138	1630.6	1631.75	A	PM	el.ass	-1	0	Battery battery 
+IS1009c.D.dialog-act.dharshi.96	1630.36	1631.93	D	ME	sug	+1	2	I think i think battery 
+IS1009c.A.dialog-act.dharshi.139	1631.75	1632.19	A	PM	ass	-1	0	battery 
+IS1009c.B.dialog-act.dharshi.98	1631.84	1632.03	B	UI	bck	-1	0	Actually 
+IS1009c.D.dialog-act.dharshi.97	1631.93	1633.63	D	ME	inf	+1	2	i think battery and i think we all agree on that that that's 
+IS1009c.B.dialog-act.dharshi.99	1633.76	1634.1	B	UI	bck	-1	0	Yeah 
+IS1009c.D.dialog-act.dharshi.98	1633.63	1636.59	D	ME	ass	+1	2	on that that that's that's gonna be most cost effective than the best thing 
+IS1009c.C.dialog-act.dharshi.156	1634.35	1635.15	C	ID	bck	-1	0	yeah 
+IS1009c.C.dialog-act.dharshi.157	1635.15	1635.56	C	ID	bck	-1	0	yeah 
+IS1009c.A.dialog-act.dharshi.140	1636.99	1639.26	A	PM	el.ass	-1	0	Okay then a chip on print 
+IS1009c.C.dialog-act.dharshi.158	1639.36	1639.77	C	ID	ass	-1	0	Yeah 
+IS1009c.D.dialog-act.dharshi.99	1639.78	1640.01	D	ME	ass	-1	0	Yeah 
+IS1009c.A.dialog-act.dharshi.141	1640.48	1641.76	A	PM	ass	-1	0	Okay and 
+IS1009c.B.dialog-act.dharshi.100	1640.0	1640.32	B	UI	ass	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.142	1641.76	1642.67	A	PM	inf	-1	0	and the case and i think 
+IS1009c.A.dialog-act.dharshi.143	1642.67	1644.42	A	PM	inf	-1	0	the case and i think we all agree on the case we wanna have 
+IS1009c.A.dialog-act.dharshi.144	1644.42	1647.56	A	PM	sug	-1	0	we wanna have something or uh or maybe bright colour fall 
+IS1009c.C.dialog-act.dharshi.159	1647.65	1648.1	C	ID	ass	-1	0	Yeah 
+IS1009c.D.dialog-act.dharshi.100	1648.16	1652.3	D	ME	ass	+1	2	Right colour for all trendy trendy design and strong 
+IS1009c.B.dialog-act.dharshi.101	1648.81	1649.7	B	UI	ass	-1	0	And a lot 
+IS1009c.C.dialog-act.dharshi.160	1649.14	1650.21	C	ID	ass	-1	0	And also strong I 
+IS1009c.B.dialog-act.dharshi.102	1651.19	1652.9	B	UI	ass	-1	0	And the design and compact 
+IS1009c.C.dialog-act.dharshi.161	1650.87	1652.05	C	ID	ass	-1	0	I see 
+IS1009c.A.dialog-act.dharshi.145	1653.08	1653.48	A	PM	bck	-1	0	Uh-huh 
+IS1009c.A.dialog-act.dharshi.146	1654.79	1657.39	A	PM	ass	+1	2	Then you design compact and strong 
+IS1009c.B.dialog-act.dharshi.103	1657.46	1657.93	B	UI	ass	-1	0	Yes 
+IS1009c.D.dialog-act.dharshi.101	1657.31	1657.79	D	ME	bck	-1	0	Uh-huh 
+IS1009c.A.dialog-act.dharshi.147	1660.28	1666.45	A	PM	el.sug	-1	0	User interface concept uh the interface type supplements 
+IS1009c.D.dialog-act.dharshi.102	1668.112	1668.432	D	ME	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.148	1669.6	1672.5	A	PM	ass	-1	0	L. p. you were area i think right yeah 
+IS1009c.C.dialog-act.dharshi.162	1670.1	1670.49	C	ID	stl	-1	0	Uh 
+IS1009c.C.dialog-act.dharshi.163	1674.28	1678.85	C	ID	el.inf	-1	0	Oh like switches like we use buttons for user interface 
+IS1009c.B.dialog-act.dharshi.104	1678.85	1679.54	B	UI	inf	-1	0	Pushbuttons 
+IS1009c.A.dialog-act.dharshi.149	1679.51	1681.86	A	PM	stl	-1	0	What uh i guess uh for yeah 
+IS1009c.C.dialog-act.dharshi.164	1679.92	1680.5	C	ID	ass	-1	0	Pushbuttons 
+IS1009c.A.dialog-act.dharshi.150	1681.86	1682.27	A	PM	ass	-1	0	for yeah 
+IS1009c.A.dialog-act.dharshi.151	1685.19	1686.355	A	PM	stl	-1	0	And 
+IS1009c.A.dialog-act.dharshi.152	1687.22	1689.21	A	PM	inf	+1	1	I'm not sure what they mean by supplements 
+IS1009c.B.dialog-act.dharshi.105	1687.91	1688.096	B	UI	fra	-1	0	And 
+IS1009c.C.dialog-act.dharshi.165	1689.26	1689.46	C	ID	bck	-1	0	Yeah 
+IS1009c.B.dialog-act.dharshi.106	1689.78	1696.57	B	UI	inf	-1	0	Someone is like different types of features buttons you can have a new but there were taught at the lower end of that and 
+IS1009c.D.dialog-act.dharshi.103	1689.456	1690.704	D	ME	fra	-1	0	Well i think 
+IS1009c.D.dialog-act.dharshi.104	1692.64	1692.94	D	ME	ass	-1	0	Yeah or 
+IS1009c.A.dialog-act.dharshi.153	1693.17	1693.829	A	PM	fra	-1	0	Oh like 
+IS1009c.D.dialog-act.dharshi.105	1692.94	1696.94	D	ME	inf	-1	0	Yeah or or like uh speech recognition would also be a supplement for her 
+IS1009c.A.dialog-act.dharshi.154	1694.98	1695.29	A	PM	ass	-1	0	Oh 
+IS1009c.A.dialog-act.dharshi.155	1697.01	1698.02	A	PM	und	-1	0	Oh what you're right right right uh-huh 
+IS1009c.D.dialog-act.dharshi.106	1696.94	1699.28	D	ME	inf	+1	1	be a supplement for her speech recognition feature would be a supplement 
+IS1009c.A.dialog-act.dharshi.156	1698.02	1699.23	A	PM	ass	-1	0	right right right uh-huh 
+IS1009c.B.dialog-act.dharshi.107	1698.39	1699.85	B	UI	ass	-1	0	It nicer yes 
+IS1009c.C.dialog-act.dharshi.166	1698.96	1699.37	C	ID	bck	-1	0	Yeah 
+IS1009c.D.dialog-act.dharshi.107	1700.12	1707.26	D	ME	sug	+1	2	Okay so why we put down speech recognition if possible paintings more research from our industrial engineer on how expensive that is 
+IS1009c.C.dialog-act.dharshi.167	1703.14	1703.26	C	ID	bck	-1	0	Mm 
+IS1009c.C.dialog-act.dharshi.168	1706.32	1707.23	C	ID	bck	-1	0	Yeah 
+IS1009c.A.dialog-act.dharshi.157	1707.41	1707.91	A	PM	ass	-1	0	Right 
+IS1009c.B.dialog-act.dharshi.108	1707.57	1707.98	B	UI	ass	-1	0	Yes 
+IS1009c.C.dialog-act.dharshi.169	1707.23	1707.44	C	ID	bck	-1	0	Yeah 
+IS1009c.A.dialog-act.dharshi.158	1711.6	1716.54	A	PM	inf	-1	0	Okay in other our next meeting will be in thirty minutes and 
+IS1009c.A.dialog-act.dharshi.159	1716.54	1722.2	A	PM	fra	-1	0	and it be are uh i. d. is to this is the individual 
+IS1009c.A.dialog-act.dharshi.160	1722.2	1725.28	A	PM	inf	-1	0	this is the individual actions to be taken up the led to have to look and 
+IS1009c.A.dialog-act.dharshi.161	1725.28	1726.85	A	PM	inf	-1	0	to have to look and feel design 
+IS1009c.A.dialog-act.dharshi.162	1728.71	1737.24	A	PM	inf	+1	2	And are uh to u. i. d. is supposed to uh come up with a user interface design 
+IS1009c.C.dialog-act.dharshi.170	1737.76	1738.11	C	ID	bck	-1	0	Uh-huh 
+IS1009c.A.dialog-act.dharshi.163	1738.47	1743.01	A	PM	inf	+1	2	And the marketing expert with a product evaluation in this phase 
+IS1009c.D.dialog-act.dharshi.108	1740.224	1740.547	D	ME	fra	-1	0	{vocalsound}
+IS1009c.D.dialog-act.dharshi.109	1742.36	1742.8	D	ME	bck	-1	0	Okay 
+IS1009c.A.dialog-act.dharshi.164	1743.01	1752.88	A	PM	inf	+1	2	in this phase the two of you yeah no and fancy in have to work together on a prototype using modelling clay it says here You 
+IS1009c.B.dialog-act.dharshi.109	1748.75	1749.26	B	UI	bck	-1	0	"'kay" 
+IS1009c.D.dialog-act.dharshi.110	1750.672	1750.985	D	ME	fra	-1	0	{vocalsound}
+IS1009c.D.dialog-act.dharshi.111	1751.815	1752.904	D	ME	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.165	1752.88	1758.09	A	PM	inf	+1	2	You will receive specific instructions will be sent to you by your coaches 
+IS1009c.B.dialog-act.dharshi.110	1752.736	1753.312	B	UI	fra	-1	0	{vocalsound}
+IS1009c.C.dialog-act.dharshi.171	1753.49	1753.58	C	ID	bck	-1	0	Mm 
+IS1009c.B.dialog-act.dharshi.111	1758.32	1758.88	B	UI	bck	-1	0	Okay 
+IS1009c.A.dialog-act.dharshi.166	1759.54	1771.424	A	PM	sug	-1	0	Are um if you have any questions you know you you can always uh contact me um or uh or you coach i suppose 
+IS1009c.B.dialog-act.dharshi.112	1769.248	1771.056	B	UI	fra	-1	0	{vocalsound}
+IS1009c.D.dialog-act.dharshi.112	1769.123	1771.89	D	ME	be.pos	-1	0	Where are they hiding 
+IS1009c.C.dialog-act.dharshi.172	1770.032	1771.44	C	ID	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.167	1771.424	1773.248	A	PM	fra	-1	0	Uh then 
+IS1009c.B.dialog-act.dharshi.113	1772.592	1774.08	B	UI	fra	-1	0	{vocalsound}
+IS1009c.A.dialog-act.dharshi.168	1773.27	1775.6	A	PM	stl	-1	0	Uh then this so um i think 
+IS1009c.A.dialog-act.dharshi.169	1775.6	1777.56	A	PM	inf	-1	0	um i think we can put a meeting here and we 
+IS1009c.A.dialog-act.dharshi.170	1777.56	1783.98	A	PM	inf	-1	0	here and we come back in the uh write us thirty minutes according to our timetable here 
+IS1009c.B.dialog-act.dharshi.114	1781.41	1781.77	B	UI	bck	-1	0	Okay 
+IS1009c.C.dialog-act.dharshi.173	1781.33	1781.58	C	ID	bck	-1	0	Yeah 
+IS1009c.A.dialog-act.dharshi.171	1787.52	1788.32	A	PM	be.pos	-1	0	Thank you very much 
+IS1009c.B.dialog-act.dharshi.115	1788.37	1788.85	B	UI	be.pos	-1	0	Thank you 
+IS1009c.C.dialog-act.dharshi.174	1788.31	1789.19	C	ID	be.pos	-1	0	Thank you 

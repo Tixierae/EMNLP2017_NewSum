@@ -1,0 +1,8 @@
+Two research teams one from the US and the other from Germany meet to discuss SmartKom a multi modal tourist information system.
+A German version of the tool has already been developed and the objective is to collaborate to develop an English version.
+The researchers discuss whether to develop the English parser from scratch or to adopt the style used for ther German parser.
+They make an appointment to meet later in the week to discuss their progress.
+The goal of the system is being presented as to provide directions to toourists based not only on their destination but also on their intentions eg taking a picture or bying souvenirs.
+The researchers discuss various design issues e g how the components of the system should interact and whether the approach to the English system needs to be fundamentally different from that of ther German.
+Improvements for the German version such as adding a syntactic analysis are also discussed.
+Concluding the dialogue a researcher from the US team recommends that the German team hear a forthcoming talk on using deep semantics in applications.

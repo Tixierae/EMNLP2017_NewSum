@@ -1,0 +1,14 @@
+In the first part of the Berkeley Meeting Recorder group meeting members discuss a potential collaboration with an external researcher on inference structures in dialogue.
+In the second part speaker mn005 presents his work on detecting overlap of acoustic events the implications of which are discussed by the group.
+Finally the members discuss the current data status and plans for further data collection as well as techniques to improve speech recognition such as speaker adaptation and echo cancellation.
+Acoustic information such as prosody and voice directionality should be used to supplement lexical information.
+In order to save time only speaker overlaps should be marked in the future.
+There are plans to collect further meeting data both from internal and external sources and the aim is to collect over a hundred hours worth of speech.
+It is much more difficult to infer information from face to face meetings than from narrative.
+Frequent use of pronouns also adds difficulty.
+Identifying individuals in publications might lead to slander charges.
+There are discrepancies between speech signals recorded on individual microphones and the PZM.
+Detecting overlap of all acoustic events is very time consuming.
+Three hundred overlapping acoustic events have been found in forty five minutes of speech.
+Speaker me011 has written a bootstrapping program.
+About twelve hours of meetings have already been recorded.

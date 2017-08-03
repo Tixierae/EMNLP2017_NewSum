@@ -1,0 +1,33 @@
+A test run of the data collection design was very successful.
+The group decided to hire the wizard and continue with the refinement of the design and recruitment of subjects.
+On the other hand there was a presentation of a new version of the belief net for the Vista Enter Tango mode task.
+It is not a working net yet but identifying clusters of features that define the output mode provides a visual aid for further work.
+There are potential problems from a combinatorics perspective.
+These can be tackled either with technical adjustments or through careful knowledge engineering.
+A base solution for the task would be to simply add some extra action mode rules in the SmartKom system.
+Action modes however can be inferred more efficiently by feeding a collection of features from the ontology discourse history parsing etc into Bayes nets that would replace those rules.
+Ideally the results of this small task will give insights into the function of linguistic deep understanding.
+For instance the final combination of features used in the current study may form a representation of the ontology general enough to employ in any task that includes trajectors and paths.
+Although the data collection test went well and it was decided to hire the wizard there are minor amendments in the procedure to be carried out shortenting the preparatory reading numbering tasks etc.
+A presentation of the data collection design should be included in the forthcoming meeting with other research groups along with some account of the system design and the use of belief nets.
+The structure of the latter was a major issue during the meeting.
+Their input vector is to be provided by information extracted from the various modules of the system such as the ontology and discourse history using standard rule based methods.
+The output action essentially provides additional semantic parameters for the X schema and in turn may trigger the collection of more features from the data.
+The feature extraction could be carried out by a software tool checking object feature trees and filling them with appropriate values.
+For this concept to be put to work further refinement of the belief net variables is necessary with particular attention on the combinatorics involved.
+After the trial run of the experiment some minor issues like the length of the preliminary reading and the need to order the tasks given to the subjects were highlighted.
+It is also possible that the pool of subjects ends up comprising almost entirely of students more variation in the sample is needed.
+From a system design perspective the progress so far has shown that the combinatorics of the Bayes net even for a simple task like the choice of Vista Enter Tango mode could render it unmanageable.
+The belief net presented in the meeting is not a working Bayes net.
+Consequently it is as yet unclear what the decision nodes in the net are and what values these can take.
+Even if those were decided how to extract the necessary information from the data would still be an open issue.
+Looking at the bigger picture the current task is yet to provide insights into more general ways to achieve linguistic deep understanding.
+With these intricacies in mind it is not easy to put together a presentation of the project cohesive and attractive enough for the other research groups in the institute.
+The first trial run of the experiments was very successful.
+After reading some information on a city the subject acting as a tourist has to ask for information over a phoneline in order to carry out certain tasks.
+A wizard on the other side of the line pretends to be a computer system for half of the duration.
+For the second half the subject is aware of communicating with another human.
+In parallel to the data collection there was further work on the belief net for the inferences currently studied.
+The features determining the output mode Vista Enter or Tango of the belief net have been grouped in categories Trajector Landmark Source Path Goal Parse Prosody World knowledge Discourse and Context.
+Every particular feature like time of day being in a hurry business or tourism etc will fit into on these categories.
+Although the presented net is not a working Bayes net yet it serves as a visual aid and stepping stone for the work to follow.

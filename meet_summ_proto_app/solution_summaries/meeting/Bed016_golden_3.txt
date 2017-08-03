@@ -1,0 +1,22 @@
+The meeting was taken up by discussion about a thesis proposal and a talk about to take place at EML.
+The latter will present the work that is currently being done at ICSI including examples of inference of user intentions and of the recordings of the on going data collection.
+The talk will also outline the theoretical X schemas image schemas Bayes nets and neural background.
+The thesis proposal on the other hand presents the idea of construal and makes claims as to how inferences are drawn in a probabilistic relational model by using information from the ontology situation user and discourse models.
+It was advised that more emphasis should be put on the role of construal in the understanding of metaphor and metonymy.
+Base constructions deal with the norm while further general domain mechanisms determine how the constructions are invoked depending on the context.
+Several potential examples of polysemy were discussed in detail walk run into on the bus out of film where is X.
+However none of them was an example of lexical polysemy resolved by construal straightforward enough to include in the proposal the tourist domain is not metaphor rich.
+As the talk at EML will also refer to a theoretical framework it was suggested that along with presenting NTL and the piece on mirror neurons it also alludes to relevant fMRI work.
+The neural side of the research could be of interest to various groups.
+The language analysis itself will be introduced in terms of image schemas.
+On the other hand it was arranged for more feedback on the thesis proposal to be sent by email.
+The latest version of the construction formalism will also be needed to complete the presentation.
+It was noted that the thesis proposal did not put any emphasis on metaphor or on the scalability achieved by combining constructions with general construal mechanisms constructions cover base cases while metaphoric and metonymic cases are resolved with the extra help provided by construal.
+During this discussion however the suggested examples of polysemy which is tackled by the proposed framework were not straightforward enough.
+It was agreed that metaphors are not abundant in the spatial domain.
+Some of the candidates discussed were phrases like on the bus out of film non spatial uses of where or other fixed expressions.
+The thesis proposal focuses on how construal works in the tourist domain.
+One can build a probabilistic relational model with domain general rules that define how ontology situation user and discourse models combine to infer intentions.
+The talk for EML includes a presentation of the motivation behind the project as well as the work already done on SmartKom parser generator synthesis.
+Furthermore the data collection currently taking place and some preliminary observations are going to be outlined.
+All this is going to be given from the perspective of the general theoretical framework NTL with further explanations on X schemas and also the embodied simulation approach.

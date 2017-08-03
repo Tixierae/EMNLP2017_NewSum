@@ -1,0 +1,746 @@
+TS3003b.A.dialog-act.vkaraisk.1	57.11	57.51	A	PM	stl	-1	0	Okay everybody 
+TS3003b.A.dialog-act.vkaraisk.2	57.51	61.24	A	PM	el.inf	-1	0	Okay everybody if i misplaced again that that's nice 
+TS3003b.D.dialog-act.vkaraisk.1	60.55	60.96	D	ME	inf	-1	0	It's 
+TS3003b.A.dialog-act.vkaraisk.3	61.24	63.7	A	PM	be.pos	-1	0	that's nice Okay 
+TS3003b.A.dialog-act.vkaraisk.4	63.7	64.89	A	PM	stl	-1	0	Okay so there's 
+TS3003b.A.dialog-act.vkaraisk.5	64.89	67.77	A	PM	inf	-1	0	so there's a second meeting And 
+TS3003b.A.dialog-act.vkaraisk.6	67.77	69.58	A	PM	stl	-1	0	And uh huh still failing 
+TS3003b.A.dialog-act.vkaraisk.7	69.58	71.139	A	PM	el.inf	-1	0	still failing 
+TS3003b.D.dialog-act.vkaraisk.2	71.8	72.11	D	ME	inf	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.8	72.76	77.26	A	PM	inf	+1	1	And now we're going uh um into the functional design Um 
+TS3003b.A.dialog-act.vkaraisk.9	77.26	97.19	A	PM	ass	-1	0	Um important thing of this phase is that we're going to uh try to get uh agreement about the user requirements technical function design and the working design So that we can move on to the second then faced the first this phase 
+TS3003b.A.dialog-act.vkaraisk.10	97.19	99.59	A	PM	sug	-1	0	the first this phase Um 
+TS3003b.A.dialog-act.vkaraisk.11	99.59	102.73	A	PM	off	-1	0	Um first announcement there's 
+TS3003b.A.dialog-act.vkaraisk.12	102.73	107.05	A	PM	inf	-1	0	there's uh no adaptation in the air conditioning system so 
+TS3003b.A.dialog-act.vkaraisk.13	107.05	107.776	A	PM	stl	-1	0	so 
+TS3003b.D.dialog-act.vkaraisk.3	108.597	109.54	D	ME	fra	-1	0	{vocalsound}
+TS3003b.A.dialog-act.vkaraisk.14	109.14	112.88	A	PM	inf	-1	0	Mm there's or i closed mouse again but 
+TS3003b.A.dialog-act.vkaraisk.15	112.88	118.35	A	PM	inf	-1	0	but that means that you can have uh a little trouble of little trouble with the air conditioning that's because of 
+TS3003b.A.dialog-act.vkaraisk.16	118.35	120.184	A	PM	fra	-1	0	that's because of this uh huh 
+TS3003b.B.dialog-act.vkaraisk.1	120.38	120.74	B	UI	und	-1	0	Okay 
+TS3003b.A.dialog-act.vkaraisk.17	121.57	123.39	A	PM	inf	-1	0	It's an wing see any so it 
+TS3003b.D.dialog-act.vkaraisk.4	121.11	121.48	D	ME	und	-1	0	Okay 
+TS3003b.A.dialog-act.vkaraisk.18	123.39	123.81	A	PM	stl	-1	0	so it 
+TS3003b.A.dialog-act.vkaraisk.19	123.81	128.53	A	PM	inf	-1	0	so it should be over in uh in a while couple of days It's going to 
+TS3003b.A.dialog-act.vkaraisk.20	128.53	129.9	A	PM	inf	-1	0	It's going to be called anyway so 
+TS3003b.A.dialog-act.vkaraisk.21	129.9	134.39	A	PM	inf	-1	0	be called anyway so I don't think you gonna need Then our agenda 
+TS3003b.B.dialog-act.vkaraisk.2	129.959	131.649	B	UI	fra	-1	0	{vocalsound}
+TS3003b.D.dialog-act.vkaraisk.5	132.84	133.18	D	ME	ass	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.22	134.39	135.84	A	PM	inf	+1	1	Then our agenda that 
+TS3003b.A.dialog-act.vkaraisk.23	135.84	136.04	A	PM	stl	-1	0	that first the opening 
+TS3003b.A.dialog-act.vkaraisk.24	136.04	137.47	A	PM	inf	+1	1	first the opening uh just um 
+TS3003b.A.dialog-act.vkaraisk.25	137.47	139.11	A	PM	off	+1	1	uh just um i'll take the minutes 
+TS3003b.A.dialog-act.vkaraisk.26	140.36	145.02	A	PM	inf	+1	1	Uh you're going to have a presentation all of you um 
+TS3003b.A.dialog-act.vkaraisk.27	145.02	153.65	A	PM	inf	+1	1	um and we've got forty minutes for the whole um press for the whole uh presentations so 
+TS3003b.A.dialog-act.vkaraisk.28	153.65	157.69	A	PM	sug	+1	1	so i i suggest we'd take about seven minutes per presentation and 
+TS3003b.A.dialog-act.vkaraisk.29	157.69	162.23	A	PM	inf	+1	1	and then we can have a little discussion about the new project requirements uh we should be sent 
+TS3003b.A.dialog-act.vkaraisk.30	162.23	163.54	A	PM	inf	-1	0	uh we should be sent to me 
+TS3003b.A.dialog-act.vkaraisk.31	164.39	172.91	A	PM	inf	+1	1	And then the decision on the control functions um which you wanna include and those which we don't wanna include that 
+TS3003b.A.dialog-act.vkaraisk.32	172.91	173.01	A	PM	stl	-1	0	that got forty minutes for 
+TS3003b.A.dialog-act.vkaraisk.33	173.01	175.11	A	PM	inf	-1	0	got forty minutes for all of it so i suggest um 
+TS3003b.A.dialog-act.vkaraisk.34	175.11	175.41	A	PM	stl	-1	0	so i suggest um 
+TS3003b.A.dialog-act.vkaraisk.35	175.41	179.47	A	PM	sug	-1	0	so i suggest um let's start with the first presentation Um 
+TS3003b.D.dialog-act.vkaraisk.6	178.78	179.07	D	ME	ass	-1	0	Yes 
+TS3003b.A.dialog-act.vkaraisk.36	179.47	181.34	A	PM	el.sug	-1	0	Um who wants to be first 
+TS3003b.D.dialog-act.vkaraisk.7	182.76	183.55	D	ME	off	-1	0	I think i'll go first 
+TS3003b.A.dialog-act.vkaraisk.37	183.74	185.62	A	PM	ass	-1	0	Okay So 
+TS3003b.A.dialog-act.vkaraisk.38	185.62	186.215	A	PM	stl	-1	0	So 
+TS3003b.D.dialog-act.vkaraisk.8	185.758	186.566	D	ME	fra	-1	0	{vocalsound}
+TS3003b.A.dialog-act.vkaraisk.39	187.94	190.47	A	PM	fra	-1	0	It's maybe it's easy if you um yeah i 
+TS3003b.A.dialog-act.vkaraisk.40	190.47	190.91	A	PM	stl	-1	0	yeah i 
+TS3003b.A.dialog-act.vkaraisk.41	190.91	194.6	A	PM	sug	-1	0	yeah i think you will tell me your presentations well it's which function you have an 
+TS3003b.A.dialog-act.vkaraisk.42	194.6	199.775	A	PM	sug	-1	0	you have an We're gonna talk about 
+TS3003b.D.dialog-act.vkaraisk.9	206.59	206.85	D	ME	ass	-1	0	Okay my name 
+TS3003b.D.dialog-act.vkaraisk.10	206.85	208.13	D	ME	inf	+1	1	Okay my name is fake from phone and the market expert 
+TS3003b.D.dialog-act.vkaraisk.11	208.13	209.65	D	ME	inf	+1	1	and the market expert you 
+TS3003b.D.dialog-act.vkaraisk.12	209.65	210.91	D	ME	inf	-1	0	you already knew that 
+TS3003b.D.dialog-act.vkaraisk.13	212.1	214.26	D	ME	inf	-1	0	Um i've done some research we have we 
+TS3003b.D.dialog-act.vkaraisk.14	214.26	217.58	D	ME	inf	+1	1	we have we uh the new research in a usability lab we we observed 
+TS3003b.D.dialog-act.vkaraisk.15	217.58	223.02	D	ME	inf	+1	1	lab we we observed um users' operating remote controls uh without them fill 
+TS3003b.D.dialog-act.vkaraisk.16	223.02	225.56	D	ME	inf	+1	1	uh without them fill out a questionnaire we had 
+TS3003b.D.dialog-act.vkaraisk.17	225.56	228.22	D	ME	inf	-1	0	we had one hundred of these uh test subjects 
+TS3003b.D.dialog-act.vkaraisk.18	229.36	236.64	D	ME	inf	+1	1	Uh in addition we did some market research uh see what the market consists of what ages are involved 
+TS3003b.D.dialog-act.vkaraisk.19	238.9	239.13	D	ME	stl	-1	0	Well these are three 
+TS3003b.D.dialog-act.vkaraisk.21	239.13	244.6	D	ME	ass	+1	1	these are three quite as punishing results i thought um remote 
+TS3003b.D.dialog-act.vkaraisk.22	244.6	247.53	D	ME	inf	-1	0	um remote and being considered only for uh seventy 
+TS3003b.D.dialog-act.vkaraisk.23	247.53	247.84	D	ME	fra	-1	0	for uh seventy 
+TS3003b.D.dialog-act.vkaraisk.24	247.84	256.33	D	ME	inf	+1	1	for uh seventy five percent of the um People question of uh indicated that they thought their remote where was ugly um and 
+TS3003b.D.dialog-act.vkaraisk.25	256.33	262.85	D	ME	inf	+1	1	um and an additional eighty percent indicated that would spend more money on a fancy looking remote control so 
+TS3003b.D.dialog-act.vkaraisk.26	262.85	263.361	D	ME	stl	-1	0	control so 
+TS3003b.D.dialog-act.vkaraisk.27	264.67	267.33	D	ME	inf	+1	1	Um in addition remote we're not very functional fifty percent of 
+TS3003b.D.dialog-act.vkaraisk.28	267.33	273.32	D	ME	inf	+1	1	fifty percent of the people indicated they only use about ten percent of the buttons on the remote control 
+TS3003b.D.dialog-act.vkaraisk.29	275.08	279.39	D	ME	inf	+1	1	And fifty percent of the people indicated that the remote tend to get lost in the room 
+TS3003b.D.dialog-act.vkaraisk.30	280.47	280.8	D	ME	stl	-1	0	So 
+TS3003b.B.dialog-act.vkaraisk.3	281.83	282.08	B	UI	bck	-1	0	Mm 
+TS3003b.D.dialog-act.vkaraisk.31	282.33	283.07	D	ME	oth	-1	0	Some things 
+TS3003b.D.dialog-act.vkaraisk.32	285.34	288.94	D	ME	inf	+1	1	Then we did some research to the most relevant functions channel 
+TS3003b.D.dialog-act.vkaraisk.33	288.94	296.65	D	ME	inf	+1	1	channel selection and volume selection um but gotta turn on a scale of one to ten for relevancy the power 
+TS3003b.D.dialog-act.vkaraisk.34	296.65	298.67	D	ME	inf	+1	1	the power button got online and teletext 
+TS3003b.D.dialog-act.vkaraisk.35	298.67	301.17	D	ME	inf	+1	1	and teletext got uh a six and a half so these are the most 
+TS3003b.D.dialog-act.vkaraisk.36	301.17	307.0	D	ME	inf	-1	0	so these are the most Most um important functions on a remote control then there are some one time 
+TS3003b.D.dialog-act.vkaraisk.37	307.0	309.28	D	ME	inf	+1	1	there are some one time use function that's what i like to call 
+TS3003b.D.dialog-act.vkaraisk.38	309.28	310.87	D	ME	inf	-1	0	that's what i like to call them that 
+TS3003b.D.dialog-act.vkaraisk.39	310.87	315.5	D	ME	inf	+1	1	them that um audio settings video settings and channel settings buttons which are not really 
+TS3003b.D.dialog-act.vkaraisk.40	315.5	318.62	D	ME	inf	+1	1	which are not really used very frequently but i 
+TS3003b.D.dialog-act.vkaraisk.41	318.62	320.74	D	ME	inf	+1	1	but i still consider to be of some important 
+TS3003b.D.dialog-act.vkaraisk.42	322.1	329.43	D	ME	inf	+1	1	Um channel selection was also indicated to be we used very frequently one hundred and sixty eight times per hour 
+TS3003b.D.dialog-act.vkaraisk.43	332.14	333.38	D	ME	fra	-1	0	And these are the this is the market 
+TS3003b.D.dialog-act.vkaraisk.44	333.38	335.02	D	ME	inf	-1	0	this is the market um 
+TS3003b.D.dialog-act.vkaraisk.45	335.02	341.15	D	ME	inf	+1	1	um sixty percent of the market consists of users between the ages sixteen and forty six 
+TS3003b.D.dialog-act.vkaraisk.46	342.13	348.74	D	ME	inf	-1	0	Um Main characteristic of this group is that they're very critical on the remote control um 
+TS3003b.D.dialog-act.vkaraisk.47	348.74	352.85	D	ME	inf	-1	0	um they like to use new from new functions but 
+TS3003b.D.dialog-act.vkaraisk.48	352.85	354.38	D	ME	inf	-1	0	but they also are very critical they won't spend the money 
+TS3003b.D.dialog-act.vkaraisk.49	354.38	356.37	D	ME	inf	-1	0	they won't spend the money very easily so 
+TS3003b.D.dialog-act.vkaraisk.50	356.37	358.63	D	ME	stl	-1	0	so Um the users 
+TS3003b.D.dialog-act.vkaraisk.51	358.63	364.23	D	ME	inf	+1	1	the users of forty six to sixty five years can say they make up forty percent of the market 
+TS3003b.D.dialog-act.vkaraisk.52	365.24	367.31	D	ME	inf	+1	1	They're not really very interested in features but they do tend 
+TS3003b.D.dialog-act.vkaraisk.53	367.31	369.97	D	ME	inf	+1	1	but they do tend to spend the money a lot easier 
+TS3003b.D.dialog-act.vkaraisk.54	375.35	383.36	D	ME	sug	+1	1	Well i think this in the case for um Design i think we should make a remote for the future and this means 
+TS3003b.D.dialog-act.vkaraisk.55	383.36	389.84	D	ME	sug	+1	1	and this means we would Um have to focus on the age ages sixteen to forty five 
+TS3003b.D.dialog-act.vkaraisk.56	390.82	394.16	D	ME	inf	-1	0	Uh this also makes up most of the biggest part of the market so i 
+TS3003b.D.dialog-act.vkaraisk.57	394.16	399.38	D	ME	inf	-1	0	so i will also be were remain profit would be Campbell 
+TS3003b.D.dialog-act.vkaraisk.58	400.47	403.42	D	ME	sug	+1	1	Um this would be we would have to make a fancy design 
+TS3003b.D.dialog-act.vkaraisk.59	404.85	416.14	D	ME	inf	+1	1	Um The results also indicated that um about one corner of the people questioned thought that uh remote control "'cause" there's r. s. i. 
+TS3003b.D.dialog-act.vkaraisk.60	417.57	422.17	D	ME	sug	-1	0	Um this certainly it's something to take into account and thirty four percent 
+TS3003b.D.dialog-act.vkaraisk.61	422.17	429.21	D	ME	inf	+1	1	and thirty four percent thought that it was hard to learn how to operate a new control remote control so these are two factors 
+TS3003b.D.dialog-act.vkaraisk.62	429.21	433.79	D	ME	sug	-1	0	so these are two factors that i think should be included in the design the size 
+TS3003b.D.dialog-act.vkaraisk.63	433.79	436.72	D	ME	sug	-1	0	the size of course uh the remote must look very nice 
+TS3003b.D.dialog-act.vkaraisk.64	438.07	444.07	D	ME	inf	-1	0	Um functionality As a lot of people indicated they only use about ten percent of the buttons i think we should 
+TS3003b.D.dialog-act.vkaraisk.65	444.07	447.27	D	ME	sug	+1	1	i think we should make very few buttons and this will also 
+TS3003b.D.dialog-act.vkaraisk.66	447.27	451.75	D	ME	ass	-1	0	and this will also be uh beneficial to the design of the remote 
+TS3003b.D.dialog-act.vkaraisk.67	453.27	461.62	D	ME	sug	+1	1	Uh i think be most frequently used buttons should be emphasized especially the channel selection and audio uh selection buttons "'cause" they're 
+TS3003b.D.dialog-act.vkaraisk.68	461.62	462.79	D	ME	inf	-1	0	"'cause" they're used most and 
+TS3003b.D.dialog-act.vkaraisk.69	462.79	465.39	D	ME	sug	-1	0	used most and so we should be robust we shouldn't 
+TS3003b.D.dialog-act.vkaraisk.70	465.39	466.95	D	ME	sug	-1	0	we shouldn't breakdown easily 
+TS3003b.D.dialog-act.vkaraisk.71	469.16	477.95	D	ME	inf	-1	0	Um Then as know it as a lot of people indicated that there are um remote got lost in the room it 
+TS3003b.D.dialog-act.vkaraisk.74	477.95	478.51	D	ME	fra	-1	0	lost in the room it might be 
+TS3003b.D.dialog-act.vkaraisk.75	479.62	480.53	D	ME	inf	-1	0	And i say it might be because it 
+TS3003b.D.dialog-act.vkaraisk.72	480.53	486.78	D	ME	ass	-1	0	it might be because it would um certainly bruce the uh production costs a lot but it might 
+TS3003b.D.dialog-act.vkaraisk.76	486.78	489.85	D	ME	sug	+1	1	a lot but it might be a good idea to make a docking station and 
+TS3003b.D.dialog-act.vkaraisk.77	489.85	493.15	D	ME	sug	+1	1	and this would could get a button in it which would send the 
+TS3003b.D.dialog-act.vkaraisk.78	493.15	495.44	D	ME	sug	+1	1	which would send the signal to the remote which wouldn't 
+TS3003b.D.dialog-act.vkaraisk.79	495.44	496.29	D	ME	sug	+1	1	remote which wouldn't beep So you know 
+TS3003b.D.dialog-act.vkaraisk.80	496.55	498.9	D	ME	inf	+1	1	beep So you know where it is in the room and 
+TS3003b.D.dialog-act.vkaraisk.81	498.9	503.92	D	ME	sug	+1	1	and in addition to this it could um rechargeable batteries in the remote if you put it in 
+TS3003b.D.dialog-act.vkaraisk.82	505.71	517.11	D	ME	inf	+1	1	Then um as pricing we need a great deal of people would indicated that um an l. c. d. screen in the remote control would be preferred this was um 
+TS3003b.D.dialog-act.vkaraisk.83	517.11	524.36	D	ME	inf	+1	1	this was um Mostly people in the age of sixteen to twenty five but 
+TS3003b.D.dialog-act.vkaraisk.84	524.36	528.06	D	ME	inf	-1	0	but up till forty five it remains feasible is it also greatly 
+TS3003b.D.dialog-act.vkaraisk.85	528.06	530.86	D	ME	ass	+1	1	is it also greatly increase the production cost but 
+TS3003b.D.dialog-act.vkaraisk.86	530.86	535.74	D	ME	sug	+1	1	production cost but i think these are just some small factories we could consider 
+TS3003b.A.dialog-act.vkaraisk.43	538.03	538.34	A	PM	ass	-1	0	Okay 
+TS3003b.D.dialog-act.vkaraisk.87	538.59	539.25	D	ME	inf	-1	0	That would be all 
+TS3003b.A.dialog-act.vkaraisk.44	540.04	541.03	A	PM	be.pos	-1	0	Thank you so uh 
+TS3003b.A.dialog-act.vkaraisk.45	541.03	542.04	A	PM	fra	-1	0	so uh anybody have um 
+TS3003b.A.dialog-act.vkaraisk.46	542.04	545.16	A	PM	el.inf	-1	0	anybody have um any questions until now 
+TS3003b.D.dialog-act.vkaraisk.88	544.2	544.9	D	ME	el.inf	-1	0	Any questions 
+TS3003b.A.dialog-act.vkaraisk.47	546.23	548.29	A	PM	el.inf	-1	0	About functional requirements okay that's clear 
+TS3003b.B.dialog-act.vkaraisk.4	546.16	546.78	B	UI	inf	-1	0	Uh-huh 
+TS3003b.A.dialog-act.vkaraisk.49	548.29	548.51	A	PM	und	-1	0	okay that's clear 
+TS3003b.C.dialog-act.vkaraisk.1	547.87	548.25	C	ID	inf	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.48	548.51	549.06	A	PM	ass	-1	0	okay that's clear 
+TS3003b.A.dialog-act.vkaraisk.50	549.93	551.6	A	PM	sug	-1	0	The the to the second 
+TS3003b.D.dialog-act.vkaraisk.89	550.33	550.53	D	ME	und	-1	0	Yeah 
+TS3003b.D.dialog-act.vkaraisk.90	552.656	553.695	D	ME	fra	-1	0	{vocalsound}
+TS3003b.A.dialog-act.vkaraisk.51	553.929	554.577	A	PM	fra	-1	0	{vocalsound}
+TS3003b.B.dialog-act.vkaraisk.5	560.28	562.44	B	UI	stl	-1	0	Yeah okay um i think that 
+TS3003b.B.dialog-act.vkaraisk.6	562.44	572.736	B	UI	inf	+1	1	i think that that that uh uh user interface of it um for for uh the taking of functions of of it um 
+TS3003b.A.dialog-act.vkaraisk.52	567.51	567.66	A	PM	bck	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.53	574.62	574.85	A	PM	stl	-1	0	Yeah you can 
+TS3003b.A.dialog-act.vkaraisk.54	574.85	575.71	A	PM	sug	-1	0	Yeah you can take your time we've got 
+TS3003b.B.dialog-act.vkaraisk.7	574.97	575.43	B	UI	oth	-1	0	Okay 
+TS3003b.A.dialog-act.vkaraisk.55	575.71	578.05	A	PM	inf	-1	0	take your time we've got them plenty of time so 
+TS3003b.B.dialog-act.vkaraisk.8	576.96	577.16	B	UI	und	-1	0	Hmm 
+TS3003b.D.dialog-act.vkaraisk.91	577.42	577.56	D	ME	stl	-1	0	Yeah should go to 
+TS3003b.A.dialog-act.vkaraisk.56	578.05	578.6	A	PM	fra	-1	0	so 
+TS3003b.D.dialog-act.vkaraisk.92	577.56	581.5	D	ME	sug	-1	0	Yeah should go to the Top thingy slideshow oh yeah 
+TS3003b.B.dialog-act.vkaraisk.9	578.52	578.91	B	UI	und	-1	0	No 
+TS3003b.A.dialog-act.vkaraisk.57	579.44	580.282	A	PM	fra	-1	0	{vocalsound}
+TS3003b.B.dialog-act.vkaraisk.10	580.1	580.52	B	UI	bck	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.58	581.58	583.37	A	PM	ass	-1	0	Yep it's yeah 
+TS3003b.B.dialog-act.vkaraisk.11	581.65	581.91	B	UI	ass	-1	0	Yeah 
+TS3003b.D.dialog-act.vkaraisk.93	581.5	581.87	D	ME	ass	-1	0	oh yeah 
+TS3003b.B.dialog-act.vkaraisk.12	584.44	586.58	B	UI	stl	-1	0	Um Yeah i think er 
+TS3003b.B.dialog-act.vkaraisk.13	586.58	592.15	B	UI	sug	+1	1	Yeah i think er be uh just use their general functions of the remote control um 
+TS3003b.B.dialog-act.vkaraisk.14	592.15	599.89	B	UI	inf	+1	1	um Uh i think that i've uh um you know a little uh research on the internet um 
+TS3003b.B.dialog-act.vkaraisk.15	599.89	606.88	B	UI	inf	+1	1	on the internet um Yeah not much information about it so um about uh interface but 
+TS3003b.B.dialog-act.vkaraisk.16	606.88	612.33	B	UI	stl	-1	0	uh interface but uh Uhuh Yeah i i've been thinking 
+TS3003b.B.dialog-act.vkaraisk.17	612.33	621.13	B	UI	inf	+1	1	i i've been thinking about uh simple manner uh to put a lot of functions uh uh in one uh um in one the remote control uh so um 
+TS3003b.B.dialog-act.vkaraisk.18	621.13	628.44	B	UI	inf	+1	1	uh so um you've got a lot so different uh device like uh a d. v. d. uh uh um television uh stereo so um 
+TS3003b.B.dialog-act.vkaraisk.19	628.44	629.482	B	UI	stl	-1	0	so um But 
+TS3003b.B.dialog-act.vkaraisk.20	629.94	633.18	B	UI	inf	+1	1	But uh it must be uh user friendly so um 
+TS3003b.B.dialog-act.vkaraisk.21	633.18	634.51	B	UI	stl	-1	0	so um yeah you could you 
+TS3003b.B.dialog-act.vkaraisk.22	634.51	645.88	B	UI	sug	+1	1	yeah you could you can put uh a lot of uh functions uh in one uh yeah No uh uh yeah i In one uh um remote control but 
+TS3003b.A.dialog-act.vkaraisk.59	645.36	646.38	A	PM	inf	-1	0	Alright month 
+TS3003b.B.dialog-act.vkaraisk.23	645.88	646.767	B	UI	stl	-1	0	remote control but um 
+TS3003b.B.dialog-act.vkaraisk.24	648.56	648.94	B	UI	stl	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.60	650.263	651.605	A	PM	fra	-1	0	{vocalsound}
+TS3003b.B.dialog-act.vkaraisk.25	651.28	654.8	B	UI	stl	-1	0	Um Yeah He got 
+TS3003b.B.dialog-act.vkaraisk.26	654.8	658.01	B	UI	inf	-1	0	He got um many functions in one uh remote control um but um 
+TS3003b.B.dialog-act.vkaraisk.27	658.01	660.06	B	UI	stl	-1	0	um but um yeah you can see this as 
+TS3003b.B.dialog-act.vkaraisk.28	660.06	663.18	B	UI	inf	+1	1	you can see this as uh quite simple uh remote control Um 
+TS3003b.A.dialog-act.vkaraisk.61	663.576	664.186	A	PM	fra	-1	0	{vocalsound}
+TS3003b.B.dialog-act.vkaraisk.29	663.54	665.02	B	UI	inf	-1	0	Um as you uh buttons but uh this 
+TS3003b.B.dialog-act.vkaraisk.30	665.02	670.14	B	UI	inf	+1	1	but uh this other in a remote control got a lot of uh bad answer um 
+TS3003b.B.dialog-act.vkaraisk.31	670.14	673.77	B	UI	inf	-1	0	um yeah People i don't like it uh 
+TS3003b.B.dialog-act.vkaraisk.32	673.77	675.023	B	UI	stl	-1	0	i don't like it uh uh so um 
+TS3003b.B.dialog-act.vkaraisk.33	676.08	676.51	B	UI	stl	-1	0	Well what so i i 
+TS3003b.B.dialog-act.vkaraisk.34	676.51	683.47	B	UI	sug	+1	1	Well what so i i was uh thinking about was so um Uh keep the general function so i like the hours uh like 
+TS3003b.B.dialog-act.vkaraisk.35	683.47	683.93	B	UI	stl	-1	0	the hours uh like 
+TS3003b.B.dialog-act.vkaraisk.36	683.93	689.74	B	UI	sug	+1	1	the hours uh like uh on off of the time i keep it uh yeah look like uh red but um uh 
+TS3003b.B.dialog-act.vkaraisk.37	689.74	691.72	B	UI	inf	-1	0	red but um uh everybody everybody knows it so well 
+TS3003b.B.dialog-act.vkaraisk.38	691.72	696.951	B	UI	sug	-1	0	knows it so well uh you don't have to change yes Um 
+TS3003b.B.dialog-act.vkaraisk.39	699.03	701.83	B	UI	inf	+1	1	My personal uh preferences um use 
+TS3003b.B.dialog-act.vkaraisk.40	701.83	707.06	B	UI	sug	+1	1	use uh display for uh especially uh functions of the different uh device so that um 
+TS3003b.B.dialog-act.vkaraisk.41	707.06	707.92	B	UI	stl	-1	0	so that um 
+TS3003b.B.dialog-act.vkaraisk.42	708.95	729.56	B	UI	inf	-1	0	Well i was there are thinking about source um You got um Uh i missed the remote controller And uh 
+TS3003b.A.dialog-act.vkaraisk.62	728.563	729.943	A	PM	fra	-1	0	{vocalsound}
+TS3003b.C.dialog-act.vkaraisk.2	728.704	729.392	C	ID	fra	-1	0	{vocalsound}
+TS3003b.B.dialog-act.vkaraisk.43	729.56	737.89	B	UI	sug	-1	0	And uh you got here the general function so like uh the on off button uh uh so long to uh try to know um and 
+TS3003b.B.dialog-act.vkaraisk.44	737.89	741.45	B	UI	sug	+1	1	and um yeah you got uh it's kind of uh display 
+TS3003b.B.dialog-act.vkaraisk.45	742.76	744.38	B	UI	sug	+1	1	It's the touchscreen so um 
+TS3003b.B.dialog-act.vkaraisk.46	744.38	746.38	B	UI	stl	-1	0	so um they've got their general 
+TS3003b.B.dialog-act.vkaraisk.47	746.38	759.19	B	UI	sug	+1	1	they've got their general fear of uh the functions of the device uh for a d. v. d. player or uh so um the play uh yeah um for for uh playing or uh or we first uh state Uh um 
+TS3003b.B.dialog-act.vkaraisk.48	759.19	764.52	B	UI	sug	+1	1	Uh um you got here uh real buttons for uh selecting uh huh decide 
+TS3003b.B.dialog-act.vkaraisk.49	765.86	766.84	B	UI	stl	-1	0	So um this but 
+TS3003b.B.dialog-act.vkaraisk.50	766.84	768.11	B	UI	sug	-1	0	um this but as for a t. v. or 
+TS3003b.B.dialog-act.vkaraisk.51	768.11	769.75	B	UI	fra	-1	0	or So um 
+TS3003b.B.dialog-act.vkaraisk.52	769.75	771.12	B	UI	stl	-1	0	So um for every 
+TS3003b.B.dialog-act.vkaraisk.53	771.12	780.34	B	UI	inf	-1	0	for every um device you got uh uh a of a pot a part um displayed go for power button so 
+TS3003b.B.dialog-act.vkaraisk.54	780.34	781.68	B	UI	stl	-1	0	so uh you 
+TS3003b.B.dialog-act.vkaraisk.55	781.68	786.21	B	UI	inf	+1	1	uh you you never i got uh all the buttons so on what one device so 
+TS3003b.A.dialog-act.vkaraisk.63	786.48	787.735	A	PM	bck	-1	0	Hmm 
+TS3003b.B.dialog-act.vkaraisk.56	786.21	787.42	B	UI	stl	-1	0	so uh that's a um an 
+TS3003b.B.dialog-act.vkaraisk.57	787.42	790.45	B	UI	inf	-1	0	uh that's a um an idea about that Um 
+TS3003b.A.dialog-act.vkaraisk.64	790.17	790.44	A	PM	und	-1	0	"'kay" 
+TS3003b.B.dialog-act.vkaraisk.58	790.45	793.232	B	UI	stl	-1	0	Um yeah and 
+TS3003b.B.dialog-act.vkaraisk.59	794.56	798.38	B	UI	stl	-1	0	Uhuh Let's see um yeah so that's me 
+TS3003b.B.dialog-act.vkaraisk.60	798.38	799.45	B	UI	sug	-1	0	so that's me uh and um 
+TS3003b.B.dialog-act.vkaraisk.61	799.45	803.95	B	UI	inf	-1	0	uh and um them the buttons um the real buttons uh we have to use um rebecca 
+TS3003b.B.dialog-act.vkaraisk.62	803.95	808.95	B	UI	sug	+1	1	um rebecca uh um Uh use uh quite uh large buttons uh for 
+TS3003b.B.dialog-act.vkaraisk.63	808.95	809.4	B	UI	fra	-1	0	buttons uh for um yeah everybody 
+TS3003b.B.dialog-act.vkaraisk.64	809.4	809.94	B	UI	stl	-1	0	um yeah everybody 
+TS3003b.B.dialog-act.vkaraisk.65	809.94	816.64	B	UI	inf	+1	1	um yeah everybody uh it has to use it so Well even of uh all people um young people so uh 
+TS3003b.B.dialog-act.vkaraisk.66	816.64	817.28	B	UI	stl	-1	0	people so uh we must 
+TS3003b.B.dialog-act.vkaraisk.67	817.28	822.68	B	UI	sug	+1	1	we must keep the buttons uh quite uh simple and quite large sure 
+TS3003b.B.dialog-act.vkaraisk.68	822.68	825.776	B	UI	stl	-1	0	large sure Um 
+TS3003b.A.dialog-act.vkaraisk.65	823.58	823.86	A	PM	bck	-1	0	Yeah 
+TS3003b.B.dialog-act.vkaraisk.69	826.98	828.96	B	UI	stl	-1	0	Yeah mm yeah 
+TS3003b.B.dialog-act.vkaraisk.70	830.42	832.37	B	UI	inf	-1	0	There was a banana part of it so 
+TS3003b.A.dialog-act.vkaraisk.66	831.72	833.06	A	PM	und	-1	0	Okay Yeah banana's questions 
+TS3003b.B.dialog-act.vkaraisk.71	832.37	832.948	B	UI	fra	-1	0	of it so 
+TS3003b.A.dialog-act.vkaraisk.67	833.06	836.1	A	PM	el.inf	-1	0	Yeah banana's questions about the technical functions 
+TS3003b.C.dialog-act.vkaraisk.3	836.31	836.59	C	ID	stl	-1	0	Well i think if 
+TS3003b.A.dialog-act.vkaraisk.68	837.037	837.946	A	PM	fra	-1	0	{vocalsound}
+TS3003b.C.dialog-act.vkaraisk.4	836.59	842.32	C	ID	ass	+1	2	Well i think if we're gonna use a touch screen uh we're gonna go way above twelve and a half euros 
+TS3003b.A.dialog-act.vkaraisk.69	842.62	842.95	A	PM	ass	-1	0	Yeah 
+TS3003b.B.dialog-act.vkaraisk.72	842.51	844.27	B	UI	ass	+1	2	Uh i i don't think so uh you got uh quite 
+TS3003b.B.dialog-act.vkaraisk.73	844.27	850.69	B	UI	sug	+1	2	uh you got uh quite uh a cheap uh touch screens um it's they're not paying no core or something uh 
+TS3003b.A.dialog-act.vkaraisk.70	847.05	847.51	A	PM	inf	-1	0	Mm 
+TS3003b.B.dialog-act.vkaraisk.74	850.69	855.51	B	UI	fra	-1	0	something uh it's just uh um Right now uh one colour uh and yeah 
+TS3003b.B.dialog-act.vkaraisk.75	855.51	856.48	B	UI	ass	-1	0	and yeah 
+TS3003b.B.dialog-act.vkaraisk.76	857.68	866.83	B	UI	inf	-1	0	Uh uh i say no uh uh something on the internet uh not today but uh if you uh weeks ago uh 
+TS3003b.B.dialog-act.vkaraisk.77	866.83	882.87	B	UI	inf	-1	0	uh you got uh yeah quite and uh It kind of uh touch screen uh um it's uh a four The trendy uh euros or or less uh so 
+TS3003b.A.dialog-act.vkaraisk.71	882.6	883.14	A	PM	bck	-1	0	Yeah 
+TS3003b.B.dialog-act.vkaraisk.78	882.87	885.15	B	UI	inf	-1	0	so It's possible 
+TS3003b.D.dialog-act.vkaraisk.94	883.3	883.56	D	ME	bck	-1	0	Hmm 
+TS3003b.A.dialog-act.vkaraisk.72	884.94	887.269	A	PM	ass	-1	0	Okay that's nice yeah 
+TS3003b.D.dialog-act.vkaraisk.95	886.27	886.42	D	ME	stl	-1	0	Well would certainly 
+TS3003b.D.dialog-act.vkaraisk.96	886.42	888.37	D	ME	ass	+1	1	Well would certainly make a fancy design 
+TS3003b.B.dialog-act.vkaraisk.79	888.56	888.78	B	UI	ass	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.73	889.59	889.99	A	PM	bck	-1	0	Yeah 
+TS3003b.C.dialog-act.vkaraisk.5	889.68	892.66	C	ID	ass	+1	1	But the it wouldn't be very robust it's very fred 
+TS3003b.D.dialog-act.vkaraisk.97	889.9	890.602	D	ME	stl	-1	0	So 
+TS3003b.C.dialog-act.vkaraisk.6	892.66	893.66	C	ID	ass	-1	0	it's very fred yeah one you can 
+TS3003b.C.dialog-act.vkaraisk.7	893.66	895.31	C	ID	ass	-1	0	yeah one you can get scratches on it 
+TS3003b.D.dialog-act.vkaraisk.98	895.44	896.06	D	ME	ass	-1	0	That's true 
+TS3003b.A.dialog-act.vkaraisk.74	896.05	897.27	A	PM	ass	-1	0	That's true yeah 
+TS3003b.B.dialog-act.vkaraisk.80	896.62	897.61	B	UI	ass	-1	0	Yeah that's true 
+TS3003b.A.dialog-act.vkaraisk.75	897.27	901.3	A	PM	el.ass	-1	0	yeah maybe "'cause" first um listen to your presentation that and 
+TS3003b.D.dialog-act.vkaraisk.99	897.09	898.19	D	ME	sug	-1	0	Would have to look into that 
+TS3003b.A.dialog-act.vkaraisk.76	901.3	906.69	A	PM	sug	-1	0	that and then we have a have a little discussion about the requirements and uh design 
+TS3003b.B.dialog-act.vkaraisk.81	901.6	901.99	B	UI	ass	-1	0	Yeah 
+TS3003b.C.dialog-act.vkaraisk.8	901.68	905.33	C	ID	ass	-1	0	That's Okay 
+TS3003b.D.dialog-act.vkaraisk.100	901.66	901.87	D	ME	ass	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.77	908.663	909.303	A	PM	fra	-1	0	{vocalsound}
+TS3003b.D.dialog-act.vkaraisk.101	917.454	920.182	D	ME	fra	-1	0	{vocalsound}
+TS3003b.A.dialog-act.vkaraisk.78	920.01	921.82	A	PM	fra	-1	0	I think it's even dream that 
+TS3003b.A.dialog-act.vkaraisk.79	921.82	923.51	A	PM	ass	-1	0	dream that it's not much "'kay" 
+TS3003b.A.dialog-act.vkaraisk.80	923.51	923.923	A	PM	ass	-1	0	"'kay" 
+TS3003b.C.dialog-act.vkaraisk.9	923.73	924.13	C	ID	stl	-1	0	Okay i've got a presentation 
+TS3003b.C.dialog-act.vkaraisk.10	924.13	927.77	C	ID	off	+1	1	i've got a presentation about the working design Um 
+TS3003b.C.dialog-act.vkaraisk.11	927.77	930.03	C	ID	off	+1	1	Um first about how would works it's really simple of course everybody 
+TS3003b.C.dialog-act.vkaraisk.12	930.03	930.99	C	ID	inf	-1	0	it's really simple of course everybody 
+TS3003b.C.dialog-act.vkaraisk.13	930.99	932.85	C	ID	inf	+1	1	it's really simple of course everybody knows our remote works the user 
+TS3003b.C.dialog-act.vkaraisk.14	932.85	934.68	C	ID	inf	+1	1	works the user presses a button on your remote 
+TS3003b.C.dialog-act.vkaraisk.15	934.68	936.65	C	ID	inf	+1	1	your remote it there was what button in this use 
+TS3003b.C.dialog-act.vkaraisk.16	936.65	939.99	C	ID	inf	+1	1	this use the infrared to send a signal to the t. v. the 
+TS3003b.C.dialog-act.vkaraisk.17	939.99	943.01	C	ID	inf	+1	1	the t. v. the t. v. switch to the frequency or it but function it is 
+TS3003b.C.dialog-act.vkaraisk.18	944.22	945.13	C	ID	stl	-1	0	So we've got um 
+TS3003b.C.dialog-act.vkaraisk.19	945.13	948.11	C	ID	inf	+1	1	we've got um the the plate 
+TS3003b.C.dialog-act.vkaraisk.20	948.11	952.06	C	ID	inf	+1	1	that's conducted this for every button when the user presses a button 
+TS3003b.C.dialog-act.vkaraisk.21	952.06	955.13	C	ID	inf	+1	1	when the user presses a button the signal gets that goes to the led 
+TS3003b.C.dialog-act.vkaraisk.22	955.13	956.21	C	ID	inf	+1	1	goes to the led and transmitted 
+TS3003b.C.dialog-act.vkaraisk.23	956.21	959.83	C	ID	inf	+1	1	and transmitted it's transmit transmits its to the t. v. 
+TS3003b.C.dialog-act.vkaraisk.24	960.05	963.4	C	ID	inf	-1	0	It's a very simple device technically speaking So this is 
+TS3003b.C.dialog-act.vkaraisk.25	963.4	963.58	C	ID	stl	-1	0	So this is 
+TS3003b.C.dialog-act.vkaraisk.26	963.58	966.14	C	ID	inf	+1	1	So this is a schematic overview you've got the buttons 
+TS3003b.C.dialog-act.vkaraisk.27	966.14	968.02	C	ID	inf	+1	1	you've got the buttons the power source 
+TS3003b.C.dialog-act.vkaraisk.28	968.02	970.17	C	ID	inf	+1	1	the power source And uh when 
+TS3003b.C.dialog-act.vkaraisk.29	970.17	974.68	C	ID	inf	+1	1	And uh when a button that pressed it's goes to the chip the chip 
+TS3003b.C.dialog-act.vkaraisk.30	974.68	980.59	C	ID	inf	-1	0	the chip uh uh controls the infrared bulb and prefer perhaps uh a normal bob you press 
+TS3003b.C.dialog-act.vkaraisk.31	980.59	983.24	C	ID	inf	-1	0	you press a button you can actually see you press the button 
+TS3003b.C.dialog-act.vkaraisk.32	985.58	986.9	C	ID	stl	-1	0	Well um i think 
+TS3003b.C.dialog-act.vkaraisk.33	986.9	990.94	C	ID	sug	+1	1	um i think we should use d. for the materials simple plastics keep 
+TS3003b.C.dialog-act.vkaraisk.34	990.94	992.24	C	ID	sug	+1	1	keep the inner workings simple so it's robust 
+TS3003b.C.dialog-act.vkaraisk.35	992.24	994.41	C	ID	inf	-1	0	so it's robust um 
+TS3003b.C.dialog-act.vkaraisk.36	994.41	998.41	C	ID	sug	+1	1	um so i think we should focus on aesthetics designer user interface because 
+TS3003b.C.dialog-act.vkaraisk.37	998.41	1003.01	C	ID	ass	-1	0	because if you're going to use high tech materials the price is going to go sky high 
+TS3003b.C.dialog-act.vkaraisk.38	1004.88	1008.29	C	ID	inf	-1	0	And uh you only have to design a remote once and if you use high tech 
+TS3003b.C.dialog-act.vkaraisk.39	1008.29	1011.05	C	ID	inf	+1	1	and if you use high tech materials that come back in every product 
+TS3003b.C.dialog-act.vkaraisk.40	1012.08	1012.38	C	ID	stl	-1	0	So it's 
+TS3003b.C.dialog-act.vkaraisk.41	1012.38	1020.46	C	ID	ass	+1	1	So it's in my d. it's uh it's gonna be smart to invest in dice in design and not in uh in the product itself 
+TS3003b.C.dialog-act.vkaraisk.42	1021.92	1022.5	C	ID	inf	-1	0	That's it 
+TS3003b.A.dialog-act.vkaraisk.81	1023.16	1023.58	A	PM	und	-1	0	Okay thank you 
+TS3003b.A.dialog-act.vkaraisk.82	1023.58	1024.01	A	PM	be.pos	-1	0	Okay thank you 
+TS3003b.A.dialog-act.vkaraisk.83	1031.07	1031.57	A	PM	stl	-1	0	Okay 
+TS3003b.D.dialog-act.vkaraisk.102	1031.598	1032.53	D	ME	fra	-1	0	{vocalsound}
+TS3003b.A.dialog-act.vkaraisk.84	1038.37	1042.1	A	PM	stl	-1	0	Uh Okay and i out 
+TS3003b.A.dialog-act.vkaraisk.85	1042.1	1046.79	A	PM	inf	-1	0	and i out everybody has a little bit more insight in the functions we all have them what 
+TS3003b.A.dialog-act.vkaraisk.86	1046.79	1049.26	A	PM	inf	-1	0	we all have them what we're doing right now Um 
+TS3003b.A.dialog-act.vkaraisk.87	1049.26	1051.56	A	PM	inf	-1	0	Um i'm the project managers so i 
+TS3003b.A.dialog-act.vkaraisk.88	1051.56	1053.38	A	PM	off	+1	1	so i mean it to mess things up and uh 
+TS3003b.A.dialog-act.vkaraisk.89	1053.38	1057.24	A	PM	off	+1	1	up and uh That is some new uh requirements 
+TS3003b.B.dialog-act.vkaraisk.82	1053.308	1055.248	B	UI	fra	-1	0	{vocalsound}
+TS3003b.C.dialog-act.vkaraisk.43	1053.938	1054.847	C	ID	fra	-1	0	{vocalsound}
+TS3003b.D.dialog-act.vkaraisk.103	1054.128	1055.475	D	ME	fra	-1	0	{vocalsound}
+TS3003b.A.dialog-act.vkaraisk.90	1058.24	1061.17	A	PM	fra	-1	0	Um that's we have uh 
+TS3003b.A.dialog-act.vkaraisk.91	1061.17	1067.39	A	PM	inf	+1	2	we have uh gotta designed um remotes which is only suitable for t. v. Um that's 
+TS3003b.A.dialog-act.vkaraisk.92	1067.39	1072.59	A	PM	ass	+1	1	Um that's because Uh it will be too complex and 
+TS3003b.B.dialog-act.vkaraisk.83	1068.8	1069.17	B	UI	bck	-1	0	Hmm 
+TS3003b.A.dialog-act.vkaraisk.93	1072.59	1078.27	A	PM	ass	+1	1	and the time to market will be too big if we wanna have that uh uh for more functions So 
+TS3003b.A.dialog-act.vkaraisk.94	1078.78	1080.96	A	PM	inf	-1	0	So it has to be simple uh 
+TS3003b.B.dialog-act.vkaraisk.84	1078.3	1078.53	B	UI	bck	-1	0	Uh-huh 
+TS3003b.A.dialog-act.vkaraisk.95	1080.96	1086.0	A	PM	inf	+1	1	uh another point is we have to skip the teletext because in the real 
+TS3003b.A.dialog-act.vkaraisk.96	1086.0	1096.01	A	PM	inf	+1	1	in the real the full uh upcoming internet uh we think teletext is going to be uh i think that's the past and that it's 
+TS3003b.A.dialog-act.vkaraisk.97	1096.01	1100.69	A	PM	inf	-1	0	and that it's uh function we don't need you know a remote control 
+TS3003b.D.dialog-act.vkaraisk.104	1097.491	1098.198	D	ME	fra	-1	0	{vocalsound}
+TS3003b.A.dialog-act.vkaraisk.98	1101.83	1107.39	A	PM	sug	-1	0	Um internet is also mentions just to go In a function we can use that maybe also 
+TS3003b.A.dialog-act.vkaraisk.99	1107.39	1110.63	A	PM	inf	-1	0	that maybe also on television is it will be available as well 
+TS3003b.A.dialog-act.vkaraisk.100	1111.83	1119.93	A	PM	inf	+1	1	Another one that's the the customer uh is um forty plus uh that's the the markets we have to get the targets because 
+TS3003b.A.dialog-act.vkaraisk.101	1119.93	1125.78	A	PM	inf	+1	1	the targets because we're going to develop a new product which is specially designed for the younger customers 
+TS3003b.A.dialog-act.vkaraisk.102	1126.66	1132.57	A	PM	be.pos	-1	0	Um this is uh on a bit pity for the marketing uh expert i because it 
+TS3003b.D.dialog-act.vkaraisk.105	1130.701	1132.898	D	ME	fra	-1	0	{vocalsound}
+TS3003b.B.dialog-act.vkaraisk.85	1131.236	1132.305	B	UI	fra	-1	0	{vocalsound}
+TS3003b.A.dialog-act.vkaraisk.103	1132.57	1136.82	A	PM	inf	-1	0	because it was uh aiming on the the younger persons so 
+TS3003b.A.dialog-act.vkaraisk.104	1136.82	1140.08	A	PM	inf	-1	0	so we have to find a market which is above forty plus uh but which 
+TS3003b.A.dialog-act.vkaraisk.105	1140.08	1142.0	A	PM	inf	-1	0	uh but which will so they are 
+TS3003b.A.dialog-act.vkaraisk.106	1143.04	1144.15	A	PM	inf	-1	0	Uh remote control and the other 
+TS3003b.A.dialog-act.vkaraisk.107	1144.15	1146.48	A	PM	inf	-1	0	and the other way around and we 
+TS3003b.A.dialog-act.vkaraisk.108	1146.48	1154.49	A	PM	inf	+1	1	and we have to be very uh and then then uh put in the corporate image uh in our products so it has to be 
+TS3003b.A.dialog-act.vkaraisk.109	1154.49	1160.26	A	PM	inf	+1	1	so it has to be visible in our design in the way our device works and 
+TS3003b.A.dialog-act.vkaraisk.110	1160.26	1165.72	A	PM	inf	-1	0	and uh we have to be uh very clear on this point as well So 
+TS3003b.A.dialog-act.vkaraisk.111	1165.72	1166.32	A	PM	stl	-1	0	So i suggest 
+TS3003b.A.dialog-act.vkaraisk.112	1166.32	1172.15	A	PM	sug	+1	1	i suggest Let's have a discussion on the control functions 
+TS3003b.A.dialog-act.vkaraisk.113	1173.66	1173.99	A	PM	oth	-1	0	Yeah 
+TS3003b.D.dialog-act.vkaraisk.106	1174.94	1175.13	D	ME	stl	-1	0	So is there any discussion possible 
+TS3003b.D.dialog-act.vkaraisk.107	1175.13	1177.96	D	ME	el.inf	-1	0	is there any discussion possible hold on the new project requirements 
+TS3003b.A.dialog-act.vkaraisk.114	1176.329	1190.033	A	PM	sug	+1	1	I look and see if we can find a way yeah between the functions you wanna use and the market we wanna reach with our product um 
+TS3003b.B.dialog-act.vkaraisk.86	1176.784	1179.008	B	UI	fra	-1	0	{vocalsound}
+TS3003b.B.dialog-act.vkaraisk.87	1188.77	1188.95	B	UI	bck	-1	0	Uh-huh 
+TS3003b.D.dialog-act.vkaraisk.108	1189.34	1189.52	D	ME	stl	-1	0	Yeah "'cause" you're 
+TS3003b.D.dialog-act.vkaraisk.109	1189.52	1194.96	D	ME	inf	+1	2	Yeah "'cause" you're you're saying that teletext is gonna be an old feature and 
+TS3003b.D.dialog-act.vkaraisk.110	1194.96	1198.96	D	ME	inf	-1	0	feature and it's not gonna be used anymore anyway pretty soon and 
+TS3003b.D.dialog-act.vkaraisk.111	1198.96	1201.97	D	ME	inf	-1	0	pretty soon and new t. v.s will have internet access on them but 
+TS3003b.A.dialog-act.vkaraisk.115	1201.721	1202.773	A	PM	fra	-1	0	{vocalsound}
+TS3003b.D.dialog-act.vkaraisk.112	1201.97	1208.63	D	ME	inf	+1	2	them but i think if you are targeting people of forty plus the chance that they will have a t. v. with internet access 
+TS3003b.D.dialog-act.vkaraisk.113	1209.76	1212.78	D	ME	inf	+1	2	Within the next like twenty years is very slim 
+TS3003b.B.dialog-act.vkaraisk.88	1214.21	1214.61	B	UI	bck	-1	0	Yeah 
+TS3003b.D.dialog-act.vkaraisk.114	1214.14	1221.33	D	ME	inf	+1	2	In addition people indicated that teletext simply was important feature for the remote control so i think it's pretty 
+TS3003b.D.dialog-act.vkaraisk.115	1221.33	1225.43	D	ME	ass	+1	2	so i think it's pretty dumb to put no teletext feature on it 
+TS3003b.D.dialog-act.vkaraisk.116	1227.37	1228.4	D	ME	ass	-1	0	I'm pretty much against it 
+TS3003b.A.dialog-act.vkaraisk.116	1229.56	1230.91	A	PM	und	-1	0	I guess than the teletext 
+TS3003b.B.dialog-act.vkaraisk.89	1230.07	1230.44	B	UI	bck	-1	0	Uh-huh 
+TS3003b.D.dialog-act.vkaraisk.117	1230.95	1233.039	D	ME	inf	-1	0	Yes 
+TS3003b.A.dialog-act.vkaraisk.117	1232.98	1234.367	A	PM	stl	-1	0	Um 
+TS3003b.D.dialog-act.vkaraisk.118	1235.33	1240.63	D	ME	ass	+1	2	Besides that i think the market for forty plus is like Pretty small 
+TS3003b.D.dialog-act.vkaraisk.119	1243.2	1248.73	D	ME	inf	+1	2	But i mean if i if i see there's since i think we're just gonna go for another 
+TS3003b.A.dialog-act.vkaraisk.118	1244.22	1244.56	A	PM	stl	-1	0	Yeah it's it 
+TS3003b.A.dialog-act.vkaraisk.119	1244.56	1245.594	A	PM	fra	-1	0	Yeah it's it is 
+TS3003b.B.dialog-act.vkaraisk.90	1244.067	1245.931	B	UI	fra	-1	0	Sorry 
+TS3003b.A.dialog-act.vkaraisk.120	1249.59	1251.07	A	PM	inf	+1	2	Stan remote 
+TS3003b.D.dialog-act.vkaraisk.120	1250.42	1250.83	D	ME	inf	-1	0	Pretty 
+TS3003b.A.dialog-act.vkaraisk.121	1252.41	1252.69	A	PM	ass	-1	0	But i think 
+TS3003b.A.dialog-act.vkaraisk.122	1252.69	1253.84	A	PM	fra	-1	0	But i think we can 
+TS3003b.D.dialog-act.vkaraisk.121	1252.92	1254.39	D	ME	inf	-1	0	In not innovative 
+TS3003b.A.dialog-act.vkaraisk.123	1255.51	1260.52	A	PM	sug	+1	1	I think we can do a lot of the um design and the simple buttons which are also 
+TS3003b.D.dialog-act.vkaraisk.122	1255.65	1256.38	D	ME	inf	-1	0	Remote control 
+TS3003b.A.dialog-act.vkaraisk.124	1260.52	1262.38	A	PM	inf	-1	0	buttons which are also mentioned uh if we 
+TS3003b.A.dialog-act.vkaraisk.125	1262.38	1273.28	A	PM	sug	+1	1	uh if we put a lot of effort and those we can make uh a remote control of the least two or three buttons or just remote it's a suitable for the market you wanna reach because it is 
+TS3003b.A.dialog-act.vkaraisk.127	1273.28	1275.77	A	PM	inf	-1	0	because it is forty percent of the market 
+TS3003b.B.dialog-act.vkaraisk.91	1273.57	1274.15	B	UI	bck	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.128	1276.61	1278.19	A	PM	stl	-1	0	And um if you look a whole and 
+TS3003b.A.dialog-act.vkaraisk.129	1278.19	1289.92	A	PM	inf	+1	2	if you look a whole and Uh the whole generation of forty plus fifty plus it it's in the uh the biggest share of the of the whole population now 
+TS3003b.D.dialog-act.vkaraisk.123	1291.04	1291.37	D	ME	ass	-1	0	Yes but it's not 
+TS3003b.D.dialog-act.vkaraisk.124	1291.37	1294.57	D	ME	inf	-1	0	Yes but it's not the biggest part of the Market 
+TS3003b.A.dialog-act.vkaraisk.130	1295.49	1295.85	A	PM	ass	-1	0	No 
+TS3003b.D.dialog-act.vkaraisk.125	1295.58	1297.46	D	ME	inf	-1	0	And besides that they're not very critical so 
+TS3003b.D.dialog-act.vkaraisk.126	1297.46	1298.6	D	ME	fra	-1	0	critical so i mean they don't 
+TS3003b.D.dialog-act.vkaraisk.127	1298.6	1303.15	D	ME	inf	-1	0	i mean they don't really care What the remote control is like well just pretty much take 
+TS3003b.D.dialog-act.vkaraisk.128	1303.15	1306.88	D	ME	inf	-1	0	well just pretty much take the first thing i see in which it's acceptable 
+TS3003b.A.dialog-act.vkaraisk.132	1308.73	1324.56	A	PM	el.ass	+1	1	But don't you think that if we make a remote which is uh a typically made for this market of that people think from That people think that's the the device i've looked for although i didn't realise that so 
+TS3003b.B.dialog-act.vkaraisk.92	1308.683	1309.489	B	UI	fra	-1	0	{vocalsound}
+TS3003b.A.dialog-act.vkaraisk.133	1324.56	1325.24	A	PM	stl	-1	0	that so let's try it 
+TS3003b.A.dialog-act.vkaraisk.134	1325.24	1326.04	A	PM	sug	-1	0	let's try it 
+TS3003b.D.dialog-act.vkaraisk.129	1326.95	1327.22	D	ME	ass	-1	0	No 
+TS3003b.D.dialog-act.vkaraisk.130	1328.22	1334.14	D	ME	inf	-1	0	I think that would be the case and uh Sixteen to forty five age category 
+TS3003b.D.dialog-act.vkaraisk.131	1336.26	1337.38	D	ME	inf	-1	0	Because they are critical and they 
+TS3003b.D.dialog-act.vkaraisk.132	1337.38	1340.77	D	ME	inf	-1	0	and they they want to have a fancy remote control 
+TS3003b.B.dialog-act.vkaraisk.93	1340.71	1340.91	B	UI	bck	-1	0	Yeah 
+TS3003b.D.dialog-act.vkaraisk.133	1341.96	1345.6	D	ME	inf	-1	0	People forty plus i mean they wanted to work but 
+TS3003b.D.dialog-act.vkaraisk.134	1345.6	1349.76	D	ME	inf	-1	0	to work but So but as long as it works it's okay with them 
+TS3003b.A.dialog-act.vkaraisk.135	1351.65	1352.06	A	PM	bck	-1	0	Yeah 
+TS3003b.B.dialog-act.vkaraisk.94	1351.56	1351.91	B	UI	bck	-1	0	Uh-huh 
+TS3003b.C.dialog-act.vkaraisk.44	1352.77	1362.81	C	ID	sug	+1	1	Think that if we're if we put our marketing right um we can sell this just like uh i don't know if you've heard about it in the news the the elderly mobile phone 
+TS3003b.D.dialog-act.vkaraisk.135	1353.21	1353.795	D	ME	stl	-1	0	So 
+TS3003b.A.dialog-act.vkaraisk.136	1362.98	1363.53	A	PM	inf	-1	0	Yeah it's a big success 
+TS3003b.A.dialog-act.vkaraisk.137	1363.53	1364.47	A	PM	inf	-1	0	it's a big success 
+TS3003b.C.dialog-act.vkaraisk.45	1364.66	1364.95	C	ID	stl	-1	0	Yeah if 
+TS3003b.C.dialog-act.vkaraisk.46	1364.95	1372.49	C	ID	ass	+1	2	Yeah if we if we make a remote control just what we've that idea in mind we could make tons of money i think we don't have to 
+TS3003b.A.dialog-act.vkaraisk.138	1365.52	1367.31	A	PM	inf	-1	0	Very big success yeah 
+TS3003b.D.dialog-act.vkaraisk.136	1365.09	1366.1	D	ME	inf	-1	0	And there 
+TS3003b.A.dialog-act.vkaraisk.139	1367.31	1367.68	A	PM	bck	-1	0	yeah 
+TS3003b.A.dialog-act.vkaraisk.140	1371.95	1373.67	A	PM	ass	-1	0	Yeah i think so so 
+TS3003b.B.dialog-act.vkaraisk.95	1372.27	1372.64	B	UI	bck	-1	0	Hmm 
+TS3003b.D.dialog-act.vkaraisk.137	1371.93	1372.15	D	ME	bck	-1	0	Hmm 
+TS3003b.C.dialog-act.vkaraisk.47	1372.49	1378.72	C	ID	sug	+1	1	we don't have to focus on on on the on the design then but on functionality we just 
+TS3003b.C.dialog-act.vkaraisk.48	1378.72	1379.4	C	ID	sug	-1	0	we just 
+TS3003b.C.dialog-act.vkaraisk.49	1380.68	1382.98	C	ID	sug	-1	0	Change our focus on the project i 
+TS3003b.C.dialog-act.vkaraisk.50	1382.98	1386.36	C	ID	ass	-1	0	i think We can uh uh we can sell this 
+TS3003b.A.dialog-act.vkaraisk.141	1387.22	1390.11	A	PM	inf	-1	0	That i i simply think that um 
+TS3003b.B.dialog-act.vkaraisk.96	1387.607	1388.89	B	UI	fra	-1	0	{vocalsound}
+TS3003b.A.dialog-act.vkaraisk.142	1393.12	1402.99	A	PM	inf	-1	0	Uh the the new products we're gonna make us please perhaps if we design our design for the uh younger people uh 
+TS3003b.A.dialog-act.vkaraisk.143	1402.99	1407.26	A	PM	sug	-1	0	uh so maybe we can focus ourself on the elderly people 
+TS3003b.A.dialog-act.vkaraisk.144	1408.6	1419.18	A	PM	sug	-1	0	And i think we have to uh um See what requirements we need For those uh um remote controls "'cause" that you told 
+TS3003b.A.dialog-act.vkaraisk.145	1419.18	1428.09	A	PM	inf	-1	0	"'cause" that you told us they channel selection is important volume selection power and teletext okay 
+TS3003b.D.dialog-act.vkaraisk.138	1420.322	1421.4	D	ME	fra	-1	0	{vocalsound}
+TS3003b.D.dialog-act.vkaraisk.139	1423.96	1424.26	D	ME	ass	-1	0	Yes 
+TS3003b.B.dialog-act.vkaraisk.97	1424.61	1425.0	B	UI	bck	-1	0	Uh-huh 
+TS3003b.A.dialog-act.vkaraisk.146	1428.09	1430.4	A	PM	stl	-1	0	okay Um 
+TS3003b.B.dialog-act.vkaraisk.98	1427.632	1428.82	B	UI	ass	-1	0	Yeah 
+TS3003b.D.dialog-act.vkaraisk.140	1427.46	1427.89	D	ME	ass	-1	0	Yes 
+TS3003b.D.dialog-act.vkaraisk.141	1430.35	1432.75	D	ME	inf	-1	0	But obviously the board tend to disagree 
+TS3003b.A.dialog-act.vkaraisk.147	1433.23	1433.6	A	PM	ass	-1	0	No it we haven't 
+TS3003b.A.dialog-act.vkaraisk.148	1433.6	1435.15	A	PM	inf	-1	0	No it we haven't thought it it's it's uh 
+TS3003b.A.dialog-act.vkaraisk.149	1435.15	1437.03	A	PM	fra	-1	0	it's uh Uh i think 
+TS3003b.B.dialog-act.vkaraisk.99	1435.418	1436.697	B	UI	fra	-1	0	{vocalsound}
+TS3003b.A.dialog-act.vkaraisk.150	1437.03	1440.55	A	PM	sug	+1	3	Uh i think teletext can be uh 
+TS3003b.A.dialog-act.vkaraisk.151	1441.97	1451.34	A	PM	sug	+1	3	Uh can be a function as well But only if uh is on Higher the the cost "'cause" i don't know 
+TS3003b.A.dialog-act.vkaraisk.152	1451.34	1455.42	A	PM	inf	-1	0	"'cause" i don't know if it'll be a lot more money to implement teletext as well but i don't think 
+TS3003b.A.dialog-act.vkaraisk.153	1455.42	1457.05	A	PM	inf	-1	0	but i don't think it'll be a problem 
+TS3003b.A.dialog-act.vkaraisk.154	1458.56	1460.194	A	PM	fra	-1	0	Or is teletext uh 
+TS3003b.B.dialog-act.vkaraisk.100	1459.03	1463.95	B	UI	inf	+1	2	um the if people need to the teletext for a soda so 
+TS3003b.A.dialog-act.vkaraisk.155	1463.25	1463.55	A	PM	bck	-1	0	Yeah 
+TS3003b.B.dialog-act.vkaraisk.101	1463.95	1464.78	B	UI	fra	-1	0	soda so it's yeah 
+TS3003b.D.dialog-act.vkaraisk.142	1463.51	1464.43	D	ME	ass	-1	0	Yeah also 
+TS3003b.B.dialog-act.vkaraisk.102	1464.78	1465.06	B	UI	ass	-1	0	it's yeah 
+TS3003b.A.dialog-act.vkaraisk.156	1465.48	1465.97	A	PM	ass	-1	0	Yeah so 
+TS3003b.A.dialog-act.vkaraisk.157	1465.97	1466.21	A	PM	stl	-1	0	Yeah so it's just um 
+TS3003b.A.dialog-act.vkaraisk.158	1466.21	1467.515	A	PM	fra	-1	0	it's just um 
+TS3003b.D.dialog-act.vkaraisk.143	1466.64	1469.71	D	ME	ass	+1	2	I think it definitely hit that idea not to to to the text 
+TS3003b.B.dialog-act.vkaraisk.103	1467.47	1468.002	B	UI	fra	-1	0	It's 
+TS3003b.A.dialog-act.vkaraisk.159	1469.07	1469.45	A	PM	und	-1	0	Yeah 
+TS3003b.B.dialog-act.vkaraisk.104	1469.03	1469.34	B	UI	bck	-1	0	Uh-huh 
+TS3003b.A.dialog-act.vkaraisk.160	1470.57	1473.74	A	PM	el.ass	+1	2	Is anybody um really against teletext 
+TS3003b.C.dialog-act.vkaraisk.51	1474.4	1474.64	C	ID	ass	-1	0	No 
+TS3003b.A.dialog-act.vkaraisk.161	1475.0	1475.59	A	PM	und	-1	0	that's that 
+TS3003b.A.dialog-act.vkaraisk.162	1475.59	1479.56	A	PM	inf	-1	0	that's that That you just keep the teletext 
+TS3003b.A.dialog-act.vkaraisk.163	1481.67	1484.77	A	PM	ass	+1	2	I think that's good ideas well "'specially" for the subtitles 
+TS3003b.A.dialog-act.vkaraisk.164	1486.8	1503.92	A	PM	sug	-1	0	Maybe you can Make that um Another point of advantage in our remote control if we uh a make it a button x. for example for big subtitles which 
+TS3003b.A.dialog-act.vkaraisk.165	1503.92	1505.87	A	PM	sug	-1	0	which is in some the on the remote control for 
+TS3003b.A.dialog-act.vkaraisk.166	1505.87	1508.59	A	PM	inf	-1	0	the remote control for elderly people are they can think of i wanna subtitles in push the 
+TS3003b.B.dialog-act.vkaraisk.105	1505.85	1506.6	B	UI	bck	-1	0	Uh-huh 
+TS3003b.A.dialog-act.vkaraisk.167	1508.59	1509.4	A	PM	inf	-1	0	subtitles in push the button and you get the 
+TS3003b.A.dialog-act.vkaraisk.168	1509.4	1511.73	A	PM	inf	-1	0	button and you get the big subtitles 
+TS3003b.B.dialog-act.vkaraisk.106	1512.45	1513.75	B	UI	ass	-1	0	Uh-huh uh-huh 
+TS3003b.C.dialog-act.vkaraisk.52	1512.2	1513.3	C	ID	ass	-1	0	Yeah that's a good idea 
+TS3003b.A.dialog-act.vkaraisk.169	1514.02	1515.76	A	PM	stl	-1	0	Um so i think 
+TS3003b.A.dialog-act.vkaraisk.170	1515.76	1521.68	A	PM	ass	-1	0	so i think that this can if you can be very useful in our advantage um 
+TS3003b.A.dialog-act.vkaraisk.171	1523.24	1526.17	A	PM	inf	-1	0	Functionality should be few buttons you say that 
+TS3003b.D.dialog-act.vkaraisk.144	1527.62	1527.99	D	ME	ass	-1	0	Yes 
+TS3003b.A.dialog-act.vkaraisk.172	1528.29	1532.39	A	PM	ass	+1	1	I think uh it's very important we have a few buttons 
+TS3003b.B.dialog-act.vkaraisk.107	1528.52	1528.65	B	UI	bck	-1	0	Uh-huh 
+TS3003b.D.dialog-act.vkaraisk.145	1533.07	1533.33	D	ME	bck	-1	0	Uh-huh 
+TS3003b.A.dialog-act.vkaraisk.173	1535.32	1537.01	A	PM	inf	-1	0	So let's keep it simple 
+TS3003b.D.dialog-act.vkaraisk.146	1535.95	1539.82	D	ME	ass	-1	0	But Um thing that's really an issue anymore "'cause" 
+TS3003b.D.dialog-act.vkaraisk.147	1539.82	1540.384	D	ME	fra	-1	0	issue anymore "'cause" 
+TS3003b.D.dialog-act.vkaraisk.148	1541.63	1542.15	D	ME	stl	-1	0	Well might be 
+TS3003b.D.dialog-act.vkaraisk.149	1542.15	1542.63	D	ME	ass	-1	0	might be 
+TS3003b.B.dialog-act.vkaraisk.108	1543.91	1545.66	B	UI	fra	-1	0	If it's only for television yeah 
+TS3003b.D.dialog-act.vkaraisk.150	1544.17	1548.58	D	ME	inf	-1	0	But i mean it it's it's only for t. v. you're not gonna need a lot of buttons anyway need the 
+TS3003b.B.dialog-act.vkaraisk.109	1545.66	1546.17	B	UI	bck	-1	0	yeah 
+TS3003b.B.dialog-act.vkaraisk.110	1547.15	1547.36	B	UI	bck	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.174	1548.69	1549.13	A	PM	ass	-1	0	No 
+TS3003b.D.dialog-act.vkaraisk.151	1548.58	1553.29	D	ME	inf	-1	0	need the one to zero button next channel previous channel 
+TS3003b.B.dialog-act.vkaraisk.111	1551.76	1552.25	B	UI	bck	-1	0	Yeah 
+TS3003b.D.dialog-act.vkaraisk.152	1554.41	1557.63	D	ME	inf	-1	0	Volume up volume down and some teletext buttons but 
+TS3003b.D.dialog-act.vkaraisk.153	1557.63	1558.213	D	ME	fra	-1	0	buttons but 
+TS3003b.A.dialog-act.vkaraisk.175	1559.52	1559.77	A	PM	bck	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.176	1562.0	1563.186	A	PM	fra	-1	0	do you need 
+TS3003b.B.dialog-act.vkaraisk.112	1562.51	1565.62	B	UI	sug	+1	1	So we can we can skip the display so uh 
+TS3003b.D.dialog-act.vkaraisk.154	1562.13	1563.6	D	ME	fra	-1	0	I think if you if you only 
+TS3003b.B.dialog-act.vkaraisk.113	1565.62	1567.13	B	UI	inf	-1	0	display so uh you don't need it 
+TS3003b.A.dialog-act.vkaraisk.177	1566.54	1572.19	A	PM	el.inf	+1	2	But do you need the buttons for one to zero or maybe we can 
+TS3003b.D.dialog-act.vkaraisk.156	1567.41	1568.11	D	ME	ass	-1	0	No 
+TS3003b.A.dialog-act.vkaraisk.178	1572.19	1573.393	A	PM	fra	-1	0	maybe we can 
+TS3003b.B.dialog-act.vkaraisk.114	1572.47	1573.297	B	UI	stl	-1	0	Uh 
+TS3003b.D.dialog-act.vkaraisk.155	1572.58	1575.08	D	ME	inf	+1	2	I think if you don't include teletext you do i think many people like 
+TS3003b.D.dialog-act.vkaraisk.157	1575.08	1577.4	D	ME	inf	-1	0	i think many people like to use that "'cause" if you should 
+TS3003b.A.dialog-act.vkaraisk.179	1577.11	1579.117	A	PM	fra	-1	0	Maybe you can use the 
+TS3003b.B.dialog-act.vkaraisk.115	1577.63	1577.92	B	UI	bck	-1	0	Yeah 
+TS3003b.D.dialog-act.vkaraisk.158	1577.4	1585.06	D	ME	inf	-1	0	"'cause" if you should if you want to switch from channel one to like thirty five you know wanna push the next channel button thirty five times 
+TS3003b.B.dialog-act.vkaraisk.116	1584.22	1584.39	B	UI	bck	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.180	1584.91	1585.18	A	PM	ass	-1	0	Maybe you can 
+TS3003b.A.dialog-act.vkaraisk.181	1585.18	1587.97	A	PM	el.ass	+1	3	Maybe you can implement that scroll button 
+TS3003b.A.dialog-act.vkaraisk.182	1589.84	1591.54	A	PM	el.ass	+1	2	Or a joystick like a 
+TS3003b.B.dialog-act.vkaraisk.117	1590.32	1590.72	B	UI	bck	-1	0	Mm 
+TS3003b.A.dialog-act.vkaraisk.183	1593.04	1594.5	A	PM	inf	-1	0	There are other ways to use look if 
+TS3003b.A.dialog-act.vkaraisk.184	1594.5	1601.682	A	PM	inf	+1	2	use look if you look at telephones and the sony telephone a scroll button which is very useful and searching names were 
+TS3003b.B.dialog-act.vkaraisk.118	1595.7	1596.13	B	UI	bck	-1	0	Yeah 
+TS3003b.B.dialog-act.vkaraisk.119	1597.73	1598.1	B	UI	bck	-1	0	Uh-huh 
+TS3003b.B.dialog-act.vkaraisk.120	1600.07	1600.29	B	UI	bck	-1	0	Uh-huh 
+TS3003b.D.dialog-act.vkaraisk.159	1603.26	1603.81	D	ME	ass	-1	0	That's true but 
+TS3003b.D.dialog-act.vkaraisk.160	1603.81	1610.89	D	ME	inf	+1	2	That's true but um I don't think there are many t. v.s it can switch channels that fast and 
+TS3003b.D.dialog-act.vkaraisk.161	1610.89	1618.99	D	ME	inf	+1	2	and so you would need like The t. v. would need a um a function where you can actually if you all channels and scroll through it 
+TS3003b.D.dialog-act.vkaraisk.162	1620.25	1626.12	D	ME	inf	-1	0	Uh i don't know if many channels would To have that many t. v.s have a 
+TS3003b.C.dialog-act.vkaraisk.53	1626.06	1626.93	C	ID	ass	-1	0	Yeah and 
+TS3003b.B.dialog-act.vkaraisk.121	1626.83	1627.25	B	UI	bck	-1	0	Uh-huh 
+TS3003b.C.dialog-act.vkaraisk.54	1626.93	1629.27	C	ID	fra	-1	0	Yeah and decided that it's um if we're gonna focus 
+TS3003b.C.dialog-act.vkaraisk.55	1629.27	1632.75	C	ID	inf	+1	2	if we're gonna focus on elderly people though i have to adapt they're not 
+TS3003b.C.dialog-act.vkaraisk.56	1632.75	1635.48	C	ID	inf	-1	0	adapt they're not used to using scroll buttons so 
+TS3003b.A.dialog-act.vkaraisk.185	1635.36	1635.9	A	PM	ass	-1	0	That's right 
+TS3003b.C.dialog-act.vkaraisk.57	1635.48	1638.6	C	ID	sug	+1	2	so perhaps we should just stick to the basic layout 
+TS3003b.B.dialog-act.vkaraisk.122	1635.98	1636.18	B	UI	ass	-1	0	Uh-huh 
+TS3003b.D.dialog-act.vkaraisk.163	1635.81	1636.11	D	ME	ass	-1	0	Uh-huh 
+TS3003b.A.dialog-act.vkaraisk.186	1640.054	1642.36	A	PM	und	-1	0	And the numbers yeah yeah they can see how 
+TS3003b.A.dialog-act.vkaraisk.187	1642.36	1642.53	A	PM	stl	-1	0	yeah they can see how 
+TS3003b.A.dialog-act.vkaraisk.188	1642.53	1646.56	A	PM	sug	-1	0	yeah they can see how much buttons they're going to be on on the display and if it's 
+TS3003b.A.dialog-act.vkaraisk.189	1646.56	1650.76	A	PM	sug	-1	0	and if it's too much you can uh reconsider in that 
+TS3003b.A.dialog-act.vkaraisk.190	1650.76	1653.28	A	PM	inf	-1	0	that i think that won't be very much buttons or did don't 
+TS3003b.B.dialog-act.vkaraisk.123	1651.31	1651.63	B	UI	ass	-1	0	Hmm 
+TS3003b.A.dialog-act.vkaraisk.191	1653.28	1654.93	A	PM	inf	-1	0	or did don't have to be 
+TS3003b.D.dialog-act.vkaraisk.164	1654.01	1664.97	D	ME	ass	+1	3	i think i think if you're gonna make a remote control only to operate a t. v. you there's not much you can again um Um having a few buttons as possible "'cause" 
+TS3003b.D.dialog-act.vkaraisk.165	1664.97	1669.07	D	ME	inf	-1	0	"'cause" i think they're pretty many remote control so it can only operate a t. v. which already 
+TS3003b.D.dialog-act.vkaraisk.166	1669.07	1673.13	D	ME	inf	-1	0	which already when you have the minimum number of buttons on think there's much 
+TS3003b.D.dialog-act.vkaraisk.167	1673.13	1675.4	D	ME	ass	-1	0	on think there's much to be gained in that area 
+TS3003b.A.dialog-act.vkaraisk.192	1676.18	1678.13	A	PM	el.inf	-1	0	The number of buttons i think it's very 
+TS3003b.B.dialog-act.vkaraisk.124	1676.2	1676.8	B	UI	bck	-1	0	Uh-huh 
+TS3003b.A.dialog-act.vkaraisk.193	1678.13	1680.82	A	PM	ass	+1	2	i think it's very important in the in the design 
+TS3003b.D.dialog-act.vkaraisk.168	1677.79	1678.03	D	ME	inf	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.194	1681.93	1687.63	A	PM	inf	+1	2	You can make a very fancy design or uh with putting the buttons on the right places and if you have 
+TS3003b.A.dialog-act.vkaraisk.195	1687.63	1690.415	A	PM	fra	-1	0	and if you have less buttons you can do a lot more with 
+TS3003b.D.dialog-act.vkaraisk.169	1691.61	1692.1	D	ME	ass	-1	0	That is true but i think it's simply 
+TS3003b.D.dialog-act.vkaraisk.170	1692.1	1700.01	D	ME	ass	-1	0	but i think it's simply not much again on the competition when you when you're making uh remote control only for it to operate only t. t. v. 
+TS3003b.A.dialog-act.vkaraisk.196	1701.66	1703.39	A	PM	und	-1	0	To of read only the t. v. yeah 
+TS3003b.D.dialog-act.vkaraisk.171	1702.17	1708.97	D	ME	inf	-1	0	"'cause" if you have a remote control only to operate a t. v. there simply not a lot of buttons required 
+TS3003b.D.dialog-act.vkaraisk.172	1710.06	1711.46	D	ME	inf	-1	0	There's not a lot of functions required so 
+TS3003b.D.dialog-act.vkaraisk.173	1711.46	1715.53	D	ME	inf	-1	0	required so most existing remote control simply don't have a lot of buttons either 
+TS3003b.A.dialog-act.vkaraisk.197	1715.8	1716.11	A	PM	ass	-1	0	No 
+TS3003b.B.dialog-act.vkaraisk.125	1716.14	1716.37	B	UI	ass	-1	0	Uh-huh 
+TS3003b.A.dialog-act.vkaraisk.198	1717.28	1717.91	A	PM	stl	-1	0	So 
+TS3003b.D.dialog-act.vkaraisk.174	1717.66	1717.77	D	ME	stl	-1	0	So i think 
+TS3003b.D.dialog-act.vkaraisk.175	1717.77	1721.84	D	ME	ass	-1	0	So i think it would be very hard to actually gain on the competition here 
+TS3003b.A.dialog-act.vkaraisk.199	1722.53	1722.85	A	PM	und	-1	0	Okay so 
+TS3003b.A.dialog-act.vkaraisk.200	1722.85	1723.04	A	PM	stl	-1	0	Okay so we can 
+TS3003b.A.dialog-act.vkaraisk.201	1723.04	1723.932	A	PM	fra	-1	0	we can 
+TS3003b.D.dialog-act.vkaraisk.176	1723.04	1728.83	D	ME	inf	-1	0	would it would cost and a big marketing Expedition 
+TS3003b.A.dialog-act.vkaraisk.202	1728.17	1730.31	A	PM	ass	-1	0	Yeah That's right 
+TS3003b.D.dialog-act.vkaraisk.177	1730.4	1733.96	D	ME	inf	-1	0	Which was Well the arguments to make it only for a t. v. because 
+TS3003b.D.dialog-act.vkaraisk.178	1733.96	1736.63	D	ME	inf	-1	0	it only for a t. v. because we didn't have the time to market a lot 
+TS3003b.A.dialog-act.vkaraisk.203	1737.0	1738.0	A	PM	ass	-1	0	so if you just we could 
+TS3003b.A.dialog-act.vkaraisk.204	1738.0	1738.23	A	PM	stl	-1	0	if you just we could 
+TS3003b.A.dialog-act.vkaraisk.205	1738.23	1744.34	A	PM	el.ass	+1	2	if you just we could better at uh um focus so long for example the docking station 
+TS3003b.B.dialog-act.vkaraisk.126	1738.327	1739.048	B	UI	fra	-1	0	{vocalsound}
+TS3003b.A.dialog-act.vkaraisk.206	1745.7	1752.1	A	PM	el.ass	-1	0	But uh like other functions Instead of a few roof less buttons 
+TS3003b.D.dialog-act.vkaraisk.179	1749.74	1750.34	D	ME	ass	-1	0	The t. v. 
+TS3003b.D.dialog-act.vkaraisk.180	1752.79	1754.51	D	ME	stl	-1	0	Well Yeah i think 
+TS3003b.D.dialog-act.vkaraisk.181	1754.51	1758.17	D	ME	ass	+1	2	Yeah i think i mean we obviously need a good way to position all the buttons and 
+TS3003b.D.dialog-act.vkaraisk.182	1758.17	1758.452	D	ME	fra	-1	0	and 
+TS3003b.D.dialog-act.vkaraisk.183	1759.39	1761.53	D	ME	sug	+1	2	I don't think we should spend very much time in that 
+TS3003b.A.dialog-act.vkaraisk.207	1762.38	1764.56	A	PM	und	-1	0	Hmmm no You think 
+TS3003b.A.dialog-act.vkaraisk.208	1764.56	1771.15	A	PM	el.inf	+1	2	You think the docking station we'll Uh is allowed and um they should we have 
+TS3003b.C.dialog-act.vkaraisk.58	1772.61	1776.04	C	ID	inf	-1	0	It should be possible yes that's not too fancy and if the remote 
+TS3003b.A.dialog-act.vkaraisk.209	1774.03	1775.04	A	PM	fra	-1	0	"'cause" it can be 
+TS3003b.B.dialog-act.vkaraisk.127	1774.35	1775.08	B	UI	bck	-1	0	Uh-huh 
+TS3003b.A.dialog-act.vkaraisk.210	1776.19	1776.6	A	PM	bck	-1	0	No 
+TS3003b.C.dialog-act.vkaraisk.59	1776.04	1778.81	C	ID	inf	+1	2	and if the remote stage one that's more should be possible yeah 
+TS3003b.A.dialog-act.vkaraisk.211	1778.99	1779.91	A	PM	stl	-1	0	Yeah "'cause" 
+TS3003b.C.dialog-act.vkaraisk.60	1778.81	1779.13	C	ID	ass	-1	0	should be possible yeah 
+TS3003b.B.dialog-act.vkaraisk.128	1779.4	1779.57	B	UI	bck	-1	0	Uh-huh 
+TS3003b.A.dialog-act.vkaraisk.212	1779.91	1781.532	A	PM	fra	-1	0	"'cause" i think that's uh 
+TS3003b.A.dialog-act.vkaraisk.213	1782.56	1787.24	A	PM	ass	-1	0	That's a good advantage point as well if we have a fancy looking docking station or three 
+TS3003b.C.dialog-act.vkaraisk.61	1785.69	1786.12	C	ID	ass	-1	0	Yes 
+TS3003b.A.dialog-act.vkaraisk.214	1787.24	1792.23	A	PM	fra	-1	0	or three That's a nice requirements 
+TS3003b.B.dialog-act.vkaraisk.129	1789.09	1789.25	B	UI	ass	-1	0	Uh-huh 
+TS3003b.A.dialog-act.vkaraisk.215	1792.23	1793.63	A	PM	ass	-1	0	That's a nice requirements 
+TS3003b.A.dialog-act.vkaraisk.216	1794.83	1795.8	A	PM	oth	-1	0	Docking station 
+TS3003b.D.dialog-act.vkaraisk.184	1796.224	1797.356	D	ME	fra	-1	0	{vocalsound}
+TS3003b.C.dialog-act.vkaraisk.62	1797.0	1797.22	C	ID	stl	-1	0	we're just gonna focus 
+TS3003b.C.dialog-act.vkaraisk.63	1797.22	1799.02	C	ID	el.ass	+1	2	we're just gonna focus on the extras 
+TS3003b.A.dialog-act.vkaraisk.217	1800.46	1801.12	A	PM	ass	+1	2	I think so 
+TS3003b.C.dialog-act.vkaraisk.64	1801.24	1801.42	C	ID	und	-1	0	Yeah 
+TS3003b.B.dialog-act.vkaraisk.130	1801.82	1802.0	B	UI	und	-1	0	Uh-huh 
+TS3003b.D.dialog-act.vkaraisk.185	1801.92	1802.13	D	ME	stl	-1	0	Yeah i think maybe we should do 
+TS3003b.D.dialog-act.vkaraisk.186	1802.13	1807.33	D	ME	sug	-1	0	i think maybe we should do some research into What elderly people like to have in uh 
+TS3003b.A.dialog-act.vkaraisk.218	1808.23	1808.65	A	PM	ass	-1	0	Yeah 
+TS3003b.D.dialog-act.vkaraisk.187	1808.5	1810.39	D	ME	sug	-1	0	Like to have x. training remote control 
+TS3003b.A.dialog-act.vkaraisk.219	1811.17	1813.904	A	PM	ass	-1	0	That's a good point um 
+TS3003b.A.dialog-act.vkaraisk.220	1816.42	1818.68	A	PM	inf	-1	0	You said they is you get lost as well 
+TS3003b.D.dialog-act.vkaraisk.188	1820.0	1820.24	D	ME	ass	-1	0	well fifty percent of 
+TS3003b.D.dialog-act.vkaraisk.189	1820.24	1820.36	D	ME	stl	-1	0	well fifty percent of 
+TS3003b.D.dialog-act.vkaraisk.190	1820.36	1824.43	D	ME	inf	+1	1	well fifty percent of the people indicated that the remote control and get lost 
+TS3003b.A.dialog-act.vkaraisk.221	1822.91	1823.22	A	PM	ass	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.222	1824.57	1829.39	A	PM	sug	+1	1	So maybe we should implement the audio side or something 
+TS3003b.D.dialog-act.vkaraisk.191	1829.65	1829.88	D	ME	ass	-1	0	Yeah that was 
+TS3003b.D.dialog-act.vkaraisk.192	1829.88	1831.88	D	ME	inf	-1	0	Yeah that was was just a Yeah 
+TS3003b.A.dialog-act.vkaraisk.223	1831.03	1831.46	A	PM	bck	-1	0	Yeah 
+TS3003b.C.dialog-act.vkaraisk.65	1831.58	1835.48	C	ID	inf	+1	1	Like with your key chain if you we saw it goes and it makes so 
+TS3003b.D.dialog-act.vkaraisk.193	1831.88	1833.53	D	ME	fra	-1	0	Yeah they don't Yeah 
+TS3003b.A.dialog-act.vkaraisk.224	1832.88	1833.49	A	PM	ass	-1	0	Yeah 
+TS3003b.D.dialog-act.vkaraisk.194	1833.53	1834.68	D	ME	ass	-1	0	Yeah yeah but some 
+TS3003b.B.dialog-act.vkaraisk.131	1834.41	1834.71	B	UI	bck	-1	0	Uh-huh 
+TS3003b.D.dialog-act.vkaraisk.195	1834.68	1837.42	D	ME	inf	+1	1	yeah but some some phones to get a docking station 
+TS3003b.D.dialog-act.vkaraisk.196	1837.42	1839.19	D	ME	inf	+1	1	get a docking station and you just 
+TS3003b.C.dialog-act.vkaraisk.66	1839.11	1839.36	C	ID	bck	-1	0	Yeah 
+TS3003b.D.dialog-act.vkaraisk.197	1839.19	1841.04	D	ME	inf	+1	1	and you just press a button on the phone 
+TS3003b.D.dialog-act.vkaraisk.198	1841.04	1842.52	D	ME	inf	+1	1	the phone covering 
+TS3003b.A.dialog-act.vkaraisk.225	1842.67	1844.0	A	PM	stl	-1	0	Yeah so the audio signal 
+TS3003b.D.dialog-act.vkaraisk.199	1843.28	1844.03	D	ME	inf	-1	0	So you know it is 
+TS3003b.A.dialog-act.vkaraisk.226	1844.0	1847.06	A	PM	ass	-1	0	signal should be possible as well i think it's not too expensive 
+TS3003b.A.dialog-act.vkaraisk.227	1847.06	1851.26	A	PM	inf	-1	0	i think it's not too expensive Uh 
+TS3003b.B.dialog-act.vkaraisk.132	1848.31	1848.83	B	UI	ass	-1	0	Uh-huh 
+TS3003b.A.dialog-act.vkaraisk.228	1851.26	1852.79	A	PM	el.ass	+1	1	Uh another 
+TS3003b.A.dialog-act.vkaraisk.229	1854.3	1856.92	A	PM	el.ass	+1	1	Orange is the l. c. d. screen 
+TS3003b.A.dialog-act.vkaraisk.230	1859.2	1865.37	A	PM	ass	+1	2	Um i don't know if that will rise to cost too much okay 
+TS3003b.A.dialog-act.vkaraisk.231	1865.37	1865.913	A	PM	fra	-1	0	okay 
+TS3003b.C.dialog-act.vkaraisk.67	1865.23	1865.97	C	ID	fra	-1	0	It it it 
+TS3003b.C.dialog-act.vkaraisk.68	1865.97	1869.41	C	ID	inf	+1	2	It it it um i think we'll have to choose between the docking station or d. screen "'cause" 
+TS3003b.C.dialog-act.vkaraisk.69	1869.41	1869.74	C	ID	fra	-1	0	screen "'cause" 
+TS3003b.A.dialog-act.vkaraisk.232	1870.82	1871.66	A	PM	ass	-1	0	Yeah so it 
+TS3003b.A.dialog-act.vkaraisk.233	1871.66	1872.91	A	PM	ass	-1	0	so it too much as well 
+TS3003b.B.dialog-act.vkaraisk.133	1871.5	1871.8	B	UI	bck	-1	0	Uh-huh 
+TS3003b.C.dialog-act.vkaraisk.70	1871.19	1871.916	C	ID	fra	-1	0	It's uh 
+TS3003b.C.dialog-act.vkaraisk.71	1872.521	1873.159	C	ID	fra	-1	0	{vocalsound}
+TS3003b.D.dialog-act.vkaraisk.200	1873.15	1877.01	D	ME	inf	+1	1	I think since well people indicate uh a new remote control is hard to learn and we're focusing 
+TS3003b.D.dialog-act.vkaraisk.201	1877.01	1879.12	D	ME	inf	+1	1	and we're focusing on elderly people here which tend 
+TS3003b.D.dialog-act.vkaraisk.202	1879.12	1883.55	D	ME	inf	+1	1	which tend to have a hard time understanding new devices it might be 
+TS3003b.D.dialog-act.vkaraisk.203	1883.55	1886.62	D	ME	sug	+1	3	it might be good idea to have just a little screen on it which we explain 
+TS3003b.D.dialog-act.vkaraisk.204	1886.62	1889.28	D	ME	sug	+1	2	which we explain a button if you press it it should tell 
+TS3003b.D.dialog-act.vkaraisk.205	1889.28	1890.68	D	ME	sug	-1	0	it should tell you what it does 
+TS3003b.A.dialog-act.vkaraisk.234	1892.2	1892.48	A	PM	bck	-1	0	Yeah 
+TS3003b.D.dialog-act.vkaraisk.206	1893.11	1897.02	D	ME	sug	+1	1	And it wouldn't have to be touch screen or a very expensive screen but 
+TS3003b.A.dialog-act.vkaraisk.235	1895.66	1896.1	A	PM	inf	-1	0	Uh yes 
+TS3003b.B.dialog-act.vkaraisk.134	1895.96	1897.56	B	UI	ass	-1	0	Yeah 
+TS3003b.D.dialog-act.vkaraisk.207	1897.02	1897.476	D	ME	fra	-1	0	{vocalsound}
+TS3003b.A.dialog-act.vkaraisk.236	1898.96	1900.15	A	PM	el.inf	+1	1	Just the l. c. d. or just a normal 
+TS3003b.A.dialog-act.vkaraisk.237	1900.15	1901.7	A	PM	el.inf	-1	0	or just a normal screen 
+TS3003b.D.dialog-act.vkaraisk.208	1902.38	1903.75	D	ME	inf	-1	0	Just a small screen with 
+TS3003b.A.dialog-act.vkaraisk.238	1903.17	1904.17	A	PM	ass	+1	1	It's a good idea so 
+TS3003b.A.dialog-act.vkaraisk.239	1904.17	1905.4	A	PM	fra	-1	0	so some extra 
+TS3003b.D.dialog-act.vkaraisk.209	1903.75	1904.697	D	ME	fra	-1	0	small screen with two 
+TS3003b.A.dialog-act.vkaraisk.240	1905.4	1907.43	A	PM	el.inf	-1	0	some extra info feedback 
+TS3003b.D.dialog-act.vkaraisk.210	1906.96	1907.36	D	ME	inf	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.241	1908.98	1910.6	A	PM	ass	-1	0	Yeah i think that's a good idea as well 
+TS3003b.B.dialog-act.vkaraisk.135	1909.01	1909.28	B	UI	bck	-1	0	Yeah 
+TS3003b.D.dialog-act.vkaraisk.211	1911.51	1913.07	D	ME	ass	-1	0	But i don't know if they're that 
+TS3003b.A.dialog-act.vkaraisk.242	1914.64	1915.84	A	PM	oth	-1	0	It's a small screen 
+TS3003b.D.dialog-act.vkaraisk.212	1915.19	1920.28	D	ME	ass	-1	0	Don't fit into the Costs 
+TS3003b.A.dialog-act.vkaraisk.243	1924.27	1925.8	A	PM	oth	-1	0	Extra button in four 
+TS3003b.A.dialog-act.vkaraisk.244	1929.41	1932.7	A	PM	ass	-1	0	I think it should be possible as well Um 
+TS3003b.A.dialog-act.vkaraisk.245	1932.7	1938.69	A	PM	el.inf	-1	0	Um Let's see what that we same more should be 
+TS3003b.A.dialog-act.vkaraisk.246	1938.69	1942.33	A	PM	inf	-1	0	should be fancy too fancy design easy to learn few buttons 
+TS3003b.A.dialog-act.vkaraisk.247	1942.33	1950.877	A	PM	inf	+1	4	few buttons we talked about the docking station l. c. d. Um general functions 
+TS3003b.A.dialog-act.vkaraisk.248	1952.5	1956.46	A	PM	stl	-1	0	Yeah "'kay" 
+TS3003b.A.dialog-act.vkaraisk.249	1960.37	1966.14	A	PM	ass	+1	1	And you fold materials I think that's a good idea as well because um 
+TS3003b.A.dialog-act.vkaraisk.250	1966.14	1974.89	A	PM	inf	-1	0	because um of the people don't mind if it's uh titanium Cover or a just a plastic one so 
+TS3003b.B.dialog-act.vkaraisk.137	1972.384	1974.266	B	UI	fra	-1	0	{vocalsound}
+TS3003b.A.dialog-act.vkaraisk.251	1974.89	1976.88	A	PM	ass	-1	0	a plastic one so it doesn't really matter so 
+TS3003b.B.dialog-act.vkaraisk.136	1975.67	1975.91	B	UI	ass	-1	0	Uh-huh 
+TS3003b.D.dialog-act.vkaraisk.213	1975.2	1975.79	D	ME	ass	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.252	1976.88	1978.81	A	PM	stl	-1	0	really matter so Thinking 
+TS3003b.A.dialog-act.vkaraisk.253	1978.81	1979.44	A	PM	fra	-1	0	Thinking 
+TS3003b.D.dialog-act.vkaraisk.214	1978.99	1986.1	D	ME	inf	-1	0	I think probably only people would be a little bit more careful with their remote controls and Youngsters 
+TS3003b.A.dialog-act.vkaraisk.254	1988.8	1993.16	A	PM	sug	-1	0	Uh that's um specify the target group that are we talking about 
+TS3003b.A.dialog-act.vkaraisk.255	1993.16	1999.66	A	PM	el.inf	-1	0	that are we talking about elderly elderly people or people from forty to eighty because 
+TS3003b.A.dialog-act.vkaraisk.256	1999.66	2006.87	A	PM	inf	+1	3	eighty because i think we're going to design know is for people above sixty maybe 
+TS3003b.B.dialog-act.vkaraisk.138	2009.07	2009.7	B	UI	und	-1	0	Hmm yeah 
+TS3003b.D.dialog-act.vkaraisk.215	2009.37	2009.54	D	ME	und	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.257	2010.43	2011.35	A	PM	el.sug	-1	0	Um what do we want if we want um 
+TS3003b.A.dialog-act.vkaraisk.258	2011.35	2019.25	A	PM	sug	+1	2	want if we want um uh prof latest but Uh for example the the telephone for elderly people we can 
+TS3003b.D.dialog-act.vkaraisk.216	2011.08	2011.836	D	ME	fra	-1	0	I think 
+TS3003b.A.dialog-act.vkaraisk.259	2020.51	2022.52	A	PM	sug	+1	2	Target the real elderly people 
+TS3003b.D.dialog-act.vkaraisk.217	2024.27	2026.05	D	ME	fra	-1	0	I think that would be uh if we should do something like 
+TS3003b.D.dialog-act.vkaraisk.218	2026.05	2031.98	D	ME	ass	-1	0	if we should do something like that it would be and i think it would be really good for Uh free image of the company 
+TS3003b.A.dialog-act.vkaraisk.260	2033.23	2033.52	A	PM	bck	-1	0	Yeah 
+TS3003b.D.dialog-act.vkaraisk.219	2033.79	2036.81	D	ME	ass	-1	0	And i think i think it would be good market for it 
+TS3003b.A.dialog-act.vkaraisk.262	2038.01	2038.27	A	PM	stl	-1	0	that's the 
+TS3003b.A.dialog-act.vkaraisk.261	2038.27	2039.056	A	PM	fra	-1	0	that's the 
+TS3003b.D.dialog-act.vkaraisk.220	2038.5	2042.11	D	ME	ass	+1	2	For able to really bring in innovative product 
+TS3003b.A.dialog-act.vkaraisk.263	2040.118	2045.35	A	PM	el.inf	+1	3	Yeah talking about sixty to eighty for example 
+TS3003b.D.dialog-act.vkaraisk.221	2045.1	2046.489	D	ME	inf	-1	0	Yeah really 
+TS3003b.A.dialog-act.vkaraisk.264	2046.81	2048.72	A	PM	und	-1	0	Yeah Sixty 
+TS3003b.B.dialog-act.vkaraisk.139	2047.35	2047.49	B	UI	bck	-1	0	Uh-huh 
+TS3003b.A.dialog-act.vkaraisk.265	2048.72	2049.39	A	PM	oth	-1	0	Sixty 
+TS3003b.D.dialog-act.vkaraisk.222	2048.3	2051.96	D	ME	sug	+1	2	But I have to look into a little more 
+TS3003b.A.dialog-act.vkaraisk.266	2052.34	2053.44	A	PM	ass	-1	0	Okay and 
+TS3003b.A.dialog-act.vkaraisk.267	2053.44	2057.137	A	PM	el.sug	-1	0	and different cultures Sorry 
+TS3003b.C.dialog-act.vkaraisk.72	2057.39	2058.39	C	ID	stl	-1	0	Oh i don't think they 
+TS3003b.C.dialog-act.vkaraisk.73	2058.39	2060.94	C	ID	inf	-1	0	i don't think they have different televisions sets uh 
+TS3003b.A.dialog-act.vkaraisk.268	2062.21	2062.74	A	PM	bck	-1	0	Okay 
+TS3003b.B.dialog-act.vkaraisk.140	2062.02	2062.55	B	UI	bck	-1	0	{vocalsound}
+TS3003b.C.dialog-act.vkaraisk.74	2062.34	2063.44	C	ID	inf	-1	0	In a is a country 
+TS3003b.A.dialog-act.vkaraisk.269	2064.19	2064.62	A	PM	ass	-1	0	No 
+TS3003b.B.dialog-act.vkaraisk.141	2064.8	2065.16	B	UI	ass	-1	0	Uh-huh 
+TS3003b.C.dialog-act.vkaraisk.75	2065.47	2066.026	C	ID	fra	-1	0	It's 
+TS3003b.A.dialog-act.vkaraisk.270	2067.61	2070.08	A	PM	inf	-1	0	We've got five minutes left it's just a small yeah 
+TS3003b.B.dialog-act.vkaraisk.142	2068.43	2069.37	B	UI	stl	-1	0	Hmm 
+TS3003b.B.dialog-act.vkaraisk.143	2069.37	2070.0	B	UI	und	-1	0	Hmm 
+TS3003b.A.dialog-act.vkaraisk.271	2070.08	2070.94	A	PM	inf	-1	0	small yeah 
+TS3003b.D.dialog-act.vkaraisk.223	2069.67	2070.58	D	ME	und	-1	0	And with 
+TS3003b.D.dialog-act.vkaraisk.224	2070.58	2077.95	D	ME	ass	+1	2	And with uh a little screen in a way that which explains buttons you could i think been it would be lot easier to 
+TS3003b.A.dialog-act.vkaraisk.272	2075.16	2075.672	A	PM	fra	-1	0	Should 
+TS3003b.D.dialog-act.vkaraisk.225	2078.95	2081.13	D	ME	ass	+1	2	Adapt it to different cultures 
+TS3003b.A.dialog-act.vkaraisk.273	2081.65	2082.09	A	PM	ass	-1	0	Yeah in different languages 
+TS3003b.A.dialog-act.vkaraisk.274	2082.09	2083.6	A	PM	inf	+1	1	in different languages yeah yeah 
+TS3003b.A.dialog-act.vkaraisk.275	2083.6	2083.97	A	PM	ass	-1	0	yeah yeah 
+TS3003b.C.dialog-act.vkaraisk.76	2083.37	2083.66	C	ID	ass	-1	0	Yeah 
+TS3003b.D.dialog-act.vkaraisk.226	2083.18	2083.47	D	ME	ass	-1	0	Yeah 
+TS3003b.B.dialog-act.vkaraisk.144	2083.9	2084.14	B	UI	ass	-1	0	Uh-huh 
+TS3003b.A.dialog-act.vkaraisk.276	2085.22	2087.94	A	PM	sug	-1	0	Or you have to put the language doesn't it but 
+TS3003b.B.dialog-act.vkaraisk.145	2086.12	2086.47	B	UI	bck	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.277	2087.94	2090.85	A	PM	ass	-1	0	it but that will be a bit in necessary i think it's 
+TS3003b.B.dialog-act.vkaraisk.146	2089.03	2090.19	B	UI	ass	-1	0	yeah 
+TS3003b.D.dialog-act.vkaraisk.227	2090.25	2090.57	D	ME	ass	-1	0	Yeah 
+TS3003b.A.dialog-act.vkaraisk.278	2090.85	2094.64	A	PM	sug	-1	0	i think it's better to put it on different markets to know okay 
+TS3003b.B.dialog-act.vkaraisk.147	2093.64	2094.06	B	UI	ass	-1	0	Uh-huh 
+TS3003b.A.dialog-act.vkaraisk.279	2094.64	2096.15	A	PM	stl	-1	0	okay so that's the that 
+TS3003b.C.dialog-act.vkaraisk.77	2094.57	2094.82	C	ID	ass	-1	0	Yep 
+TS3003b.A.dialog-act.vkaraisk.280	2096.15	2098.8	A	PM	inf	-1	0	that's the that or is Uh 
+TS3003b.A.dialog-act.vkaraisk.281	2098.8	2103.24	A	PM	sug	-1	0	Uh then a few A small things 
+TS3003b.D.dialog-act.vkaraisk.228	2104.016	2105.139	D	ME	fra	-1	0	{vocalsound}
+TS3003b.A.dialog-act.vkaraisk.282	2105.96	2108.08	A	PM	stl	-1	0	Uh okay i will put the minutes 
+TS3003b.A.dialog-act.vkaraisk.283	2108.08	2112.26	A	PM	inf	-1	0	i will put the minutes in the project uh project documents folder Um 
+TS3003b.A.dialog-act.vkaraisk.284	2112.26	2121.02	A	PM	inf	+1	1	Um "'cause" we're going to do for the next meeting is the industrial designer of the components concept user interface designer 
+TS3003b.A.dialog-act.vkaraisk.285	2121.02	2123.31	A	PM	inf	+1	1	interface designer user interface concept and the trendwatching 
+TS3003b.A.dialog-act.vkaraisk.286	2123.31	2124.32	A	PM	inf	+1	1	and the trendwatching So just 
+TS3003b.A.dialog-act.vkaraisk.287	2124.58	2124.86	A	PM	stl	-1	0	So just 
+TS3003b.A.dialog-act.vkaraisk.288	2124.86	2134.93	A	PM	sug	-1	0	So just keep in mind things you said about the target group i uh requirements and trends which we're going on And 
+TS3003b.A.dialog-act.vkaraisk.289	2134.93	2139.55	A	PM	inf	-1	0	And uh uh specific instructions will be sent to you by uh the personal coach 
+TS3003b.A.dialog-act.vkaraisk.290	2140.81	2141.99	A	PM	stl	-1	0	So um i 
+TS3003b.D.dialog-act.vkaraisk.229	2140.48	2140.62	D	ME	bck	-1	0	Okay 
+TS3003b.A.dialog-act.vkaraisk.291	2141.99	2143.85	A	PM	be.pos	-1	0	um i think you for this meeting and 
+TS3003b.A.dialog-act.vkaraisk.292	2143.85	2146.56	A	PM	sug	-1	0	and i think we have a lunchbreak now 
+TS3003b.D.dialog-act.vkaraisk.230	2147.13	2147.75	D	ME	ass	-1	0	That's good 
+TS3003b.A.dialog-act.vkaraisk.293	2147.94	2148.16	A	PM	stl	-1	0	So that's a good thing 
+TS3003b.A.dialog-act.vkaraisk.294	2148.16	2149.36	A	PM	ass	-1	0	that's a good thing 
+TS3003b.B.dialog-act.vkaraisk.148	2147.68	2147.86	B	UI	bck	-1	0	Yeah 
+TS3003b.D.dialog-act.vkaraisk.231	2166.179	2166.785	D	ME	fra	-1	0	{vocalsound}

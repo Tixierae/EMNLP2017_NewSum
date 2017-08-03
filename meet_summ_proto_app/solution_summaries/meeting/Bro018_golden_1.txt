@@ -1,0 +1,19 @@
+The Berkeley Robustness group discussed various projects by students and research staff.
+First speaker fn002 presented her experimental results on voice unvoice detection.
+Speaker me006 talked about his work on testing completeness for acoustic events and his plans for using support vector machines to recognise phonological features.
+Speakers me013 and me018 discussed improvements to the current implementation of the RASTA feature representation.
+Finally speaker me026 presented his experiment with the mean subtraction method and the group discussed its implications.
+Speaker fn002 will work on a project for France Telecom.
+Speaker me006 will conduct a preliminary experiment to see if the features he plans to use are sufficient.
+He will also compare the performance of support vector machines to that of recurrent neural nets on a classification task.
+Speaker me018 will re run his experiment on a smaller dataset for the purpose of troubleshooting.
+Speaker me013 argues that additional features used by speaker fn002 are not optimal and suggests an alternative approach.
+The results of speaker fn002s experiment are worse than expected probably due to additive noise.
+Speaker fn002 needs clarification regarding the details of the forthcoming France Telecom project.
+Will support vector machines perform as well as recurrent neural nets with less data.
+How can probabilities be estimated from the binary output of a SVM classifier.
+Speaker me018 suspects a bug in his speech recognition software as the performance difference between the PLP and Mel cepstrum feature representations seems too large.
+Can the mean subtraction method perform as well with an industry standard speech recogniser.
+Speaker fn002 has conducted experiments with new features to detect voice unvoice.
+Speaker me006 has assembled most of his quals committee.
+Speaker me026 has greatly improved performance of HTK speech recogniser by applying the mean subtraction method.

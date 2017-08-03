@@ -1,0 +1,735 @@
+TS3007a.B.dialog-act.vkaraisk.1	13.95	14.16	B	UI	be.pos	-1	0	Yeah 
+TS3007a.C.dialog-act.vkaraisk.1	14.71	15.2	C	ID	be.pos	-1	0	Hi 
+TS3007a.A.dialog-act.vkaraisk.1	15.74	16.25	A	PM	be.pos	-1	0	Oh no 
+TS3007a.D.dialog-act.vkaraisk.1	15.824	18.464	D	ME	fra	-1	0	{vocalsound}
+TS3007a.B.dialog-act.vkaraisk.2	17.61	17.79	B	UI	oth	-1	0	No 
+TS3007a.A.dialog-act.vkaraisk.2	41.74	42.36	A	PM	be.pos	-1	0	Good morning 
+TS3007a.B.dialog-act.vkaraisk.3	42.79	43.27	B	UI	be.pos	-1	0	Morning 
+TS3007a.C.dialog-act.vkaraisk.2	42.89	43.35	C	ID	be.pos	-1	0	One and 
+TS3007a.D.dialog-act.vkaraisk.2	43.38	43.85	D	ME	be.pos	-1	0	Morning 
+TS3007a.A.dialog-act.vkaraisk.3	44.8	50.76	A	PM	off	+1	0	Uh before i start with the with the meeting has a few things to tell you about the the setting we're in uh because 
+TS3007a.A.dialog-act.vkaraisk.4	50.76	54.19	A	PM	be.pos	-1	0	uh because we are uh are being watched my uh big brother so um 
+TS3007a.A.dialog-act.vkaraisk.5	54.19	56.34	A	PM	stl	-1	0	so um yeah yeah 
+TS3007a.D.dialog-act.vkaraisk.3	55.46	56.38	D	ME	und	-1	0	The big brother 
+TS3007a.A.dialog-act.vkaraisk.6	56.34	58.36	A	PM	inf	-1	0	yeah yeah This uh 
+TS3007a.C.dialog-act.vkaraisk.3	56.557	57.429	C	ID	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.4	57.62	58.02	D	ME	und	-1	0	Yeah 
+TS3007a.A.dialog-act.vkaraisk.7	58.36	58.92	A	PM	fra	-1	0	This uh 
+TS3007a.A.dialog-act.vkaraisk.8	58.92	61.65	A	PM	inf	+1	0	This uh uh these are cameras for these 
+TS3007a.A.dialog-act.vkaraisk.9	61.65	62.6	A	PM	inf	-1	0	for these this thing 
+TS3007a.A.dialog-act.vkaraisk.10	62.6	64.7	A	PM	inf	+1	0	this thing uh that looks like a tight are actually 
+TS3007a.D.dialog-act.vkaraisk.5	62.45	62.66	D	ME	bck	-1	0	Uh-huh 
+TS3007a.A.dialog-act.vkaraisk.11	64.7	66.3	A	PM	inf	+1	0	a tight are actually all microphones 
+TS3007a.D.dialog-act.vkaraisk.6	64.9	65.15	D	ME	bck	-1	0	Yeah 
+TS3007a.D.dialog-act.vkaraisk.7	67.3	67.95	D	ME	und	-1	0	Okay 
+TS3007a.A.dialog-act.vkaraisk.12	67.84	68.04	A	PM	stl	-1	0	So we must be careful with 
+TS3007a.A.dialog-act.vkaraisk.13	68.04	71.49	A	PM	sug	+1	0	we must be careful with uh with uh all this and uh 
+TS3007a.A.dialog-act.vkaraisk.14	71.49	77.08	A	PM	inf	+1	0	and uh as i can see you uh you have base or laptops uh exactly on the place where it must be in that has to do with the 
+TS3007a.A.dialog-act.vkaraisk.15	77.08	78.85	A	PM	inf	+1	0	in that has to do with the camera settings so 
+TS3007a.A.dialog-act.vkaraisk.16	78.85	82.49	A	PM	inf	-1	0	camera settings so we don't have or uh laptops in front of the cameras 
+TS3007a.D.dialog-act.vkaraisk.8	82.68	83.46	D	ME	inf	-1	0	Of our faces 
+TS3007a.A.dialog-act.vkaraisk.17	84.39	85.15	A	PM	fra	-1	0	And indeed so 
+TS3007a.A.dialog-act.vkaraisk.18	85.15	85.83	A	PM	ass	-1	0	indeed so 
+TS3007a.A.dialog-act.vkaraisk.19	85.83	88.25	A	PM	inf	-1	0	indeed so they can see their faces Okay 
+TS3007a.D.dialog-act.vkaraisk.9	85.664	86.216	D	ME	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.20	88.25	88.87	A	PM	stl	-1	0	Okay 
+TS3007a.D.dialog-act.vkaraisk.10	102.88	103.2	D	ME	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.21	105.81	108.12	A	PM	be.pos	+1	0	Welcome at the kid of meeting my name is that then 
+TS3007a.A.dialog-act.vkaraisk.22	108.12	109.63	A	PM	inf	+1	0	my name is that then walls 
+TS3007a.A.dialog-act.vkaraisk.23	110.832	113.75	A	PM	inf	+1	1	Uh this is the agenda for today um first 
+TS3007a.A.dialog-act.vkaraisk.24	113.75	115.23	A	PM	inf	+1	1	um first a little opening uh i will introduce 
+TS3007a.A.dialog-act.vkaraisk.25	115.23	116.73	A	PM	inf	+1	1	uh i will introduce myself uh 
+TS3007a.A.dialog-act.vkaraisk.26	116.73	121.39	A	PM	ass	+1	1	myself uh and uh i think it's very uh good to introduce yourself Uh 
+TS3007a.A.dialog-act.vkaraisk.27	121.97	126.82	A	PM	inf	+1	1	Uh then uh a little bit of acquaintance acquaintance to uh uh two or two or sell so 
+TS3007a.A.dialog-act.vkaraisk.28	126.82	128.9	A	PM	sug	-1	0	two or sell so well we get to know each other uh 
+TS3007a.A.dialog-act.vkaraisk.29	128.9	134.16	A	PM	inf	+1	1	other uh that will be done uh with a tool training in the u. these two smartboards Then the project 
+TS3007a.A.dialog-act.vkaraisk.30	134.78	135.61	A	PM	inf	+1	1	Then the project plan what we're going 
+TS3007a.A.dialog-act.vkaraisk.31	135.61	136.54	A	PM	inf	-1	0	plan what we're going to do and how we going 
+TS3007a.A.dialog-act.vkaraisk.32	136.54	138.21	A	PM	inf	-1	0	to do and how we going to do it uh and discussion 
+TS3007a.A.dialog-act.vkaraisk.33	138.21	141.46	A	PM	inf	+1	1	uh and discussion about that and a little closing at the end 
+TS3007a.A.dialog-act.vkaraisk.34	142.624	144.02	A	PM	stl	-1	0	Okay um my name is uh than a 
+TS3007a.A.dialog-act.vkaraisk.35	144.02	145.34	A	PM	inf	+1	1	my name is uh than a wall so i'm the project 
+TS3007a.A.dialog-act.vkaraisk.36	145.34	147.22	A	PM	inf	+1	1	wall so i'm the project manager which one yeah 
+TS3007a.A.dialog-act.vkaraisk.37	147.22	147.75	A	PM	el.inf	-1	0	which one yeah 
+TS3007a.B.dialog-act.vkaraisk.4	148.07	149.1	B	UI	inf	+1	1	And you go on top so i'm the user interface 
+TS3007a.B.dialog-act.vkaraisk.5	149.1	150.63	B	UI	inf	+1	1	i'm the user interface design 
+TS3007a.A.dialog-act.vkaraisk.38	150.76	151.94	A	PM	und	-1	0	User interface okay 
+TS3007a.C.dialog-act.vkaraisk.4	152.45	152.59	C	ID	be.pos	-1	0	Um and some 
+TS3007a.C.dialog-act.vkaraisk.5	152.59	153.58	C	ID	inf	+1	1	Um and some uh none of a fruit 
+TS3007a.C.dialog-act.vkaraisk.6	153.58	156.44	C	ID	inf	+1	1	uh none of a fruit or a i'm the industrial designer 
+TS3007a.A.dialog-act.vkaraisk.39	156.48	157.79	A	PM	und	-1	0	Industrial yes 
+TS3007a.D.dialog-act.vkaraisk.11	157.53	158.94	D	ME	inf	+1	1	I know tenth any um 
+TS3007a.D.dialog-act.vkaraisk.12	158.94	162.15	D	ME	inf	+1	1	tenth any um my function is some marketing expert 
+TS3007a.A.dialog-act.vkaraisk.40	162.28	162.72	A	PM	und	-1	0	Okay thank you 
+TS3007a.A.dialog-act.vkaraisk.41	162.72	163.17	A	PM	be.pos	-1	0	Okay thank you 
+TS3007a.A.dialog-act.vkaraisk.42	164.82	166.22	A	PM	off	+1	0	First though about the project and uh the 
+TS3007a.A.dialog-act.vkaraisk.43	166.22	170.7	A	PM	inf	+1	1	uh the the the aim is to make a new remote control and maybe 
+TS3007a.A.dialog-act.vkaraisk.44	170.7	173.61	A	PM	inf	+1	0	and maybe you have at uh reeve website it's a very 
+TS3007a.A.dialog-act.vkaraisk.45	173.61	178.24	A	PM	ass	-1	0	it's a very uh yeah very uh and issues uh company Yeah 
+TS3007a.A.dialog-act.vkaraisk.46	178.95	181.52	A	PM	inf	-1	0	Yeah you wanna do something else so uh 
+TS3007a.A.dialog-act.vkaraisk.47	181.52	181.79	A	PM	fra	-1	0	else so uh 
+TS3007a.A.dialog-act.vkaraisk.48	181.79	184.52	A	PM	inf	+1	0	else so uh there must be in new remote control um first 
+TS3007a.A.dialog-act.vkaraisk.49	184.52	188.72	A	PM	inf	+1	1	um first well uh it must be original uh and trendy it's 
+TS3007a.A.dialog-act.vkaraisk.50	188.72	192.32	A	PM	inf	-1	0	and trendy it's two things really are close to each other but at same time 
+TS3007a.A.dialog-act.vkaraisk.51	192.32	194.37	A	PM	inf	+1	1	but at same time uh user friendly and they have uh 
+TS3007a.A.dialog-act.vkaraisk.52	194.37	195.62	A	PM	fra	-1	0	and they have uh yeah that's 
+TS3007a.A.dialog-act.vkaraisk.53	195.62	195.79	A	PM	stl	-1	0	yeah that's 
+TS3007a.A.dialog-act.vkaraisk.54	195.79	198.04	A	PM	inf	-1	0	yeah that's a very important of them 
+TS3007a.A.dialog-act.vkaraisk.55	199.68	201.74	A	PM	inf	+1	1	Uh and there are three stages there's 
+TS3007a.A.dialog-act.vkaraisk.56	201.74	203.45	A	PM	inf	+1	1	stages there's functional design so uh 
+TS3007a.A.dialog-act.vkaraisk.57	203.45	204.02	A	PM	stl	-1	0	so uh what are we going to 
+TS3007a.A.dialog-act.vkaraisk.58	204.02	206.88	A	PM	inf	-1	0	what are we going to uh to uh to do what 
+TS3007a.A.dialog-act.vkaraisk.59	206.88	212.25	A	PM	inf	-1	0	uh to do what are we going to uh uh make a kind of functions in the uh remote and why are we going 
+TS3007a.A.dialog-act.vkaraisk.60	212.25	214.26	A	PM	inf	-1	0	and why are we going to do it in the conceptual 
+TS3007a.A.dialog-act.vkaraisk.61	214.26	215.86	A	PM	inf	+1	1	in the conceptual design how 
+TS3007a.A.dialog-act.vkaraisk.62	215.86	216.99	A	PM	inf	-1	0	design how are we going to do it 
+TS3007a.A.dialog-act.vkaraisk.63	218.208	220.69	A	PM	inf	-1	0	And that's uh really global uh 
+TS3007a.A.dialog-act.vkaraisk.64	220.69	233.19	A	PM	sug	+1	0	uh because at the detailed design how or two uh we go up to begin are really uh about how the the bit to techno of it's it's uh it's uh possible technical ones 
+TS3007a.D.dialog-act.vkaraisk.13	233.232	234.034	D	ME	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.65	234.58	244.68	A	PM	inf	+1	0	Uh it's states is uh uh Uh is broken up into uh two stages individual work in a meeting so it's 
+TS3007a.A.dialog-act.vkaraisk.66	244.68	246.91	A	PM	ass	-1	0	so it's uh it's very straightforward 
+TS3007a.A.dialog-act.vkaraisk.67	247.952	249.03	A	PM	stl	-1	0	Okay the tool training we have 
+TS3007a.A.dialog-act.vkaraisk.68	249.03	249.8	A	PM	off	+1	1	the tool training we have 
+TS3007a.A.dialog-act.vkaraisk.69	249.8	252.09	A	PM	inf	+1	1	the tool training we have two smartboards this one is for 
+TS3007a.A.dialog-act.vkaraisk.70	252.09	259.67	A	PM	inf	+1	1	this one is for the presentations the powerpoint presentations uh work presentation of one of you uh you have uh 
+TS3007a.A.dialog-act.vkaraisk.71	259.67	264.3	A	PM	inf	+1	1	you have uh and this is uh uh only for a drawing so uh we 
+TS3007a.A.dialog-act.vkaraisk.72	264.3	264.86	A	PM	stl	-1	0	so uh we 
+TS3007a.A.dialog-act.vkaraisk.73	264.86	269.85	A	PM	sug	-1	0	so uh we uh um let's let's uh stand on this uh this program this 
+TS3007a.A.dialog-act.vkaraisk.74	269.85	271.75	A	PM	inf	+1	0	this is called the smart board 
+TS3007a.D.dialog-act.vkaraisk.14	272.384	274.76	D	ME	be.pos	-1	0	Speaks for itself 
+TS3007a.A.dialog-act.vkaraisk.75	273.06	274.42	A	PM	inf	-1	0	Thing uh yeah it 
+TS3007a.A.dialog-act.vkaraisk.76	274.42	274.95	A	PM	ass	-1	0	yeah it 
+TS3007a.A.dialog-act.vkaraisk.77	274.95	277.01	A	PM	be.pos	-1	0	yeah it speaks for itself Um 
+TS3007a.A.dialog-act.vkaraisk.78	277.01	285.58	A	PM	inf	+1	1	and as you uh um a third the darkness in the shared folder uh can be uh showed on the screen not really and then might joke and so if 
+TS3007a.A.dialog-act.vkaraisk.79	285.58	288.44	A	PM	sug	+1	0	joke and so if you wanna show something put it in the shared folder 
+TS3007a.A.dialog-act.vkaraisk.80	290.032	297.92	A	PM	ass	+1	1	Uh it This uh a soap very straight to afford with the say to print the younger the blind to select pen well 
+TS3007a.A.dialog-act.vkaraisk.81	297.92	298.32	A	PM	stl	-1	0	pen well i don't 
+TS3007a.A.dialog-act.vkaraisk.82	298.32	300.8	A	PM	off	+1	0	i don't uh i can explain it all because 
+TS3007a.D.dialog-act.vkaraisk.15	300.3	301.15	D	ME	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.83	300.8	303.08	A	PM	inf	+1	0	explain it all because i think you know um how it works Um 
+TS3007a.A.dialog-act.vkaraisk.84	303.87	311.39	A	PM	sug	-1	0	Um we must not forget uh everything we draw on your uh uh almost besides we we 
+TS3007a.A.dialog-act.vkaraisk.85	311.39	313.42	A	PM	sug	+1	0	we we may not be need anything so uh if 
+TS3007a.A.dialog-act.vkaraisk.86	313.42	316.7	A	PM	sug	+1	0	so uh if you have to uh draw something say if it's not a daily 
+TS3007a.A.dialog-act.vkaraisk.87	316.7	317.64	A	PM	sug	-1	0	it's not a daily that's that's very 
+TS3007a.A.dialog-act.vkaraisk.88	317.64	319.42	A	PM	ass	-1	0	that's that's very important to say 
+TS3007a.D.dialog-act.vkaraisk.16	319.999	320.562	D	ME	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.89	321.47	323.83	A	PM	stl	-1	0	Okay uh a little 
+TS3007a.A.dialog-act.vkaraisk.90	323.83	327.34	A	PM	sug	+1	1	a little uh little can exercise to run know each other 
+TS3007a.B.dialog-act.vkaraisk.6	326.745	328.24	B	UI	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.17	327.568	328.896	D	ME	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.91	328.544	338.19	A	PM	sug	+1	1	At the the white board on the left Every uh every one of us uh most draw our favourite animal And uh 
+TS3007a.C.dialog-act.vkaraisk.7	329.312	330.537	C	ID	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.92	338.19	343.49	A	PM	sug	+1	1	And uh tell uh that was why we add that chosen that animal 
+TS3007a.A.dialog-act.vkaraisk.93	344.53	352.62	A	PM	sug	+1	1	Uh important is that we use different colours and uh different pen widths why it's it's yes 
+TS3007a.D.dialog-act.vkaraisk.18	351.86	353.18	D	ME	off	-1	0	I have a question um 
+TS3007a.A.dialog-act.vkaraisk.94	352.62	353.05	A	PM	sug	-1	0	yes 
+TS3007a.D.dialog-act.vkaraisk.19	353.18	359.03	D	ME	el.inf	-1	0	um this exercise um the the company board tell it to do it or uh did 
+TS3007a.A.dialog-act.vkaraisk.95	355.28	355.64	A	PM	bck	-1	0	Yeah 
+TS3007a.C.dialog-act.vkaraisk.8	358.853	362.278	C	ID	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.20	359.03	361.49	D	ME	el.inf	-1	0	or uh did you just make it up yourself 
+TS3007a.A.dialog-act.vkaraisk.96	361.5	362.07	A	PM	inf	-1	0	No no no it's a it's 
+TS3007a.A.dialog-act.vkaraisk.97	362.07	365.07	A	PM	fra	-1	0	it's a it's uh uh i i i must do it yeah 
+TS3007a.A.dialog-act.vkaraisk.98	365.07	365.74	A	PM	inf	-1	0	i must do it yeah 
+TS3007a.D.dialog-act.vkaraisk.21	364.9	366.21	D	ME	inf	-1	0	As part of the enter okay okay 
+TS3007a.A.dialog-act.vkaraisk.99	365.74	366.69	A	PM	ass	-1	0	i must do it yeah yeah "'cause" we 
+TS3007a.A.dialog-act.vkaraisk.100	366.69	368.68	A	PM	inf	-1	0	yeah "'cause" we uh really don't know each other and there's 
+TS3007a.D.dialog-act.vkaraisk.22	366.21	366.66	D	ME	und	-1	0	okay 
+TS3007a.A.dialog-act.vkaraisk.101	368.68	369.66	A	PM	inf	-1	0	know each other and there's a new so 
+TS3007a.A.dialog-act.vkaraisk.102	369.66	373.56	A	PM	sug	-1	0	a new so getting used to each other we can uh a lot of fun than before we 
+TS3007a.A.dialog-act.vkaraisk.103	373.56	376.38	A	PM	sug	-1	0	of fun than before we did begin really do the hard stuff that kind of thing 
+TS3007a.D.dialog-act.vkaraisk.23	373.97	376.432	D	ME	und	-1	0	Okay 
+TS3007a.A.dialog-act.vkaraisk.104	376.38	377.34	A	PM	inf	-1	0	that kind of thing which is there were 
+TS3007a.A.dialog-act.vkaraisk.105	377.34	380.04	A	PM	sug	+1	0	which is there were drawing or uh favourite animal 
+TS3007a.D.dialog-act.vkaraisk.24	379.11	381.38	D	ME	ass	-1	0	Um yeah i don't know really 
+TS3007a.D.dialog-act.vkaraisk.25	381.38	382.97	D	ME	inf	+1	0	yeah i don't know really how it works or 
+TS3007a.D.dialog-act.vkaraisk.26	382.97	385.15	D	ME	sug	-1	0	how it works or maybe you can show us first 
+TS3007a.A.dialog-act.vkaraisk.106	383.536	384.73	A	PM	und	-1	0	Okay okay yeah 
+TS3007a.A.dialog-act.vkaraisk.107	384.73	386.9	A	PM	ass	-1	0	yeah okay Drawing 
+TS3007a.A.dialog-act.vkaraisk.108	386.9	389.52	A	PM	inf	+1	0	Drawing goes with the this thing do that touch 
+TS3007a.A.dialog-act.vkaraisk.109	389.52	392.77	A	PM	sug	+1	0	do that touch your hand on uh this little uh thing easier that's an 
+TS3007a.A.dialog-act.vkaraisk.110	392.77	393.78	A	PM	ass	-1	0	thing easier that's an important so 
+TS3007a.D.dialog-act.vkaraisk.27	393.083	394.118	D	ME	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.111	393.78	396.03	A	PM	sug	-1	0	important so all it's uh like this 
+TS3007a.B.dialog-act.vkaraisk.7	394.048	396.384	B	UI	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.28	395.66	397.648	D	ME	be.pos	-1	0	Thank you get electrocuted or 
+TS3007a.A.dialog-act.vkaraisk.112	398.02	400.57	A	PM	be.pos	-1	0	i can uh So 
+TS3007a.C.dialog-act.vkaraisk.9	398.766	399.787	C	ID	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.29	398.784	399.409	D	ME	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.113	400.57	403.01	A	PM	stl	-1	0	So Um 
+TS3007a.A.dialog-act.vkaraisk.114	404.12	406.89	A	PM	sug	-1	0	You must uh uh push a little uh do because 
+TS3007a.A.dialog-act.vkaraisk.115	406.89	407.17	A	PM	fra	-1	0	uh do because and uh what a way 
+TS3007a.A.dialog-act.vkaraisk.116	407.17	409.46	A	PM	sug	+1	0	and uh what a way to uh wait a few seconds is not uh 
+TS3007a.A.dialog-act.vkaraisk.117	409.46	411.83	A	PM	inf	-1	0	seconds is not uh forty real time so 
+TS3007a.A.dialog-act.vkaraisk.118	411.83	413.29	A	PM	sug	-1	0	real time so uh what's that 
+TS3007a.B.dialog-act.vkaraisk.8	412.38	413.345	B	UI	oth	-1	0	No 
+TS3007a.A.dialog-act.vkaraisk.119	418.83	419.21	A	PM	oth	-1	0	Okay 
+TS3007a.A.dialog-act.vkaraisk.120	421.49	421.75	A	PM	stl	-1	0	Well i'm gonna 
+TS3007a.A.dialog-act.vkaraisk.121	421.75	425.4	A	PM	off	-1	0	Well i'm gonna a pain in uh Red 
+TS3007a.B.dialog-act.vkaraisk.9	421.36	421.991	B	UI	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.122	426.53	427.38	A	PM	ass	-1	0	Oh that's the background 
+TS3007a.B.dialog-act.vkaraisk.10	426.2	426.74	B	UI	oth	-1	0	Of 
+TS3007a.A.dialog-act.vkaraisk.123	427.38	430.0	A	PM	inf	-1	0	that's the background colour 
+TS3007a.D.dialog-act.vkaraisk.30	426.992	431.728	D	ME	fra	-1	0	{vocalsound}
+TS3007a.B.dialog-act.vkaraisk.11	428.821	430.224	B	UI	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.124	431.63	431.87	A	PM	stl	-1	0	Well undo 
+TS3007a.A.dialog-act.vkaraisk.125	431.87	432.33	A	PM	inf	-1	0	Well undo 
+TS3007a.A.dialog-act.vkaraisk.127	435.24	435.968	A	PM	stl	-1	0	Um 
+TS3007a.A.dialog-act.vkaraisk.126	438.82	446.4	A	PM	oth	-1	0	But yeah Mm 
+TS3007a.A.dialog-act.vkaraisk.128	449.35	450.893	A	PM	be.pos	-1	0	One minute please 
+TS3007a.C.dialog-act.vkaraisk.10	450.276	450.896	C	ID	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.129	460.69	469.9	A	PM	oth	-1	0	Yeah that's cool Well five okay 
+TS3007a.A.dialog-act.vkaraisk.130	469.9	470.41	A	PM	stl	-1	0	five okay 
+TS3007a.A.dialog-act.vkaraisk.131	471.328	471.552	A	PM	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.31	472.544	472.96	D	ME	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.132	474.528	477.23	A	PM	el.inf	-1	0	My favourite animal 
+TS3007a.C.dialog-act.vkaraisk.11	475.311	476.952	C	ID	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.32	477.49	480.512	D	ME	el.inf	-1	0	It's like pictionary 
+TS3007a.C.dialog-act.vkaraisk.12	478.672	480.32	C	ID	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.133	480.43	480.77	A	PM	inf	-1	0	Yeah you can 
+TS3007a.A.dialog-act.vkaraisk.134	480.77	482.17	A	PM	sug	+1	0	Yeah you can guess what it is 
+TS3007a.D.dialog-act.vkaraisk.33	481.39	485.27	D	ME	be.pos	-1	0	The the one who says the first uh Gets a race 
+TS3007a.A.dialog-act.vkaraisk.135	485.366	488.01	A	PM	be.pos	-1	0	May i think the next 
+TS3007a.C.dialog-act.vkaraisk.13	485.573	489.328	C	ID	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.34	488.144	490.032	D	ME	fra	-1	0	{vocalsound}
+TS3007a.B.dialog-act.vkaraisk.12	493.216	494.485	B	UI	fra	-1	0	{vocalsound}
+TS3007a.C.dialog-act.vkaraisk.14	493.712	498.944	C	ID	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.35	495.03	498.288	D	ME	el.inf	-1	0	It's a pork 
+TS3007a.A.dialog-act.vkaraisk.136	496.016	498.864	A	PM	inf	-1	0	No it's not an hour 
+TS3007a.B.dialog-act.vkaraisk.13	496.445	497.926	B	UI	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.137	500.26	501.95	A	PM	el.inf	-1	0	You don't see the ideas 
+TS3007a.D.dialog-act.vkaraisk.36	502.69	503.14	D	ME	inf	-1	0	Yeah i have here as well 
+TS3007a.D.dialog-act.vkaraisk.37	503.14	504.736	D	ME	inf	-1	0	i have here as well 
+TS3007a.A.dialog-act.vkaraisk.138	506.45	507.46	A	PM	el.inf	-1	0	You have an archive know 
+TS3007a.B.dialog-act.vkaraisk.14	507.76	508.82	B	UI	ass	-1	0	Very artistic 
+TS3007a.C.dialog-act.vkaraisk.15	508.72	510.16	C	ID	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.139	509.47	509.91	A	PM	be.pos	-1	0	Thank you 
+TS3007a.D.dialog-act.vkaraisk.38	510.608	510.992	D	ME	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.140	512.2	512.38	A	PM	stl	-1	0	So it's a cat 
+TS3007a.A.dialog-act.vkaraisk.141	512.38	514.029	A	PM	inf	+1	0	So it's a cat 
+TS3007a.D.dialog-act.vkaraisk.39	514.79	515.41	D	ME	el.inf	-1	0	What's it called 
+TS3007a.A.dialog-act.vkaraisk.142	516.23	517.48	A	PM	inf	-1	0	Same uh "'cause" uh 
+TS3007a.A.dialog-act.vkaraisk.143	517.48	519.06	A	PM	inf	-1	0	"'cause" uh we have a cat of the nominees of thing that 
+TS3007a.D.dialog-act.vkaraisk.40	517.2	517.47	D	ME	und	-1	0	Ah 
+TS3007a.A.dialog-act.vkaraisk.144	519.06	520.24	A	PM	inf	+1	1	of thing that was it looks like the 
+TS3007a.A.dialog-act.vkaraisk.145	520.24	523.37	A	PM	inf	-1	0	was it looks like the the the line from the line thing 
+TS3007a.B.dialog-act.vkaraisk.15	520.27	520.74	B	UI	bck	-1	0	Okay 
+TS3007a.B.dialog-act.vkaraisk.16	523.51	524.112	B	UI	fra	-1	0	{vocalsound}
+TS3007a.C.dialog-act.vkaraisk.16	523.482	523.884	C	ID	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.41	523.76	526.3	D	ME	el.inf	+1	1	I mean you have to exercise 
+TS3007a.A.dialog-act.vkaraisk.146	525.38	528.47	A	PM	inf	+1	1	So we have some kinda cool to uh name is there a line 
+TS3007a.D.dialog-act.vkaraisk.42	528.57	528.85	D	ME	bck	-1	0	Okay 
+TS3007a.D.dialog-act.vkaraisk.43	530.96	531.392	D	ME	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.147	539.81	540.66	A	PM	inf	-1	0	Is happy with us so 
+TS3007a.A.dialog-act.vkaraisk.148	540.66	541.16	A	PM	stl	-1	0	happy with us so 
+TS3007a.A.dialog-act.vkaraisk.149	542.83	543.41	A	PM	inf	-1	0	You smiling 
+TS3007a.B.dialog-act.vkaraisk.17	543.91	544.25	B	UI	ass	-1	0	Mm 
+TS3007a.B.dialog-act.vkaraisk.18	545.39	548.91	B	UI	el.inf	-1	0	He does everybody But 
+TS3007a.A.dialog-act.vkaraisk.150	547.76	548.08	A	PM	inf	-1	0	No only the phase because 
+TS3007a.A.dialog-act.vkaraisk.151	548.08	548.73	A	PM	inf	-1	0	the phase because 
+TS3007a.A.dialog-act.vkaraisk.152	548.73	551.5	A	PM	inf	-1	0	the phase because we have we have two and twenty five minutes so we uh 
+TS3007a.A.dialog-act.vkaraisk.154	551.5	553.33	A	PM	stl	-1	0	so we uh Yeah 
+TS3007a.D.dialog-act.vkaraisk.44	551.48	552.48	D	ME	und	-1	0	Are gonna have to speed 
+TS3007a.D.dialog-act.vkaraisk.45	552.48	553.31	D	ME	sug	-1	0	have to speed up 
+TS3007a.A.dialog-act.vkaraisk.153	553.33	553.95	A	PM	ass	-1	0	Yeah 
+TS3007a.D.dialog-act.vkaraisk.46	555.88	559.96	D	ME	sug	-1	0	Remember you use uh different colours and different pen widths 
+TS3007a.A.dialog-act.vkaraisk.155	560.05	560.38	A	PM	ass	-1	0	Yeah 
+TS3007a.A.dialog-act.vkaraisk.156	561.57	561.83	A	PM	stl	-1	0	Okay wants 
+TS3007a.A.dialog-act.vkaraisk.157	561.83	563.12	A	PM	el.sug	-1	0	Okay wants to go next 
+TS3007a.D.dialog-act.vkaraisk.47	565.31	565.99	D	ME	sug	-1	0	Oh okay 
+TS3007a.A.dialog-act.vkaraisk.158	566.44	566.7	A	PM	oth	-1	0	Yeah 
+TS3007a.C.dialog-act.vkaraisk.17	566.545	567.376	C	ID	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.159	567.88	568.04	A	PM	stl	-1	0	So choose or coloured shoes 
+TS3007a.A.dialog-act.vkaraisk.160	568.04	568.9	A	PM	sug	-1	0	choose or coloured shoes 
+TS3007a.A.dialog-act.vkaraisk.161	568.9	570.54	A	PM	sug	-1	0	choose or coloured shoes and with and draw 
+TS3007a.A.dialog-act.vkaraisk.162	570.54	571.05	A	PM	sug	-1	0	and draw uh 
+TS3007a.A.dialog-act.vkaraisk.163	571.05	571.453	A	PM	fra	-1	0	uh 
+TS3007a.B.dialog-act.vkaraisk.19	571.07	575.16	B	UI	el.inf	-1	0	You don't have to change the colour and the pen with ensuring yeah but rolling or 
+TS3007a.D.dialog-act.vkaraisk.48	573.22	573.65	D	ME	sug	-1	0	Save it 
+TS3007a.A.dialog-act.vkaraisk.164	575.33	575.54	A	PM	ass	-1	0	Yeah 
+TS3007a.B.dialog-act.vkaraisk.20	575.16	575.546	B	UI	fra	-1	0	or 
+TS3007a.D.dialog-act.vkaraisk.49	575.67	576.37	D	ME	sug	-1	0	If the side 
+TS3007a.A.dialog-act.vkaraisk.165	576.74	577.7	A	PM	und	-1	0	Save it okay 
+TS3007a.C.dialog-act.vkaraisk.18	578.135	578.638	C	ID	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.50	578.11	579.29	D	ME	inf	-1	0	I don't know 
+TS3007a.D.dialog-act.vkaraisk.51	579.29	579.65	D	ME	oth	-1	0	know 
+TS3007a.D.dialog-act.vkaraisk.52	583.52	583.86	D	ME	oth	-1	0	Okay 
+TS3007a.B.dialog-act.vkaraisk.21	589.96	592.15	B	UI	el.inf	+1	0	You have to scroll uh push hard on the pen right 
+TS3007a.B.dialog-act.vkaraisk.22	592.15	592.48	B	UI	fra	-1	0	right 
+TS3007a.D.dialog-act.vkaraisk.53	592.66	596.21	D	ME	inf	-1	0	Mark Not really Um 
+TS3007a.A.dialog-act.vkaraisk.166	596.26	597.34	A	PM	inf	-1	0	Kind of firm touch 
+TS3007a.B.dialog-act.vkaraisk.23	597.617	598.086	B	UI	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.54	598.89	599.41	D	ME	oth	-1	0	That one 
+TS3007a.B.dialog-act.vkaraisk.24	599.52	600.15	B	UI	oth	-1	0	Oh yeah 
+TS3007a.D.dialog-act.vkaraisk.55	609.73	610.27	D	ME	bck	-1	0	Yeah 
+TS3007a.D.dialog-act.vkaraisk.56	613.44	613.77	D	ME	und	-1	0	Okay 
+TS3007a.D.dialog-act.vkaraisk.57	617.68	618.19	D	ME	oth	-1	0	Open 
+TS3007a.D.dialog-act.vkaraisk.58	620.01	620.77	D	ME	el.inf	-1	0	one 
+TS3007a.D.dialog-act.vkaraisk.59	625.41	626.79	D	ME	und	-1	0	Smart more okay 
+TS3007a.A.dialog-act.vkaraisk.167	627.31	627.58	A	PM	ass	-1	0	Yeah 
+TS3007a.B.dialog-act.vkaraisk.25	627.27	627.66	B	UI	ass	-1	0	Okay 
+TS3007a.C.dialog-act.vkaraisk.19	627.12	627.712	C	ID	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.60	626.79	628.04	D	ME	und	-1	0	okay and now 
+TS3007a.D.dialog-act.vkaraisk.61	628.04	628.63	D	ME	el.sug	-1	0	and now 
+TS3007a.D.dialog-act.vkaraisk.62	638.1	638.46	D	ME	und	-1	0	Okay 
+TS3007a.D.dialog-act.vkaraisk.63	639.54	639.97	D	ME	und	-1	0	Okay thanks 
+TS3007a.D.dialog-act.vkaraisk.64	639.97	640.33	D	ME	be.pos	-1	0	Okay thanks 
+TS3007a.D.dialog-act.vkaraisk.65	643.99	644.12	D	ME	stl	-1	0	Yeah speed up 
+TS3007a.D.dialog-act.vkaraisk.66	644.12	645.26	D	ME	inf	-1	0	Yeah speed up 
+TS3007a.D.dialog-act.vkaraisk.67	646.67	647.54	D	ME	oth	-1	0	Yeah sure 
+TS3007a.D.dialog-act.vkaraisk.68	649.59	650.03	D	ME	oth	-1	0	Mine 
+TS3007a.C.dialog-act.vkaraisk.20	650.56	650.87	C	ID	stl	-1	0	But uh well 
+TS3007a.C.dialog-act.vkaraisk.21	650.87	652.33	C	ID	el.inf	-1	0	But uh well i should get uh red 
+TS3007a.A.dialog-act.vkaraisk.168	653.03	655.79	A	PM	inf	-1	0	Because uh my cat is write that down and i have 
+TS3007a.B.dialog-act.vkaraisk.26	654.57	655.08	B	UI	und	-1	0	Oh 
+TS3007a.C.dialog-act.vkaraisk.22	654.53	655.6	C	ID	und	-1	0	Oh yeah 
+TS3007a.A.dialog-act.vkaraisk.169	655.79	656.5	A	PM	inf	-1	0	and i have red hair so well 
+TS3007a.A.dialog-act.vkaraisk.170	656.5	658.79	A	PM	sug	-1	0	red hair so well it must be red 
+TS3007a.B.dialog-act.vkaraisk.27	656.86	658.36	B	UI	be.pos	-1	0	It's a very bloody "'kay" 
+TS3007a.C.dialog-act.vkaraisk.23	656.469	657.87	C	ID	und	-1	0	Oh yeah sure 
+TS3007a.B.dialog-act.vkaraisk.28	659.52	660.688	B	UI	inf	-1	0	It's a fraud 
+TS3007a.C.dialog-act.vkaraisk.24	661.37	661.44	C	ID	ass	-1	0	That's that's all 
+TS3007a.C.dialog-act.vkaraisk.25	661.44	663.04	C	ID	inf	-1	0	That's that's all 
+TS3007a.B.dialog-act.vkaraisk.29	662.224	666.016	B	UI	be.neg	-1	0	Yeah it's an apple 
+TS3007a.C.dialog-act.vkaraisk.26	665.217	667.52	C	ID	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.69	666.773	668.43	D	ME	inf	-1	0	Um at all 
+TS3007a.C.dialog-act.vkaraisk.27	669.5	672.49	C	ID	inf	-1	0	Was it dark He's 
+TS3007a.B.dialog-act.vkaraisk.30	671.79	673.696	B	UI	und	-1	0	Oh okay 
+TS3007a.C.dialog-act.vkaraisk.28	672.49	674.05	C	ID	inf	-1	0	He's 
+TS3007a.D.dialog-act.vkaraisk.70	674.82	680.016	D	ME	oth	-1	0	Hmm Colour 
+TS3007a.D.dialog-act.vkaraisk.71	681.46	682.98	D	ME	oth	-1	0	Something like this 
+TS3007a.D.dialog-act.vkaraisk.72	685.27	685.84	D	ME	oth	-1	0	Uh huh 
+TS3007a.A.dialog-act.vkaraisk.171	688.672	689.688	A	PM	fra	-1	0	{vocalsound}
+TS3007a.B.dialog-act.vkaraisk.31	688.76	689.0	B	UI	und	-1	0	Yeah 
+TS3007a.C.dialog-act.vkaraisk.29	689.328	690.32	C	ID	fra	-1	0	{vocalsound}
+TS3007a.B.dialog-act.vkaraisk.32	690.63	690.84	B	UI	und	-1	0	Oh is 
+TS3007a.B.dialog-act.vkaraisk.33	690.84	691.8	B	UI	ass	+1	0	Oh is this a turtle 
+TS3007a.A.dialog-act.vkaraisk.172	692.03	692.86	A	PM	und	+1	1	that's there no why 
+TS3007a.A.dialog-act.vkaraisk.173	692.86	694.37	A	PM	el.inf	-1	0	that's there no why a turtle or ten 
+TS3007a.D.dialog-act.vkaraisk.73	695.61	699.28	D	ME	inf	+1	1	Um So like teenage mutant here as the 
+TS3007a.A.dialog-act.vkaraisk.174	699.352	703.01	A	PM	el.inf	-1	0	You watched a lot You watch a lot 
+TS3007a.B.dialog-act.vkaraisk.34	698.986	700.106	B	UI	fra	-1	0	{vocalsound}
+TS3007a.C.dialog-act.vkaraisk.30	699.475	701.625	C	ID	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.75	700.288	701.351	D	ME	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.74	702.48	702.78	D	ME	und	-1	0	Ah 
+TS3007a.A.dialog-act.vkaraisk.175	703.01	703.92	A	PM	el.inf	-1	0	You watch a lot 
+TS3007a.B.dialog-act.vkaraisk.35	704.36	707.35	B	UI	sug	-1	0	It's the inside is you'll you'll be uh finnish citizen 
+TS3007a.D.dialog-act.vkaraisk.76	706.8	707.06	D	ME	ass	-1	0	No it's uh 
+TS3007a.D.dialog-act.vkaraisk.77	707.06	707.824	D	ME	fra	-1	0	it's uh 
+TS3007a.A.dialog-act.vkaraisk.176	708.52	709.49	A	PM	inf	-1	0	It's scared don't know 
+TS3007a.D.dialog-act.vkaraisk.78	710.69	712.05	D	ME	ass	-1	0	Nah it's coming out 
+TS3007a.D.dialog-act.vkaraisk.79	712.05	713.01	D	ME	inf	-1	0	it's coming out 
+TS3007a.D.dialog-act.vkaraisk.80	715.78	715.96	D	ME	oth	-1	0	Uh-huh 
+TS3007a.D.dialog-act.vkaraisk.81	719.29	719.47	D	ME	oth	-1	0	Ah 
+TS3007a.B.dialog-act.vkaraisk.36	722.25	722.71	B	UI	ass	-1	0	Well 
+TS3007a.A.dialog-act.vkaraisk.177	723.472	724.033	A	PM	fra	-1	0	{vocalsound}
+TS3007a.B.dialog-act.vkaraisk.37	728.176	730.077	B	UI	fra	-1	0	{vocalsound}
+TS3007a.C.dialog-act.vkaraisk.31	728.608	730.528	C	ID	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.178	731.056	735.04	A	PM	be.pos	-1	0	Okay ten thank you 
+TS3007a.D.dialog-act.vkaraisk.82	732.48	735.44	D	ME	inf	-1	0	Some like this okay yeah Very artistic 
+TS3007a.B.dialog-act.vkaraisk.38	733.76	734.816	B	UI	fra	-1	0	{vocalsound}
+TS3007a.C.dialog-act.vkaraisk.32	733.675	735.029	C	ID	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.83	735.44	736.8	D	ME	be.neg	-1	0	Very artistic 
+TS3007a.A.dialog-act.vkaraisk.179	737.16	738.6	A	PM	sug	-1	0	You and you want to go next 
+TS3007a.B.dialog-act.vkaraisk.39	739.11	741.44	B	UI	ass	-1	0	Yeah skip okay thank 
+TS3007a.B.dialog-act.vkaraisk.40	741.44	741.84	B	UI	fra	-1	0	thank 
+TS3007a.B.dialog-act.vkaraisk.41	741.84	742.52	B	UI	be.pos	-1	0	thank you 
+TS3007a.D.dialog-act.vkaraisk.84	741.37	741.78	D	ME	el.ass	-1	0	Yeah 
+TS3007a.D.dialog-act.vkaraisk.85	745.65	746.06	D	ME	sug	-1	0	A lot 
+TS3007a.B.dialog-act.vkaraisk.42	746.26	746.59	B	UI	ass	-1	0	Yeah 
+TS3007a.B.dialog-act.vkaraisk.43	748.96	749.648	B	UI	stl	-1	0	Mm 
+TS3007a.D.dialog-act.vkaraisk.86	749.952	752.784	D	ME	fra	-1	0	{vocalsound}
+TS3007a.C.dialog-act.vkaraisk.33	751.744	752.496	C	ID	fra	-1	0	{vocalsound}
+TS3007a.B.dialog-act.vkaraisk.44	753.46	754.45	B	UI	el.inf	-1	0	How does it work 
+TS3007a.A.dialog-act.vkaraisk.180	755.44	756.06	A	PM	sug	-1	0	Format 
+TS3007a.A.dialog-act.vkaraisk.181	757.15	759.13	A	PM	inf	-1	0	And then you have the the current colour you can change 
+TS3007a.B.dialog-act.vkaraisk.45	756.66	757.31	B	UI	el.inf	-1	0	Four months 
+TS3007a.A.dialog-act.vkaraisk.182	759.13	759.86	A	PM	sug	-1	0	you can change 
+TS3007a.A.dialog-act.vkaraisk.183	761.84	763.44	A	PM	sug	-1	0	Sonoma red or green 
+TS3007a.B.dialog-act.vkaraisk.46	763.56	764.31	B	UI	oth	-1	0	And and 
+TS3007a.A.dialog-act.vkaraisk.184	764.72	766.74	A	PM	sug	-1	0	And uh align their way of 
+TS3007a.A.dialog-act.vkaraisk.185	767.87	768.59	A	PM	inf	-1	0	I at five p. m. f. c. 
+TS3007a.D.dialog-act.vkaraisk.87	767.584	768.598	D	ME	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.186	768.59	769.36	A	PM	fra	-1	0	at five p. m. f. c. c. and 
+TS3007a.A.dialog-act.vkaraisk.187	769.36	772.35	A	PM	el.inf	+1	0	c. and what kind the line width uh yeah 
+TS3007a.B.dialog-act.vkaraisk.47	769.77	770.824	B	UI	stl	-1	0	Um 
+TS3007a.D.dialog-act.vkaraisk.88	771.87	774.27	D	ME	inf	+1	0	Uh the big lines were or like mine 
+TS3007a.A.dialog-act.vkaraisk.188	774.768	775.152	A	PM	fra	-1	0	{vocalsound}
+TS3007a.C.dialog-act.vkaraisk.34	775.216	775.488	C	ID	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.189	776.69	777.14	A	PM	stl	-1	0	Okay it's a dog 
+TS3007a.A.dialog-act.vkaraisk.190	777.14	777.86	A	PM	inf	+1	1	it's a dog 
+TS3007a.B.dialog-act.vkaraisk.48	778.25	778.62	B	UI	stl	-1	0	Well for it i 
+TS3007a.B.dialog-act.vkaraisk.49	778.62	779.03	B	UI	be.pos	-1	0	Well for it i i 
+TS3007a.B.dialog-act.vkaraisk.50	779.03	783.17	B	UI	inf	-1	0	i i just uh thought i'd take to use this one 
+TS3007a.C.dialog-act.vkaraisk.35	778.619	780.56	C	ID	oth	-1	0	Well 
+TS3007a.A.dialog-act.vkaraisk.191	782.21	783.07	A	PM	und	-1	0	Okay why don't you have 
+TS3007a.A.dialog-act.vkaraisk.192	783.07	783.76	A	PM	el.inf	-1	0	why don't you have 
+TS3007a.A.dialog-act.vkaraisk.193	783.76	784.61	A	PM	el.inf	-1	0	why don't you have a daughter no 
+TS3007a.B.dialog-act.vkaraisk.51	784.53	784.75	B	UI	stl	-1	0	Well we have 
+TS3007a.B.dialog-act.vkaraisk.52	784.75	787.4	B	UI	inf	+1	1	Well we have a dark a few years ago and then and 
+TS3007a.A.dialog-act.vkaraisk.194	785.88	787.35	A	PM	und	-1	0	Have a dark yeah 
+TS3007a.D.dialog-act.vkaraisk.89	785.76	786.19	D	ME	fra	-1	0	Okay 
+TS3007a.A.dialog-act.vkaraisk.195	787.35	787.64	A	PM	bck	-1	0	yeah 
+TS3007a.B.dialog-act.vkaraisk.53	787.4	788.7	B	UI	fra	-1	0	and then and now yeah when 
+TS3007a.B.dialog-act.vkaraisk.54	788.7	788.92	B	UI	stl	-1	0	now yeah when 
+TS3007a.B.dialog-act.vkaraisk.55	788.92	791.98	B	UI	inf	+1	1	now yeah when it dies we didn't get new one or something but 
+TS3007a.A.dialog-act.vkaraisk.196	791.35	791.75	A	PM	und	-1	0	Are 
+TS3007a.B.dialog-act.vkaraisk.56	791.98	792.811	B	UI	fra	-1	0	but uh 
+TS3007a.D.dialog-act.vkaraisk.90	791.87	793.232	D	ME	ass	-1	0	It's pretty good uh 
+TS3007a.C.dialog-act.vkaraisk.36	793.841	794.344	C	ID	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.197	795.1	797.77	A	PM	be.pos	-1	0	We have an artistic uh in the middle 
+TS3007a.D.dialog-act.vkaraisk.91	795.312	800.11	D	ME	be.pos	-1	0	An artist 
+TS3007a.A.dialog-act.vkaraisk.198	800.994	802.181	A	PM	fra	-1	0	{vocalsound}
+TS3007a.B.dialog-act.vkaraisk.57	801.19	803.652	B	UI	be.pos	-1	0	Uh graphical user design issue 
+TS3007a.A.dialog-act.vkaraisk.199	803.376	804.032	A	PM	fra	-1	0	{vocalsound}
+TS3007a.C.dialog-act.vkaraisk.37	804.04	804.19	C	ID	bck	-1	0	Hmm 
+TS3007a.B.dialog-act.vkaraisk.58	804.58	804.76	B	UI	oth	-1	0	Yeah 
+TS3007a.D.dialog-act.vkaraisk.92	806.31	811.02	D	ME	ass	-1	0	Thank you uh pick the wrong a a function One job 
+TS3007a.A.dialog-act.vkaraisk.200	811.408	812.149	A	PM	fra	-1	0	{vocalsound}
+TS3007a.B.dialog-act.vkaraisk.59	811.968	813.14	B	UI	oth	-1	0	Oh oh 
+TS3007a.D.dialog-act.vkaraisk.93	813.483	814.22	D	ME	fra	-1	0	{vocalsound}
+TS3007a.B.dialog-act.vkaraisk.60	814.21	816.61	B	UI	oth	-1	0	Now work uh colour 
+TS3007a.A.dialog-act.vkaraisk.201	821.67	826.84	A	PM	ass	+1	0	So i think you can see is really uh really easy problem to use not difficult at all 
+TS3007a.D.dialog-act.vkaraisk.94	827.25	827.49	D	ME	fra	-1	0	Yeah 
+TS3007a.B.dialog-act.vkaraisk.61	832.0	833.29	B	UI	stl	-1	0	Well that's okay 
+TS3007a.A.dialog-act.vkaraisk.202	833.3	833.84	A	PM	stl	-1	0	Okay thank 
+TS3007a.B.dialog-act.vkaraisk.62	833.29	834.12	B	UI	ass	-1	0	Well that's okay 
+TS3007a.A.dialog-act.vkaraisk.203	833.84	836.08	A	PM	be.pos	-1	0	Okay thank you 
+TS3007a.C.dialog-act.vkaraisk.38	834.352	835.694	C	ID	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.95	834.496	836.54	D	ME	be.pos	-1	0	That's enough fair 
+TS3007a.B.dialog-act.vkaraisk.63	835.504	837.673	B	UI	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.96	836.54	838.635	D	ME	be.pos	-1	0	That's enough fair 
+TS3007a.A.dialog-act.vkaraisk.204	837.09	838.87	A	PM	sug	-1	0	Yeah that's the last one 
+TS3007a.C.dialog-act.vkaraisk.39	837.62	838.64	C	ID	ass	-1	0	Yeah sure 
+TS3007a.B.dialog-act.vkaraisk.64	839.28	840.0	B	UI	oth	-1	0	Yeah 
+TS3007a.C.dialog-act.vkaraisk.40	842.96	843.72	C	ID	be.pos	-1	0	I think 
+TS3007a.D.dialog-act.vkaraisk.97	844.6	845.26	D	ME	el.inf	-1	0	I wonder 
+TS3007a.A.dialog-act.vkaraisk.205	845.97	846.64	A	PM	ass	-1	0	Yeah after 
+TS3007a.A.dialog-act.vkaraisk.206	846.64	849.1	A	PM	el.inf	-1	0	after a cat a turtle in the dark 
+TS3007a.C.dialog-act.vkaraisk.41	846.48	850.016	C	ID	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.98	849.104	850.529	D	ME	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.207	851.44	853.996	A	PM	inf	-1	0	I think it's gonna draw elephant 
+TS3007a.B.dialog-act.vkaraisk.65	853.072	853.989	B	UI	fra	-1	0	{vocalsound}
+TS3007a.C.dialog-act.vkaraisk.42	854.32	855.97	C	ID	inf	-1	0	I figure should do something like that 
+TS3007a.A.dialog-act.vkaraisk.208	856.192	856.752	A	PM	fra	-1	0	{vocalsound}
+TS3007a.C.dialog-act.vkaraisk.43	855.97	859.04	C	ID	off	-1	0	do something like that i'm gonna do that something much what the schools 
+TS3007a.D.dialog-act.vkaraisk.99	856.818	859.216	D	ME	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.209	859.2	859.75	A	PM	be.pos	-1	0	Oh 
+TS3007a.B.dialog-act.vkaraisk.66	859.56	860.73	B	UI	be.pos	-1	0	Uh i'll only 
+TS3007a.B.dialog-act.vkaraisk.67	860.73	860.84	B	UI	stl	-1	0	only 
+TS3007a.B.dialog-act.vkaraisk.68	860.84	862.88	B	UI	ass	-1	0	only if you have to stick really good 
+TS3007a.A.dialog-act.vkaraisk.210	862.736	863.248	A	PM	fra	-1	0	{vocalsound}
+TS3007a.C.dialog-act.vkaraisk.44	863.616	864.144	C	ID	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.100	864.72	869.462	D	ME	off	-1	0	And can design a remote uh remote control out of all 
+TS3007a.B.dialog-act.vkaraisk.69	866.677	868.83	B	UI	inf	-1	0	Remote control and on off 
+TS3007a.C.dialog-act.vkaraisk.45	867.818	873.792	C	ID	ass	-1	0	Exactly Uh 
+TS3007a.A.dialog-act.vkaraisk.211	868.371	869.824	A	PM	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.101	870.528	873.34	D	ME	fra	-1	0	Oh Sorry 
+TS3007a.A.dialog-act.vkaraisk.212	871.2	872.225	A	PM	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.102	873.34	873.76	D	ME	be.pos	-1	0	Sorry 
+TS3007a.B.dialog-act.vkaraisk.70	878.17	878.36	B	UI	stl	-1	0	Well with the interface 
+TS3007a.B.dialog-act.vkaraisk.71	878.36	883.0	B	UI	ass	-1	0	Well with the interface might be easy to have to draw here and display there 
+TS3007a.D.dialog-act.vkaraisk.103	882.03	882.33	D	ME	ass	-1	0	Yeah 
+TS3007a.A.dialog-act.vkaraisk.213	886.88	887.924	A	PM	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.104	887.45	888.57	D	ME	ass	-1	0	Yeah that might be easier but 
+TS3007a.D.dialog-act.vkaraisk.105	888.57	894.48	D	ME	ass	-1	0	be easier but at the other hand uh a pen like there is easy to hold in your hand um 
+TS3007a.D.dialog-act.vkaraisk.106	894.48	894.72	D	ME	fra	-1	0	your hand um 
+TS3007a.A.dialog-act.vkaraisk.214	895.63	895.93	A	PM	bck	-1	0	No 
+TS3007a.D.dialog-act.vkaraisk.107	896.45	898.62	D	ME	ass	-1	0	I think it's easier to draw yeah 
+TS3007a.A.dialog-act.vkaraisk.215	897.53	899.552	A	PM	und	-1	0	Better to draw with uh with 
+TS3007a.D.dialog-act.vkaraisk.108	898.62	901.23	D	ME	inf	-1	0	yeah what the pen then where the mouse mouse 
+TS3007a.B.dialog-act.vkaraisk.72	899.64	901.15	B	UI	fra	-1	0	And and uh but yeah i mean i mean 
+TS3007a.A.dialog-act.vkaraisk.216	901.536	904.016	A	PM	fra	-1	0	{vocalsound}
+TS3007a.B.dialog-act.vkaraisk.73	901.15	901.46	B	UI	stl	-1	0	yeah i mean i mean 
+TS3007a.B.dialog-act.vkaraisk.74	901.46	907.735	B	UI	ass	-1	0	yeah i mean i mean like uh like all here uh drawing drawing uh and then displaying on screen not 
+TS3007a.C.dialog-act.vkaraisk.46	902.427	903.834	C	ID	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.109	903.07	903.53	D	ME	oth	-1	0	But 
+TS3007a.D.dialog-act.vkaraisk.110	904.84	906.12	D	ME	und	-1	0	Oh okay yeah 
+TS3007a.D.dialog-act.vkaraisk.111	906.12	906.41	D	ME	ass	-1	0	yeah 
+TS3007a.D.dialog-act.vkaraisk.112	906.41	910.405	D	ME	ass	-1	0	yeah but this papers to my uh too expensive 
+TS3007a.A.dialog-act.vkaraisk.217	907.78	909.79	A	PM	el.inf	-1	0	But what they see uh it's the 
+TS3007a.B.dialog-act.vkaraisk.75	909.28	910.58	B	UI	ass	-1	0	But that's it 
+TS3007a.A.dialog-act.vkaraisk.218	909.79	910.55	A	PM	el.inf	+1	0	it's the read it 
+TS3007a.C.dialog-act.vkaraisk.47	911.25	914.23	C	ID	inf	-1	0	Yes No 
+TS3007a.A.dialog-act.vkaraisk.219	912.39	913.51	A	PM	el.inf	-1	0	You have a relative though 
+TS3007a.D.dialog-act.vkaraisk.113	912.186	913.457	D	ME	fra	-1	0	{vocalsound}
+TS3007a.C.dialog-act.vkaraisk.48	914.23	914.73	C	ID	inf	-1	0	No 
+TS3007a.D.dialog-act.vkaraisk.114	914.79	919.024	D	ME	el.inf	-1	0	It's a rather with uh a broken legs 
+TS3007a.B.dialog-act.vkaraisk.76	915.32	916.17	B	UI	inf	-1	0	I agree yeah 
+TS3007a.C.dialog-act.vkaraisk.49	917.136	920.062	C	ID	inf	-1	0	No 
+TS3007a.A.dialog-act.vkaraisk.220	917.74	919.32	A	PM	fra	-1	0	Is that the white rat if it's the white rabbit 
+TS3007a.A.dialog-act.vkaraisk.221	919.32	920.96	A	PM	inf	+1	1	it's the white rabbit from the matrix 
+TS3007a.C.dialog-act.vkaraisk.50	921.17	924.446	C	ID	ass	+1	1	Yeah exactly 
+TS3007a.A.dialog-act.vkaraisk.222	922.14	923.17	A	PM	und	-1	0	Okay then yeah 
+TS3007a.B.dialog-act.vkaraisk.77	922.7	924.3	B	UI	be.pos	-1	0	But we are wide screen a bit 
+TS3007a.C.dialog-act.vkaraisk.51	925.59	925.73	C	ID	oth	-1	0	Uh 
+TS3007a.B.dialog-act.vkaraisk.78	926.496	930.684	B	UI	be.pos	-1	0	It's a little bit still wouldn't it 
+TS3007a.C.dialog-act.vkaraisk.52	926.848	928.448	C	ID	fra	-1	0	{vocalsound}
+TS3007a.C.dialog-act.vkaraisk.53	929.904	934.83	C	ID	ass	-1	0	Uh i think it is isn't prima good impression of all rabbit 
+TS3007a.D.dialog-act.vkaraisk.115	935.22	937.18	D	ME	ass	-1	0	Yeah It will do 
+TS3007a.C.dialog-act.vkaraisk.54	936.58	938.8	C	ID	oth	-1	0	Uh-huh Uh huh 
+TS3007a.A.dialog-act.vkaraisk.223	939.01	939.54	A	PM	stl	-1	0	Okay finish think 
+TS3007a.A.dialog-act.vkaraisk.224	939.54	940.32	A	PM	sug	-1	0	Okay finish think that's an are we going further 
+TS3007a.A.dialog-act.vkaraisk.225	940.32	941.4	A	PM	sug	-1	0	that's an are we going further 
+TS3007a.B.dialog-act.vkaraisk.79	942.544	945.136	B	UI	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.117	945.14	946.97	D	ME	el.inf	-1	0	Was it man here uh 
+TS3007a.A.dialog-act.vkaraisk.226	946.55	947.04	A	PM	el.inf	-1	0	Yeah 
+TS3007a.C.dialog-act.vkaraisk.55	947.38	948.13	C	ID	el.sug	-1	0	What does then they'll just uh 
+TS3007a.C.dialog-act.vkaraisk.56	948.13	948.947	C	ID	fra	-1	0	just uh 
+TS3007a.D.dialog-act.vkaraisk.118	948.35	950.94	D	ME	el.inf	-1	0	Have you been uh counting the time 
+TS3007a.A.dialog-act.vkaraisk.227	951.65	953.403	A	PM	inf	-1	0	Yeah they'll 
+TS3007a.D.dialog-act.vkaraisk.119	952.47	952.75	D	ME	und	-1	0	Okay 
+TS3007a.D.dialog-act.vkaraisk.120	956.87	957.72	D	ME	sug	-1	0	Let's go online 
+TS3007a.A.dialog-act.vkaraisk.228	961.34	961.63	A	PM	stl	-1	0	Well i think it 
+TS3007a.A.dialog-act.vkaraisk.229	961.63	965.26	A	PM	ass	-1	0	Well i think it down is the the most the case that 
+TS3007a.C.dialog-act.vkaraisk.57	963.66	967.52	C	ID	ass	-1	0	Uh i figured out that was actually the box to impress 
+TS3007a.D.dialog-act.vkaraisk.121	966.384	967.952	D	ME	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.230	967.91	968.9	A	PM	sug	-1	0	Don't use for yourself that's 
+TS3007a.C.dialog-act.vkaraisk.58	968.252	970.634	C	ID	be.pos	-1	0	The on site 
+TS3007a.A.dialog-act.vkaraisk.231	968.9	970.11	A	PM	be.neg	-1	0	use for yourself that's selfish okay now we're 
+TS3007a.A.dialog-act.vkaraisk.232	970.11	970.87	A	PM	stl	-1	0	okay now we're 
+TS3007a.A.dialog-act.vkaraisk.233	970.87	973.94	A	PM	sug	+1	0	okay now we're gonna begin to the uh it's pretty serious stuff 
+TS3007a.D.dialog-act.vkaraisk.122	970.6	971.86	D	ME	inf	-1	0	It's pretty abstract 
+TS3007a.A.dialog-act.vkaraisk.234	974.262	979.85	A	PM	inf	+1	1	Uhuh The selling price for the remote will be uh at twenty five euro uh 
+TS3007a.A.dialog-act.vkaraisk.235	979.85	985.8	A	PM	inf	+1	1	euro uh and the production costs um may not be more than up twenty and a half euro so 
+TS3007a.A.dialog-act.vkaraisk.236	985.8	987.23	A	PM	stl	-1	0	half euro so uh from my point 
+TS3007a.A.dialog-act.vkaraisk.237	987.23	1000.37	A	PM	ass	+1	1	from my point if you i don't think it's the gonna be very uh very high tech high definition uh all from a turn uh kind of remote for twelve uh fifth uh at twelve twelve euro Uh 
+TS3007a.D.dialog-act.vkaraisk.123	993.728	1000.832	D	ME	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.238	1000.592	1009.18	A	PM	inf	+1	1	Uh the probably must make with the the new remote is uh fifty million Euro so that's a lot we 
+TS3007a.A.dialog-act.vkaraisk.239	1009.18	1009.89	A	PM	ass	-1	0	so that's a lot we 
+TS3007a.A.dialog-act.vkaraisk.240	1009.89	1011.488	A	PM	inf	-1	0	so that's a lot we have so on and lot of uh 
+TS3007a.B.dialog-act.vkaraisk.80	1011.51	1011.68	B	UI	ass	-1	0	Yeah how much 
+TS3007a.B.dialog-act.vkaraisk.81	1011.68	1012.97	B	UI	el.inf	-1	0	Yeah how much you on 
+TS3007a.D.dialog-act.vkaraisk.124	1012.37	1013.13	D	ME	el.inf	-1	0	Like how much 
+TS3007a.B.dialog-act.vkaraisk.82	1012.97	1014.85	B	UI	el.inf	-1	0	you on that million their remotes 
+TS3007a.A.dialog-act.vkaraisk.241	1014.38	1022.23	A	PM	inf	+1	1	Uh i think a row when the selling price twenty five uh uh uh you can't two million to me remote but our marketing 
+TS3007a.B.dialog-act.vkaraisk.83	1018.01	1018.34	B	UI	bck	-1	0	yeah 
+TS3007a.C.dialog-act.vkaraisk.59	1018.14	1018.78	C	ID	inf	-1	0	Twenty million 
+TS3007a.C.dialog-act.vkaraisk.60	1020.71	1022.46	C	ID	ass	-1	0	To me or right right yeah 
+TS3007a.A.dialog-act.vkaraisk.242	1022.23	1026.02	A	PM	inf	+1	1	but our marketing rage is uh a market rate is international so we have uh 
+TS3007a.A.dialog-act.vkaraisk.243	1026.02	1029.68	A	PM	inf	+1	1	we have uh for jury the whole world we can sell uh 
+TS3007a.A.dialog-act.vkaraisk.244	1030.88	1033.28	A	PM	inf	+1	1	We can sell remotes to at least that 
+TS3007a.A.dialog-act.vkaraisk.245	1033.28	1038.09	A	PM	inf	-1	0	at least that uh countries which have uh A television 
+TS3007a.D.dialog-act.vkaraisk.125	1036.23	1036.51	D	ME	bck	-1	0	Yeah 
+TS3007a.A.dialog-act.vkaraisk.246	1040.46	1042.5	A	PM	stl	-1	0	Um So now it's time 
+TS3007a.A.dialog-act.vkaraisk.247	1042.5	1047.06	A	PM	sug	+1	1	So now it's time uh for us to uh do not to discuss a little uh things you can think about uh 
+TS3007a.A.dialog-act.vkaraisk.248	1047.06	1052.24	A	PM	sug	+1	1	you can think about uh experience with uh remote control uh yourself i dunno that you think might 
+TS3007a.A.dialog-act.vkaraisk.249	1052.24	1056.57	A	PM	el.sug	+1	1	that you think might be uh a useful our new future what uh 
+TS3007a.A.dialog-act.vkaraisk.250	1056.57	1061.53	A	PM	el.sug	+1	1	what uh what can distinguish or new trend remote control from all the others 
+TS3007a.A.dialog-act.vkaraisk.251	1062.72	1064.75	A	PM	stl	-1	0	Um so uh that's 
+TS3007a.A.dialog-act.vkaraisk.252	1064.75	1067.6	A	PM	sug	-1	0	so uh that's uh that's that's a discuss a little i'm gonna 
+TS3007a.A.dialog-act.vkaraisk.253	1067.6	1069.13	A	PM	off	-1	0	i'm gonna john you have the same 
+TS3007a.A.dialog-act.vkaraisk.254	1071.952	1072.7	A	PM	stl	-1	0	Well what's what's 
+TS3007a.A.dialog-act.vkaraisk.255	1072.7	1077.26	A	PM	el.inf	+1	0	Well what's what's the most uh important thing at the remote control 
+TS3007a.B.dialog-act.vkaraisk.84	1077.74	1078.3	B	UI	stl	-1	0	Um well i think the most important 
+TS3007a.B.dialog-act.vkaraisk.85	1078.3	1083.14	B	UI	inf	+1	2	well i think the most important thing of a remote controls that you can switch channels and 
+TS3007a.B.dialog-act.vkaraisk.86	1083.14	1087.744	B	UI	sug	+1	2	and my thing is you see keep it as basic as possible and 
+TS3007a.A.dialog-act.vkaraisk.256	1086.96	1087.69	A	PM	und	-1	0	Okay so another 
+TS3007a.A.dialog-act.vkaraisk.257	1087.69	1096.03	A	PM	el.ass	+1	2	so another another uh remote control uh uh which can uh can be used for television and uh d. v. d. and radio and or just 
+TS3007a.A.dialog-act.vkaraisk.258	1096.03	1097.712	A	PM	fra	-1	0	and or just only 
+TS3007a.D.dialog-act.vkaraisk.126	1096.58	1098.73	D	ME	ass	-1	0	Yeah I think so uh 
+TS3007a.D.dialog-act.vkaraisk.127	1098.73	1100.01	D	ME	off	-1	0	think so uh what i have some points can i showed um 
+TS3007a.D.dialog-act.vkaraisk.128	1100.01	1103.02	D	ME	el.ass	-1	0	i showed um one of the big thing is you know Yeah 
+TS3007a.A.dialog-act.vkaraisk.259	1102.45	1105.008	A	PM	fra	-1	0	If you have them um uh i can uh 
+TS3007a.D.dialog-act.vkaraisk.129	1103.99	1106.47	D	ME	off	-1	0	Yeah yeah i can file a 
+TS3007a.A.dialog-act.vkaraisk.260	1106.09	1106.78	A	PM	ass	-1	0	Okay 
+TS3007a.A.dialog-act.vkaraisk.261	1118.79	1118.92	A	PM	stl	-1	0	Oh in 
+TS3007a.A.dialog-act.vkaraisk.262	1118.92	1126.332	A	PM	inf	-1	0	Oh in case you wanna This is it that kind of fly a between the the the yeah the the 
+TS3007a.B.dialog-act.vkaraisk.87	1126.027	1126.896	B	UI	fra	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.130	1127.16	1128.47	D	ME	el.inf	-1	0	Screen yeah okay 
+TS3007a.A.dialog-act.vkaraisk.263	1127.7	1129.31	A	PM	inf	-1	0	Yeah been screens 
+TS3007a.D.dialog-act.vkaraisk.131	1128.47	1128.8	D	ME	und	-1	0	okay 
+TS3007a.B.dialog-act.vkaraisk.88	1129.11	1132.65	B	UI	el.inf	-1	0	It's possible to open and drawings in this uh on this 
+TS3007a.A.dialog-act.vkaraisk.264	1131.52	1132.72	A	PM	inf	-1	0	No no no only 
+TS3007a.A.dialog-act.vkaraisk.265	1132.72	1133.32	A	PM	fra	-1	0	No no no only all drawn scroll 
+TS3007a.A.dialog-act.vkaraisk.266	1133.32	1136.128	A	PM	inf	-1	0	all drawn scroll there at the left uh 
+TS3007a.A.dialog-act.vkaraisk.267	1137.371	1137.75	A	PM	fra	-1	0	{vocalsound}
+TS3007a.B.dialog-act.vkaraisk.89	1136.92	1139.11	B	UI	fra	-1	0	Yeah but um which you want to my own uh 
+TS3007a.B.dialog-act.vkaraisk.90	1139.11	1140.336	B	UI	inf	-1	0	you want to my own uh 
+TS3007a.A.dialog-act.vkaraisk.268	1140.33	1142.05	A	PM	und	-1	0	Old that and drawings um no i think 
+TS3007a.A.dialog-act.vkaraisk.269	1142.05	1142.72	A	PM	inf	-1	0	um no i think 
+TS3007a.A.dialog-act.vkaraisk.270	1142.72	1149.41	A	PM	inf	-1	0	um no i think uh when it is uh in word and you have stated in the shared documents folder you can show their yeah 
+TS3007a.B.dialog-act.vkaraisk.91	1148.43	1149.31	B	UI	und	-1	0	Only in word okay 
+TS3007a.A.dialog-act.vkaraisk.271	1149.41	1149.72	A	PM	inf	-1	0	yeah 
+TS3007a.B.dialog-act.vkaraisk.92	1149.31	1149.67	B	UI	und	-1	0	word okay 
+TS3007a.D.dialog-act.vkaraisk.132	1150.02	1150.26	D	ME	stl	-1	0	Okay i have some 
+TS3007a.D.dialog-act.vkaraisk.133	1150.26	1153.44	D	ME	off	+1	0	Okay i have some uh points from marketing point of view um 
+TS3007a.A.dialog-act.vkaraisk.272	1153.02	1153.37	A	PM	bck	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.134	1153.44	1160.3	D	ME	sug	+1	0	um just a standard think about things like uh intuitive uh small fairly cheap that's pretty cheap 
+TS3007a.D.dialog-act.vkaraisk.135	1160.3	1163.09	D	ME	inf	-1	0	that's pretty cheap twenty five euros uh brand independent 
+TS3007a.D.dialog-act.vkaraisk.136	1163.09	1172.496	D	ME	sug	-1	0	uh brand independent um i think it it doesn't have to matter uh which brand your t. v. or or the thing is um 
+TS3007a.A.dialog-act.vkaraisk.273	1170.68	1171.08	A	PM	bck	-1	0	Yeah 
+TS3007a.A.dialog-act.vkaraisk.274	1173.44	1174.29	A	PM	stl	-1	0	Okay five minutes 
+TS3007a.A.dialog-act.vkaraisk.275	1174.29	1176.19	A	PM	inf	-1	0	five minutes Yeah 
+TS3007a.D.dialog-act.vkaraisk.137	1175.25	1175.91	D	ME	und	-1	0	Five minutes okay 
+TS3007a.A.dialog-act.vkaraisk.276	1176.19	1176.49	A	PM	inf	-1	0	Yeah 
+TS3007a.D.dialog-act.vkaraisk.138	1175.91	1176.38	D	ME	und	-1	0	Five minutes okay i'll rub it off with 
+TS3007a.D.dialog-act.vkaraisk.139	1176.38	1177.67	D	ME	off	-1	0	i'll rub it off with it um 
+TS3007a.D.dialog-act.vkaraisk.140	1177.67	1181.91	D	ME	sug	+1	2	it um i personally think it has to be multipurpose uh 
+TS3007a.A.dialog-act.vkaraisk.277	1182.27	1182.56	A	PM	bck	-1	0	Yeah 
+TS3007a.D.dialog-act.vkaraisk.141	1181.91	1187.35	D	ME	inf	+1	3	uh most of the remote current remote controls are uh just for one purpose and uh 
+TS3007a.A.dialog-act.vkaraisk.278	1187.16	1187.53	A	PM	bck	-1	0	Yeah 
+TS3007a.D.dialog-act.vkaraisk.142	1187.35	1194.62	D	ME	inf	+1	3	and uh by make a multipurpose it But uh as a new feature it as a new feature to market and distinguish 
+TS3007a.D.dialog-act.vkaraisk.143	1194.62	1197.31	D	ME	inf	+1	3	and distinguish from uh from current problems Um 
+TS3007a.A.dialog-act.vkaraisk.279	1197.29	1197.9	A	PM	bck	-1	0	Uh-huh 
+TS3007a.D.dialog-act.vkaraisk.144	1197.82	1201.38	D	ME	sug	+1	1	Um maybe some other technology than infra-red uh uh 
+TS3007a.D.dialog-act.vkaraisk.145	1201.38	1209.5	D	ME	ass	+1	1	uh uh i rather find it very annoying um like when someone is standing in front of the t. v. they can switch it um 
+TS3007a.D.dialog-act.vkaraisk.146	1209.5	1214.84	D	ME	sug	+1	1	um Think about um sending it over radio waves or bluetooth 
+TS3007a.A.dialog-act.vkaraisk.280	1214.49	1216.14	A	PM	bck	-1	0	Okay okay 
+TS3007a.D.dialog-act.vkaraisk.147	1216.01	1219.84	D	ME	ass	+1	1	That might be a little bit uh expensive um 
+TS3007a.D.dialog-act.vkaraisk.148	1221.27	1223.61	D	ME	sug	+1	1	And something like an l. c. d. screen 
+TS3007a.B.dialog-act.vkaraisk.93	1224.84	1225.74	B	UI	el.inf	+1	0	For what purpose 
+TS3007a.D.dialog-act.vkaraisk.149	1226.26	1231.42	D	ME	fra	-1	0	Um i'd like to set here uh um Maybe it's easy it's nice 
+TS3007a.D.dialog-act.vkaraisk.150	1231.42	1234.22	D	ME	ass	+1	0	it's nice as a matter feature feature that um 
+TS3007a.D.dialog-act.vkaraisk.151	1234.22	1241.44	D	ME	inf	+1	1	that um We're on a certain channel you can see on the l. c. d. screen uh what programs are coming up or 
+TS3007a.A.dialog-act.vkaraisk.281	1240.59	1241.04	A	PM	bck	-1	0	Okay 
+TS3007a.A.dialog-act.vkaraisk.282	1242.37	1248.85	A	PM	el.ass	-1	0	So would be uh a multipurpose uh very technically uh high uh 
+TS3007a.D.dialog-act.vkaraisk.152	1249.44	1250.8	D	ME	ass	-1	0	From my point of view yeah 
+TS3007a.A.dialog-act.vkaraisk.283	1250.05	1251.29	A	PM	el.ass	-1	0	know it yeah it must 
+TS3007a.A.dialog-act.vkaraisk.284	1251.29	1251.74	A	PM	und	-1	0	yeah it must 
+TS3007a.A.dialog-act.vkaraisk.285	1251.74	1255.1	A	PM	el.ass	+1	2	yeah it must be really uh innovative technical wise 
+TS3007a.D.dialog-act.vkaraisk.153	1255.25	1255.45	D	ME	ass	-1	0	Yeah that's to be 
+TS3007a.D.dialog-act.vkaraisk.154	1255.45	1256.11	D	ME	fra	-1	0	Yeah that's to be uh 
+TS3007a.D.dialog-act.vkaraisk.155	1256.11	1258.98	D	ME	stl	-1	0	uh Yeah our 
+TS3007a.D.dialog-act.vkaraisk.156	1258.98	1267.69	D	ME	ass	+1	0	Yeah our company is very uh Good in making new enough they have other things 
+TS3007a.A.dialog-act.vkaraisk.286	1265.44	1265.79	A	PM	bck	-1	0	Yeah 
+TS3007a.A.dialog-act.vkaraisk.287	1268.07	1268.88	A	PM	stl	-1	0	So yeah 
+TS3007a.A.dialog-act.vkaraisk.288	1268.88	1269.79	A	PM	ass	-1	0	So yeah i agree with you so we 
+TS3007a.B.dialog-act.vkaraisk.94	1268.395	1269.401	B	UI	fra	-1	0	Yep 
+TS3007a.D.dialog-act.vkaraisk.157	1268.83	1270.05	D	ME	fra	-1	0	So it it it it it 
+TS3007a.A.dialog-act.vkaraisk.289	1269.79	1275.008	A	PM	sug	+1	0	i agree with you so we must focus on things will really uh really at something to to 
+TS3007a.D.dialog-act.vkaraisk.158	1275.04	1276.19	D	ME	sug	+1	0	To the current market 
+TS3007a.A.dialog-act.vkaraisk.290	1276.16	1276.51	A	PM	ass	-1	0	Yeah 
+TS3007a.D.dialog-act.vkaraisk.159	1277.38	1278.32	D	ME	stl	-1	0	Look at it you got some 
+TS3007a.D.dialog-act.vkaraisk.160	1278.32	1280.75	D	ME	inf	+1	2	at it you got some cheap uh remote controls uh 
+TS3007a.D.dialog-act.vkaraisk.161	1282.09	1283.296	D	ME	fra	-1	0	They just uh 
+TS3007a.D.dialog-act.vkaraisk.162	1284.84	1285.0	D	ME	stl	-1	0	They've got a dozen of um 
+TS3007a.D.dialog-act.vkaraisk.163	1285.0	1286.11	D	ME	inf	+1	2	got a dozen of um 
+TS3007a.A.dialog-act.vkaraisk.291	1286.13	1286.45	A	PM	bck	-1	0	No 
+TS3007a.D.dialog-act.vkaraisk.164	1287.36	1290.92	D	ME	sug	+1	2	But when you enter a new market we remote control and 
+TS3007a.A.dialog-act.vkaraisk.292	1290.09	1290.43	A	PM	bck	-1	0	Uh-huh 
+TS3007a.D.dialog-act.vkaraisk.165	1292.34	1295.29	D	ME	sug	+1	2	Uh one again market share 
+TS3007a.A.dialog-act.vkaraisk.293	1295.41	1295.71	A	PM	bck	-1	0	Yeah 
+TS3007a.D.dialog-act.vkaraisk.166	1296.36	1298.57	D	ME	sug	+1	2	You have to do something special i think 
+TS3007a.A.dialog-act.vkaraisk.294	1297.8	1298.28	A	PM	bck	-1	0	Yeah 
+TS3007a.A.dialog-act.vkaraisk.295	1299.38	1302.4	A	PM	fra	-1	0	But we have to keep an eye that it's uh at beginning 
+TS3007a.A.dialog-act.vkaraisk.296	1302.4	1310.05	A	PM	inf	+1	1	uh at beginning of such project it's it's it's very uh cool to talk about well this would be cool that would call that uh but we must 
+TS3007a.D.dialog-act.vkaraisk.167	1309.4	1309.6	D	ME	bck	-1	0	Yeah 
+TS3007a.A.dialog-act.vkaraisk.297	1310.05	1316.56	A	PM	sug	+1	1	uh but we must not uh lose uh side of the user uh uh friendly uh 
+TS3007a.D.dialog-act.vkaraisk.168	1316.66	1317.91	D	ME	ass	-1	0	Yeah of course this 
+TS3007a.B.dialog-act.vkaraisk.95	1317.48	1319.571	B	UI	sug	+1	1	And and price 
+TS3007a.D.dialog-act.vkaraisk.169	1317.91	1318.54	D	ME	fra	-1	0	course this but but 
+TS3007a.D.dialog-act.vkaraisk.170	1318.54	1321.53	D	ME	inf	-1	0	but but this is just from a marketing uh as for 
+TS3007a.A.dialog-act.vkaraisk.298	1320.72	1323.38	A	PM	und	-1	0	Yeah okay yeah okay 
+TS3007a.D.dialog-act.vkaraisk.171	1322.55	1326.76	D	ME	inf	-1	0	I don't know anything about the user interface or Design 
+TS3007a.B.dialog-act.vkaraisk.96	1323.871	1325.18	B	UI	bck	-1	0	Okay 
+TS3007a.A.dialog-act.vkaraisk.299	1326.281	1328.912	A	PM	inf	-1	0	Right and that's because we have in 
+TS3007a.C.dialog-act.vkaraisk.61	1328.32	1332.576	C	ID	inf	-1	0	And and temp 
+TS3007a.B.dialog-act.vkaraisk.97	1329.4	1330.512	B	UI	inf	-1	0	Yeah that 
+TS3007a.D.dialog-act.vkaraisk.172	1329.291	1330.242	D	ME	fra	-1	0	{vocalsound}
+TS3007a.A.dialog-act.vkaraisk.300	1332.84	1333.37	A	PM	stl	-1	0	Okay um next 
+TS3007a.A.dialog-act.vkaraisk.301	1333.37	1335.94	A	PM	inf	+1	1	um next meeting will start in thirty minutes so 
+TS3007a.A.dialog-act.vkaraisk.302	1335.94	1336.83	A	PM	stl	-1	0	in thirty minutes so uh you 
+TS3007a.A.dialog-act.vkaraisk.303	1336.83	1339.98	A	PM	inf	+1	1	uh you all uh will have uh individual actions well 
+TS3007a.A.dialog-act.vkaraisk.304	1339.98	1345.95	A	PM	inf	-1	0	individual actions well i assume uh a will be some feedback uh via in the middle uh 
+TS3007a.A.dialog-act.vkaraisk.305	1345.95	1353.39	A	PM	inf	+1	2	uh um uh the the the uh industrial designer has to uh look at the working design 
+TS3007a.A.dialog-act.vkaraisk.306	1354.56	1359.87	A	PM	inf	+1	2	Uh uh the user interface designer has to look at the the technical function so 
+TS3007a.A.dialog-act.vkaraisk.307	1359.87	1360.64	A	PM	stl	-1	0	function so that's the 
+TS3007a.A.dialog-act.vkaraisk.308	1360.64	1362.83	A	PM	inf	-1	0	that's the thing we have discussed yeah 
+TS3007a.B.dialog-act.vkaraisk.98	1360.48	1362.08	B	UI	stl	-1	0	Yeah um one 
+TS3007a.B.dialog-act.vkaraisk.99	1362.08	1363.59	B	UI	off	-1	0	one thing uh we must 
+TS3007a.A.dialog-act.vkaraisk.309	1362.83	1363.31	A	PM	el.inf	-1	0	yeah 
+TS3007a.B.dialog-act.vkaraisk.100	1363.59	1366.88	B	UI	sug	+1	2	thing uh we must first agree on uh what requirements and and to make the 
+TS3007a.B.dialog-act.vkaraisk.101	1366.88	1367.49	B	UI	fra	-1	0	and to make the way we can to use 
+TS3007a.B.dialog-act.vkaraisk.102	1367.49	1371.05	B	UI	el.ass	+1	0	way we can to use um it for multiple systems or uh we should 
+TS3007a.B.dialog-act.vkaraisk.103	1371.05	1371.83	B	UI	fra	-1	0	or uh we should 
+TS3007a.B.dialog-act.vkaraisk.104	1371.83	1373.8	B	UI	sug	+1	0	or uh we should have some agreement on that for 
+TS3007a.A.dialog-act.vkaraisk.310	1373.26	1374.54	A	PM	und	-1	0	Yeah okay um 
+TS3007a.A.dialog-act.vkaraisk.311	1374.54	1376.2	A	PM	fra	-1	0	um well 
+TS3007a.D.dialog-act.vkaraisk.173	1375.816	1376.35	D	ME	stl	-1	0	No i i i don't 
+TS3007a.D.dialog-act.vkaraisk.174	1376.35	1380.72	D	ME	ass	+1	0	i i i don't think we have to we we have to agree on that uh 
+TS3007a.C.dialog-act.vkaraisk.62	1382.88	1385.35	C	ID	sug	+1	2	A few we could get back to the next meeting action 
+TS3007a.D.dialog-act.vkaraisk.175	1383.11	1385.19	D	ME	fra	-1	0	I think that's a fair yeah 
+TS3007a.D.dialog-act.vkaraisk.176	1385.19	1386.01	D	ME	ass	-1	0	yeah that's a face for their 
+TS3007a.B.dialog-act.vkaraisk.105	1386.29	1386.98	B	UI	ass	-1	0	Okay 
+TS3007a.D.dialog-act.vkaraisk.177	1386.01	1387.91	D	ME	inf	+1	2	that's a face for their just 
+TS3007a.C.dialog-act.vkaraisk.63	1387.16	1387.49	C	ID	ass	-1	0	Yeah 
+TS3007a.D.dialog-act.vkaraisk.178	1387.91	1389.84	D	ME	fra	-1	0	just just uh uh 
+TS3007a.D.dialog-act.vkaraisk.179	1391.04	1395.12	D	ME	sug	+1	2	Make some mark up some some general ideas and and then we can plan 
+TS3007a.B.dialog-act.vkaraisk.106	1394.69	1395.69	B	UI	und	-1	0	Oh okay 
+TS3007a.D.dialog-act.vkaraisk.180	1395.12	1396.416	D	ME	sug	-1	0	and and then we can plan 
+TS3007a.D.dialog-act.vkaraisk.181	1398.54	1398.86	D	ME	stl	-1	0	Yeah 
+TS3007a.A.dialog-act.vkaraisk.312	1399.04	1399.39	A	PM	bck	-1	0	Yeah 
+TS3007a.D.dialog-act.vkaraisk.182	1400.84	1402.76	D	ME	sug	+1	0	We can plan for i think 
+TS3007a.A.dialog-act.vkaraisk.313	1402.26	1402.62	A	PM	bck	-1	0	Yeah 
+TS3007a.A.dialog-act.vkaraisk.314	1404.34	1408.07	A	PM	inf	+1	2	But maybe because uh you are working on the user requirements you're working the technical 
+TS3007a.A.dialog-act.vkaraisk.315	1408.07	1409.54	A	PM	inf	+1	2	you're working the technical functions we are 
+TS3007a.A.dialog-act.vkaraisk.316	1409.54	1416.69	A	PM	sug	+1	2	functions we are most uh i have a little are kind uh uh uh Uh you can 
+TS3007a.A.dialog-act.vkaraisk.317	1416.69	1418.801	A	PM	el.inf	-1	0	you can uh 
+TS3007a.B.dialog-act.vkaraisk.107	1418.07	1420.23	B	UI	inf	+1	2	Incentives warm welcome yeah 
+TS3007a.A.dialog-act.vkaraisk.318	1419.79	1422.23	A	PM	sug	+1	0	A little planet on on what we going to do so you don't 
+TS3007a.A.dialog-act.vkaraisk.319	1422.23	1429.45	A	PM	inf	+1	2	do so you don't uh uh uh come over we'd use requirements we don't fit the the the the technical functions well 
+TS3007a.A.dialog-act.vkaraisk.320	1431.04	1434.33	A	PM	sug	-1	0	Some basic things we got we want to going to do uh i think 
+TS3007a.A.dialog-act.vkaraisk.321	1434.33	1436.56	A	PM	fra	-1	0	uh i think that's well uh yeah 
+TS3007a.A.dialog-act.vkaraisk.322	1437.64	1438.36	A	PM	ass	-1	0	We'll come in handy 
+TS3007a.D.dialog-act.vkaraisk.183	1439.03	1439.66	D	ME	stl	-1	0	Mm yeah 
+TS3007a.B.dialog-act.vkaraisk.108	1443.35	1443.48	B	UI	bck	-1	0	Yeah 
+TS3007a.D.dialog-act.vkaraisk.184	1443.09	1443.76	D	ME	ass	+1	2	I don't know you decide 
+TS3007a.D.dialog-act.vkaraisk.185	1443.76	1444.85	D	ME	sug	-1	0	I don't know you decide your 
+TS3007a.A.dialog-act.vkaraisk.323	1444.45	1445.08	A	PM	ass	-1	0	Okay 
+TS3007a.D.dialog-act.vkaraisk.186	1444.85	1445.8	D	ME	inf	-1	0	your project manager 
+TS3007a.A.dialog-act.vkaraisk.324	1446.47	1447.8	A	PM	fra	-1	0	Where it is as 
+TS3007a.B.dialog-act.vkaraisk.109	1447.88	1453.01	B	UI	sug	+1	2	Well yeah if the technical functions have to be designed governor know for what kinds of issues it will be or do we use it 
+TS3007a.A.dialog-act.vkaraisk.325	1452.24	1452.64	A	PM	bck	-1	0	Yeah 
+TS3007a.B.dialog-act.vkaraisk.110	1453.01	1454.9	B	UI	el.ass	-1	0	or do we use it takes screen or 
+TS3007a.B.dialog-act.vkaraisk.111	1454.9	1458.498	B	UI	el.ass	-1	0	takes screen or uh will be with uh what bluetooth well 
+TS3007a.A.dialog-act.vkaraisk.326	1457.89	1458.56	A	PM	stl	-1	0	Well that that that's 
+TS3007a.A.dialog-act.vkaraisk.327	1458.56	1460.27	A	PM	inf	+1	2	that that that's that's really step for but if you 
+TS3007a.A.dialog-act.vkaraisk.328	1460.27	1466.932	A	PM	inf	-1	0	for but if you say uh it is it uh uh one way or multipurpose that's it 
+TS3007a.B.dialog-act.vkaraisk.112	1460.43	1460.96	B	UI	und	-1	0	Okay 
+TS3007a.B.dialog-act.vkaraisk.113	1465.76	1466.08	B	UI	bck	-1	0	Hmm 
+TS3007a.D.dialog-act.vkaraisk.187	1466.3	1468.02	D	ME	ass	-1	0	No that that's a sign step further 
+TS3007a.A.dialog-act.vkaraisk.329	1468.82	1469.13	A	PM	el.inf	-1	0	Why 
+TS3007a.C.dialog-act.vkaraisk.64	1468.6	1469.68	C	ID	ass	-1	0	Yeah actually it is 
+TS3007a.D.dialog-act.vkaraisk.188	1469.62	1469.8	D	ME	oth	-1	0	Yeah 
+TS3007a.A.dialog-act.vkaraisk.330	1470.8	1471.07	A	PM	el.inf	-1	0	Why 
+TS3007a.C.dialog-act.vkaraisk.65	1470.814	1473.36	C	ID	inf	-1	0	They're looking at individual components so that's actually 
+TS3007a.D.dialog-act.vkaraisk.189	1471.94	1472.07	D	ME	bck	-1	0	But 
+TS3007a.C.dialog-act.vkaraisk.66	1473.36	1474.9	C	ID	inf	-1	0	so that's actually a step further 
+TS3007a.D.dialog-act.vkaraisk.190	1473.48	1473.98	D	ME	bck	-1	0	Yeah 
+TS3007a.A.dialog-act.vkaraisk.331	1474.4	1474.74	A	PM	bck	-1	0	Yeah 
+TS3007a.D.dialog-act.vkaraisk.191	1475.44	1475.89	D	ME	stl	-1	0	Like we'll 
+TS3007a.D.dialog-act.vkaraisk.192	1475.89	1482.67	D	ME	sug	+1	2	Like we'll have a list of uh things that has to but that has to be in it or unless we like and then 
+TS3007a.D.dialog-act.vkaraisk.194	1482.67	1484.91	D	ME	sug	+1	2	and then the next meeting we decide 
+TS3007a.A.dialog-act.vkaraisk.332	1484.18	1484.64	A	PM	ass	-1	0	Yeah 
+TS3007a.C.dialog-act.vkaraisk.67	1486.31	1486.49	C	ID	ass	-1	0	Yeah we can take from 
+TS3007a.C.dialog-act.vkaraisk.68	1486.49	1487.8	C	ID	sug	-1	0	Yeah we can take from yeah yeah i 
+TS3007a.D.dialog-act.vkaraisk.195	1486.6	1488.5	D	ME	sug	-1	0	What is gonna be 
+TS3007a.A.dialog-act.vkaraisk.333	1487.81	1488.32	A	PM	ass	-1	0	Okay 
+TS3007a.C.dialog-act.vkaraisk.69	1487.8	1488.78	C	ID	sug	-1	0	yeah yeah i agree yeah we can 
+TS3007a.C.dialog-act.vkaraisk.70	1488.78	1489.62	C	ID	sug	+1	0	agree yeah we can take it from there 
+TS3007a.D.dialog-act.vkaraisk.196	1488.5	1488.61	D	ME	stl	-1	0	{vocalsound}
+TS3007a.D.dialog-act.vkaraisk.197	1489.73	1491.93	D	ME	sug	+1	2	And then you then you can do leave it uh 
+TS3007a.C.dialog-act.vkaraisk.71	1493.14	1493.59	C	ID	sug	-1	0	Well at it 
+TS3007a.D.dialog-act.vkaraisk.198	1493.3	1495.37	D	ME	sug	+1	2	But the option leave the details 
+TS3007a.A.dialog-act.vkaraisk.334	1494.57	1495.19	A	PM	ass	-1	0	Okay 
+TS3007a.A.dialog-act.vkaraisk.335	1496.18	1497.09	A	PM	stl	-1	0	So uh it it should have really 
+TS3007a.D.dialog-act.vkaraisk.199	1496.28	1496.66	D	ME	el.ass	-1	0	Okay 
+TS3007a.A.dialog-act.vkaraisk.336	1497.09	1505.41	A	PM	sug	+1	2	it it should have really in a individually um this thing um what's uh at at at uh his point of view is the most important and uh 
+TS3007a.A.dialog-act.vkaraisk.337	1505.41	1511.12	A	PM	sug	+1	2	and uh and then are we going to uh fit uh all the pieces together the next meeting I'm saying 
+TS3007a.D.dialog-act.vkaraisk.200	1505.11	1505.51	D	ME	ass	-1	0	Yeah 
+TS3007a.A.dialog-act.vkaraisk.338	1511.67	1512.51	A	PM	off	-1	0	I'm saying is is now so it's over 
+TS3007a.D.dialog-act.vkaraisk.201	1511.46	1511.78	D	ME	ass	-1	0	Yeah 
+TS3007a.A.dialog-act.vkaraisk.339	1512.51	1513.29	A	PM	inf	-1	0	is is now so it's over you were uh 
+TS3007a.A.dialog-act.vkaraisk.340	1513.29	1518.25	A	PM	inf	+1	0	you were uh it will receive specific specific instructions uh by your personal coach i see we have 
+TS3007a.A.dialog-act.vkaraisk.341	1518.25	1519.96	A	PM	inf	+1	0	i see we have thirty minutes thank 
+TS3007a.A.dialog-act.vkaraisk.342	1519.96	1520.48	A	PM	be.pos	-1	0	thirty minutes thank you 
+TS3007a.B.dialog-act.vkaraisk.114	1519.84	1520.19	B	UI	ass	-1	0	Okay 
+TS3007a.C.dialog-act.vkaraisk.72	1519.73	1520.26	C	ID	ass	-1	0	Okay jewish 
+TS3007a.C.dialog-act.vkaraisk.73	1520.26	1520.61	C	ID	be.pos	-1	0	jewish 
+TS3007a.B.dialog-act.vkaraisk.115	1529.2	1529.44	B	UI	be.pos	-1	0	Yeah 
+TS3007a.A.dialog-act.vkaraisk.343	1531.232	1535.91	A	PM	sug	-1	0	Be careful 
+TS3007a.D.dialog-act.vkaraisk.202	1532.57	1533.25	D	ME	oth	-1	0	Yeah 
+TS3007a.B.dialog-act.vkaraisk.116	1539.64	1540.08	B	UI	oth	-1	0	Yes 
+TS3007a.D.dialog-act.vkaraisk.203	1543.49	1543.49	D	ME	el.inf	-1	0	Success 
+TS3007a.B.dialog-act.vkaraisk.117	1544.06	1544.41	B	UI	inf	-1	0	Yeah 
+TS3007a.B.dialog-act.vkaraisk.118	1569.21	1570.3	B	UI	oth	-1	0	No no 

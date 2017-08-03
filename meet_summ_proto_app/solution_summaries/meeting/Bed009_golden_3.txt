@@ -1,0 +1,32 @@
+The work carried out on the recogniser to parser interface and the generator module will complete the translation of the current system into english.
+From there on the system can be extended for the tourist domain and include a richer representation of the user intentions.
+The current experiments involving subjects asking for tourist information through a computer call system are expected to provide relevant linguistic data.
+This extension will require an enhancement of the current design.
+The dialogue knowledge modeler and action planner modules need to interact and update each others state.
+On the other hand they have to be separate since the dialogue manager is seen as part of a set of kernel modules to which different function modules can attach.
+The inputs to the action planner are actually the output decisions of a belief net which will combine information derived from the user and situation models the ontology and the parser.
+The new release of the latter will include syntactic and morphological information and utterance segmentation.
+Also deduced from the parse and fed into the belief net will be semantic constructions such as the Source Path Goal image schema.
+As the generator module is being translated to english it was agreed that the best approach is to use the same grammar as in german as this also produces syntactic trees.
+The same approach is going to be taken for the new parser release.
+A single system is going to be used for german and english with possible code extensions to be written to accommodate the differences.
+The new parser needs to be fast and robust in dealing with speech input.
+The Verbmobil and FORWISS chunk parsers can provide with a valuable paradigm.
+It was also agreed that the enhanced knowledge model that is going to be produced with the use of the belief nets will need to integrate with parallel developments in the design of dialogues.
+Some of the terminology will also have to be adapted.
+Another meeting was scheduled to take place before the departure of the german visitors in order to discuss future objectives of SmartKom.
+A native english speaker will have to oversee the generator translation and resolve any grammar issues that may arise.
+A few issues regarding the ongoing development of the project came into focus.
+The current M3L specifications are incomplete as to tourist path information and intention recognition.
+The current parser itself extracts no syntactic information.
+A more sophisticated parser is needed yet most of the available ones would not satisfy the speed requirements of the project.
+The belief net whose inputs include the parse is not fully instantiated yet some rules of combination and conditional probabilities are not there yet.
+Also underspecified are the details of the interaction between different modules the dialogue manager and action planner although separate modules need to interact closely and update each others state.
+The current dialogue manager is also designed with a much narrower domain in mind.
+Finally some ambiguities and other terminology issues were identified although it is not clear how difficult changes may be.
+The translation of the TV and cinema listings system to english is almost complete.
+The code of the recogniser to parser interface has already been written and variations on the lattices are currently being tested.
+As for the enhanced knowledge modeler there is already a belief net most of whose features from the user and the situation model that influence the users intentions have been identified.
+Further linguistic factors can be found in the utterance some of them will emerge from the data collection which is underway.
+One of the possible outputs of the knowledge modeler will be towards the dialogue manager viewed as a state transition network.
+XML schemas coding these networks are currently being created.

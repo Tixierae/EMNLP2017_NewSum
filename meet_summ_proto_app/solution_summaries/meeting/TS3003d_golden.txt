@@ -1,0 +1,25 @@
+In the detailed design meeting the team created a prototype.
+Along with buttons for numbers channel selector volume mute on off teletext and subtitles the prototype included an LCD screen and a help button for functional information.
+One rechargable battery single curve form and plastic case brought the total cost to 17 Euros.
+To reduce this cost it was decided to replace most buttons with a scrollwheel.
+The remaining buttons were one for channel selection one for volume both assisted by the scrollwheel teletext on off and the help button.
+A suggestion to target the product to a younger or perhaps more general group was met with approval.
+All these components were re arranged in a revised prototype.
+It was evaluated on a scale from 1 to 7 on the basis of the following criteria fancy design 6 technological innovation 4 functionality 7 consideration of the target group 3.
+The remote was also recognisable as a fashionable Real Reaction product.
+The project process was deemed well structured although everyone thought it would have been better had they known the component prices at an earlier stage.
+Teamword and leadership were good but room for creativity impeded by budget constraints.
+The project manager will prepare the final presentation while the rest of the group will fill in a questionnaire.
+The prototype will use a rechargable battery.
+The case will be plastic and will be made in single curve form.
+Five buttons are going to be used one for channel selection one for volume both assisted by the scrollwheel teletext on off and help button.
+These would be made of rubber in a colour different from that of the case.
+Their functionality will be enriched by the use of a scrollwheel going up or down the channel list changing the volume etc.
+Standard buttons like the ones for teletext shortcuts were considered superfluous.
+An LCD screen will be providing functional information and context tips when using the scrollwheel.
+The revised prototype will probably be targeted to a younger one or even across the population.
+The final cost of the prototype was probably slightly over the specified 12 50 Euros.
+Raising the budget was not an option although it was promoted as an idea throughout the meeting.
+It is not clear whether the budget will allow for a docking station to be produced along with the remote as it isnt included in the costing sheet.
+The non standard interface few buttons scrollwheel makes the remote unsuitable for older people the original target group.
+It was suspected that many would not know how to use a scrollwheel even though it does resemble a radio tuning button.

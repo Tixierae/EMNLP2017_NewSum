@@ -1,0 +1,15 @@
+In the first part of the Berkeley Meeting Recorder group meeting members discussed the results and implications of a spoken digit recognition experiment using lapel microphones and the Hidden Markov Model Toolkit HTK.
+It is reported that while the lapel microphones deliver good results the HTK is outperformed by the SRI toolkit.
+Comparisons to other digit corpora such as TI are also made.
+The second part of the discussion focused on alignment of multiple speaker channels specifically the problems of overlapping speech and back channelling.
+Speaker adaptation was identified as an important issue is recognition as well as alignment.
+The performance difference between HTK and SRI must be due to the lack of phone loop and means and variance adaptation for HTK.
+For realistic experimental results cheap microphones should be used rather than expensive ones.
+Speaker fe016 is planning to submit a paper on alignment to Eurospeech.
+Lapel microphones are sensitive to noises such as clothes rustling.
+Recognition of digits recorded with close microphones is significantly more difficult than that of studio recorded TI digits.
+The amount of close microphone data is too small to train a reliable Hidden Markov Model.
+Alignment quality is detrimentally affected by background speech.
+Lapel microphone performed well on a spoken digit recognition task.
+It is suggested that their robustness due to the fact that they are omni directional.
+It is discovered that the optimal pruning parameters are different for recognition and for alignment.

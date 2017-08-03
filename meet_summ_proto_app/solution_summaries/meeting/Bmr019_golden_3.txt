@@ -1,0 +1,37 @@
+The main topics discussed were the results of digit recognition and the forced alignment task.
+Realisations as to the former included the surprisingly good results from the lapel microphones and the fact that the widely used HTK based systems performed worse than SRI which however is specifically trained on digits.
+For the results to be more closely comparable it was suggested that the TI digit corpus is used on the same system although the two corpora differ in recording conditions and amount of data per speaker.
+Other methods to improve recognition results are comparing the signals of close and far field microphones or using the Switchboard model for channel adaptation before speaker adaptation is carried out.
+On the other hand there have been improvements on forced alignments although some issues still need debugging.
+Hand marked word level alignment data would be very useful for the fine tuning of more parameters.
+Finally a paper on overlap identification is being prepared for Eurospeech.
+This work can potentially be used for the planned research on prosodic features.
+Another two papers on segmentation and on the Aurora system are also being submitted by ICSI staff.
+In order for the digit recognition results to be more reliably comparable it was suggested that the TI digit corpus is tested on SRI as well.
+Additionally results are going to be checked by examining the signal from different microphones.
+Some modifications to the TI corpus may be needed to further consolidate this juxtaposition.
+The ultimate purpose is to create a system that can be fed different features and will substitute HTK.
+As regards the forced alignments word level alignments that have already been checked in Waves could be merged with transcripts and utterance level representations produced in Transcriber as both packages can use the CTM format.
+More measurements and correspondence with data from other corpora CallHome Switchboard are going to be carried out with respect to backchanneling and overlaps.
+The intention is to write a paper with the results of this task.
+Towards the end of the meeting the group discussed possible agenda topics for big meeting scheduled for the following Saturday.
+At the digit recognition task HTK systems which are commonly used performed worse than SRI.
+The error rate with the current digit corpus is expected to be higher than with the TI one since the latter are wide band studio recordings.
+The distance of the microphones from the speaker also affects the results.
+The microphones themselves are not of the best quality although this has been a design choice.
+Furthermore it was noted that SRI is somewhat cumbersome feeding features into the recogniser requires separate files to be dumped out for every segment to be processed.
+There were also a couple of problematic points with forced alignments the pruning proved too severe and word locations needed to be constrained further.
+Using adaptation for both the foreground and the background speaker also resulted in some strange alignments.
+Moreover there were some speaker identification mistakes that occurred whilst transcribing from the mixed channel.
+For the digit recognition task results from different microphones were taken.
+The lapel mikes did well in this task since they capture less breath noises and there is less clothes rustling during the digit reading.
+Some obvious mistakes in the reading were deleted manually.
+Adaptation means and variance improved recognition results by 0 6.
+Similarly work on forced alignments also gave better results at least with the data from native speakers.
+It was enforced in the analysis that foreground speech be continuous.
+Moreover noise and background speech models were made.
+Meanwhile two transcripts have been manually aligned at utterance level.
+This process has also shown that speaker identification works better when multiple channels are used.
+A further conclusion was that backchanneling seemed to come mainly from the speaker that is more directly involved with the foreground utterance.
+A paper on segmentation is being submitted to Eurospeech and work on another one is being finished with the same intention.
+The aim of the latter is to identify spurts and overlapped speech and tag them uniformly throughout the individual channels.

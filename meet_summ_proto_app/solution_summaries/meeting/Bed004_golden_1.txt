@@ -1,0 +1,17 @@
+In this meeting of the Berkeley Even Deeper Understanding group speaker mn015 presented the results of an experiment of the dialogue system Wizard created for the tourist domain.
+The experiment consisted of leading a subject to believe she were talking to a computer then having the computer break down and be replaced with a human.
+The group then discussed improvements to the programs user interface personnel issues regarding further data collection as well as conceptual and architectural issues regarding the Wizard.
+The introduction needs to be shortened and streamlined.
+A graduate student will be hired to oversee further testing.
+In a forthcoming meeting the refinement of the test data and the technicalities of the testing process will be discussed.
+Linguistic expertise and world knowledge is needed to improve the system.
+Instructions to the test subject were not clear enough as she did not follow them precisely.
+It might be difficult to find subjects that can cope with the reading task.
+What kind of information should be used by the system.
+How should this information be derived from the user query the dialogue context and the ontology.
+How should it be encoded.
+The system can only deal with a limited amount of input.
+Can cognitive linguistics be used to get powerful generalisations.
+How can a parser make use of spatial adverbs.
+The subject of the demo was convinced that she was talking to a system and behaved accordingly.
+Therefore the concept of the wizard seems feasible.

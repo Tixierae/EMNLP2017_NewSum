@@ -1,0 +1,12 @@
+The Project Manager reviewed the decisions from the previous meeting.
+The Marketing Expert made a presentation on trend watching including trends in user requirements and trends in fashion.
+The Industrial Designer presented all the components of the device and announced that several of the features already discussed would not be available.
+He suggested substituting a kinetic battery for the rechargeable batteries and using a combination of rubber and plastic for the materials.
+The User Interface Designer presented his main interface design which included buttons for the most frequently used features and a graphic user interface on the LCD screen for other functions to keep frequently used features easy to use.
+He announced that speech recognition was still an option to consider depending on price.
+The Project Manager then began a discussion to decide what was going into the final design.
+It was decided that a kinetic battery would be used in place of a rechargeable battery that the remote will feature an LCD screen and rubber casing and rubber buttons and that interchangeable rubber covers in fruit colors will be available.
+Speech recognition may be included if it is not too costly.
+It was decided that the remote would feature an LCD screen rubber buttons colorful rubber changeable skins a kinetic battery and possibly speech recognition if it is still within the budget to include it.
+Several of the features that the group had wanted to integrate into the design were either too costly or unavailable due to new limitations from the factory.
+The group had to change many of the original design elements to an alternative.

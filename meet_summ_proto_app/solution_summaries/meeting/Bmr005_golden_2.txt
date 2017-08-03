@@ -1,0 +1,68 @@
+A large part of the discussion centred around ways to get more data.
+The main source of this would be to get different groups to have.
+meetings in the recording room.
+There are groups willing to do this.
+and some who arent.
+It might be possible to hold discussions so long.
+as they were not too artificial.
+It may also be possible to get local.
+radio shows to provide data.
+A number of issues also arose from discussion of one members work on.
+identifying overlapping speech events.
+These included observing that.
+the different mikes produce different signals which is necessary for.
+studying different phenomena and a discussion of why he is using hand.
+coding rather than automatic methods.
+Currently the group has decided not to perform block echo cancellation.
+on their data to deal with features and approaches that would be.
+robust for a recogniser.
+One member of the group believes they really.
+should consider this.
+They also discussed the idea of a colleague who is studying inference.
+structures using their data.
+The sidetrack discussion on the legal implications of the use of names.
+was delayed until another time.
+It was decided that progress on the marking of overlaps would be.
+increased if focus was kept on the events of interest rather than all.
+possible events as was unecessarily being marked.
+The group members will continue discussion with other colleagues.
+regarding their holding meetings in the recording room.
+One member of the group has previous experience with energy detectors.
+using median filters to help with overlap detection and will attempt.
+to recall his past work in relation to the groups current needs.
+Another member wishes the group to reconsider the party line that they.
+wont do any block echo cancellation.
+The person responsible for the acoustics on the project will be.
+responsible for the digit taks.
+One problem some of the group members are having is with mentioning.
+peoples names.
+They not are not entirely aware of the legal.
+ramifications of this.
+They are aware that they are being sensitive.
+to this and no saying peoples names thus perhaps acting falsely.
+Not mentioning names may also be a problem when it comes to any form.
+of indexing with too many pronouns to keep track of.
+People need to be aware of what they want their data to contain.
+because different mikes provide different signals so it can be a.
+problem if you are unaware of this.
+Getting non group subjects to have meetings is a problem.
+Both.
+getting them to the site and the infrequency that their meetings.
+would be held.
+So far the group has accumulated 12 13 hours of data with 45 minutes.
+of it having been transcribed.
+They are almost ready to send a.
+further 10 hours to IBM for transcription.
+One member of the group has started work with the first transcribed 45.
+minutes to look at overlapping events.
+The original transcription.
+indicated approximately 300 of these events.
+So far in 12 hours of.
+work he has more strictly coded 12 minutes.
+In that 12 minutes he.
+has identified over 1000 non speech events.
+The individual interested in using the data for his work is currently.
+looking through it to see if he can use it and he will get back to.
+the group.
+The recording consent form is currently being revised and it will be.
+valid for a certain number of meetings.

@@ -1,0 +1,925 @@
+ES2014c.A.dialog-act.s9553330.1	91.2	91.89	A	PM	stl	-1	0	Okay 
+ES2014c.A.dialog-act.s9553330.2	112.68	113.14	A	PM	stl	-1	0	Right 
+ES2014c.A.dialog-act.s9553330.3	118.01	121.3	A	PM	oth	-1	0	Conceptual design meeting yeah Right 
+ES2014c.A.dialog-act.s9553330.4	121.3	126.976	A	PM	stl	-1	0	Right Okay so 
+ES2014c.A.dialog-act.s9553330.5	129.18	135.78	A	PM	inf	+1	1	Right well um from the last meeting i was trying to send you the minutes but 
+ES2014c.A.dialog-act.s9553330.6	135.78	137.91	A	PM	inf	+1	1	but the the marker to well so 
+ES2014c.A.dialog-act.s9553330.7	137.91	155.62	A	PM	off	+1	1	to well so maybe and sort of um Quick summary of the last uh meeting i can Quickly give you What we what we had Uh 
+ES2014c.C.dialog-act.s9553330.1	152.961	153.691	C	UI	fra	-1	0	{vocalsound}
+ES2014c.A.dialog-act.s9553330.8	155.62	159.6	A	PM	stl	-1	0	Uh Right so 
+ES2014c.A.dialog-act.s9553330.9	165.63	168.17	A	PM	oth	-1	0	And all the time Right so we have the fact 
+ES2014c.A.dialog-act.s9553330.10	168.17	178.58	A	PM	inf	+1	1	Right so we have the fact that we're gonna have the little uncomfortable it's a colour scheme corporate it on to the A device that will device we had 
+ES2014c.A.dialog-act.s9553330.11	178.58	190.66	A	PM	inf	+1	1	we had a uh a decisions about to Maybe decisions about to The voice is also it's gonna 
+ES2014c.A.dialog-act.s9553330.12	190.66	196.27	A	PM	inf	+1	1	voice is also it's gonna be simple to make it yeah Yeah let's complete president trying we're gonna have a 
+ES2014c.A.dialog-act.s9553330.13	196.27	199.46	A	PM	inf	+1	1	we're gonna have a thirty two pages front page 
+ES2014c.A.dialog-act.s9553330.14	199.46	204.7	A	PM	inf	+1	1	front page which at the uh features that the uh the customers most wanted and then 
+ES2014c.A.dialog-act.s9553330.15	204.7	215.06	A	PM	inf	+1	1	and then the uh the backup features on the second page So that it could to You the technical requirements and the customers when have 
+ES2014c.A.dialog-act.s9553330.16	215.06	217.66	A	PM	inf	-1	0	and the customers when have to look at them too often only 
+ES2014c.A.dialog-act.s9553330.17	217.66	219.85	A	PM	inf	-1	0	often only hasn't been required so 
+ES2014c.A.dialog-act.s9553330.18	219.85	220.38	A	PM	stl	-1	0	so 
+ES2014c.A.dialog-act.s9553330.19	224.08	229.3	A	PM	el.inf	-1	0	So basically what decisions or have we have made have there been 
+ES2014c.A.dialog-act.s9553330.20	229.3	231.45	A	PM	el.inf	-1	0	have there been any uh changes 
+ES2014c.B.dialog-act.s9553330.1	232.04	233.63	B	ID	inf	+1	0	I think we'll have a presentation against a week 
+ES2014c.A.dialog-act.s9553330.21	233.87	234.23	A	PM	ass	-1	0	Right 
+ES2014c.B.dialog-act.s9553330.2	233.63	235.32	B	ID	sug	-1	0	against a week or two there's and um 
+ES2014c.D.dialog-act.s9553330.1	234.29	234.48	D	ME	bck	-1	0	Yeah 
+ES2014c.A.dialog-act.s9553330.22	235.56	237.38	A	PM	inf	-1	0	Three presentations yeah so 
+ES2014c.B.dialog-act.s9553330.3	235.799	235.799	B	ID	fra	-1	0	um 
+ES2014c.B.dialog-act.s9553330.4	236.24	240.337	B	ID	off	-1	0	Yes So if it's can 
+ES2014c.A.dialog-act.s9553330.23	237.38	239.18	A	PM	stl	-1	0	so Yeah fine 
+ES2014c.A.dialog-act.s9553330.24	239.18	240.37	A	PM	ass	-1	0	Yeah fine 
+ES2014c.D.dialog-act.s9553330.2	239.78	240.01	D	ME	bck	-1	0	Okay 
+ES2014c.B.dialog-act.s9553330.5	249.18	252.14	B	ID	off	-1	0	Steve missiles really the last one 
+ES2014c.B.dialog-act.s9553330.6	253.344	254.032	B	ID	fra	-1	0	{vocalsound}
+ES2014c.A.dialog-act.s9553330.25	265.616	265.808	A	PM	fra	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.7	288.06	289.95	B	ID	ass	-1	0	Okay right stuff um 
+ES2014c.B.dialog-act.s9553330.8	293.36	295.79	B	ID	fra	-1	0	Basically the uh for the on 
+ES2014c.B.dialog-act.s9553330.9	295.79	296.97	B	ID	oth	-1	0	the on screen okay 
+ES2014c.B.dialog-act.s9553330.10	298.56	303.11	B	ID	fra	+1	1	For the components design um Next f. is this is the the the 
+ES2014c.B.dialog-act.s9553330.11	303.11	306.77	B	ID	inf	+1	1	this is the the the way the remote is can we can still the same ideas before we still 
+ES2014c.B.dialog-act.s9553330.12	306.77	311.81	B	ID	inf	+1	1	before we still have the user interface which is all the buttons for dinner in corporate then 
+ES2014c.B.dialog-act.s9553330.13	311.81	314.22	B	ID	inf	+1	1	in corporate then there is a chip and still the 
+ES2014c.B.dialog-act.s9553330.14	314.22	316.07	B	ID	inf	+1	1	and still the centre so um 
+ES2014c.B.dialog-act.s9553330.15	316.07	320.45	B	ID	inf	+1	1	so um this this this other things in the past supplies well i'm not going 
+ES2014c.B.dialog-act.s9553330.16	320.45	325.1	B	ID	inf	-1	0	i'm not going to my findings in each of these areas uh phase the 
+ES2014c.B.dialog-act.s9553330.17	325.1	330.07	B	ID	inf	+1	1	uh phase the power supply we have the option that's just a standard battery Um 
+ES2014c.B.dialog-act.s9553330.18	330.85	333.25	B	ID	stl	-1	0	Um There is a dynamo 
+ES2014c.B.dialog-act.s9553330.19	333.25	335.4	B	ID	inf	+1	1	There is a dynamo They've you think 
+ES2014c.B.dialog-act.s9553330.20	335.4	340.42	B	ID	inf	-1	0	They've you think you can like the guilt which is which you wind up like an idea um 
+ES2014c.B.dialog-act.s9553330.21	340.42	342.01	B	ID	fra	-1	0	um That's the kinetic 
+ES2014c.B.dialog-act.s9553330.22	342.01	344.42	B	ID	inf	+1	1	the kinetic option which they they have 
+ES2014c.B.dialog-act.s9553330.23	344.42	350.62	B	ID	inf	-1	0	which they they have you seen this see what she's wishy kind of you power by way different than which has more money from we should mean 
+ES2014c.B.dialog-act.s9553330.24	350.62	352.65	B	ID	inf	+1	1	money from we should mean about shouldn't have to replaced 
+ES2014c.B.dialog-act.s9553330.25	353.49	354.59	B	ID	inf	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.3	353.93	354.26	D	ME	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.26	354.59	356.43	B	ID	inf	+1	1	{vocalsound}
+ES2014c.B.dialog-act.s9553330.27	356.43	361.41	B	ID	inf	+1	1	{vocalsound}
+ES2014c.B.dialog-act.s9553330.28	361.41	366.27	B	ID	inf	+1	1	{vocalsound}
+ES2014c.B.dialog-act.s9553330.29	366.27	367.02	B	ID	fra	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.30	367.02	370.99	B	ID	inf	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.31	370.99	377.04	B	ID	inf	-1	0	{vocalsound}
+ES2014c.A.dialog-act.s9553330.26	377.07	377.66	A	PM	ass	-1	0	Okay 
+ES2014c.B.dialog-act.s9553330.32	377.04	380.88	B	ID	inf	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.33	380.88	383.24	B	ID	inf	+1	1	{vocalsound}
+ES2014c.B.dialog-act.s9553330.34	383.24	391.21	B	ID	inf	+1	1	{vocalsound}
+ES2014c.B.dialog-act.s9553330.35	391.21	398.34	B	ID	inf	+1	1	Wishes you and you mouse going to send section which can scroll up and down would be for the volume 
+ES2014c.B.dialog-act.s9553330.36	398.34	399.47	B	ID	sug	-1	0	down would be for the volume and 
+ES2014c.A.dialog-act.s9553330.27	399.65	400.16	A	PM	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.37	399.47	402.64	B	ID	inf	-1	0	and To you Do that um 
+ES2014c.D.dialog-act.s9553330.4	400.32	400.56	D	ME	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.38	402.64	407.49	B	ID	inf	+1	1	Do that um one issue for the buses is depending on which material we use if we use rubber 
+ES2014c.B.dialog-act.s9553330.39	407.49	410.77	B	ID	inf	+1	1	we use if we use rubber buttons and it requires a rubber case so we 
+ES2014c.B.dialog-act.s9553330.40	410.77	413.06	B	ID	inf	-1	0	so we have to into consideration um movements 
+ES2014c.B.dialog-act.s9553330.41	413.06	415.33	B	ID	fra	-1	0	um movements or the princess 
+ES2014c.A.dialog-act.s9553330.28	414.53	416.68	A	PM	el.inf	+1	1	What would be the cost do do we know 
+ES2014c.B.dialog-act.s9553330.42	417.04	419.74	B	ID	fra	-1	0	Um that's on the next as i 
+ES2014c.A.dialog-act.s9553330.30	419.04	421.104	A	PM	fra	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.43	419.74	424.87	B	ID	inf	+1	1	as i think the the wasn't too much difference in the cost but the race the actual buttons but 
+ES2014c.B.dialog-act.s9553330.44	424.87	427.08	B	ID	inf	+1	1	the actual buttons but does affect the printed circuit board um there's next 
+ES2014c.B.dialog-act.s9553330.45	427.08	429.18	B	ID	inf	-1	0	um there's next haitian basically for the the 
+ES2014c.B.dialog-act.s9553330.46	429.18	438.42	B	ID	inf	-1	0	basically for the the circuit board which is the middle this see them that the chipset uh by the way things of the uh still um of the remote The 
+ES2014c.A.dialog-act.s9553330.29	434.33	434.81	A	PM	ass	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.47	438.42	444.39	B	ID	inf	+1	1	The thumb supplies a simple a regular and advanced and circuit board and these different 
+ES2014c.B.dialog-act.s9553330.48	444.39	446.41	B	ID	inf	-1	0	and these different price is going to reach to forgot the scroll 
+ES2014c.B.dialog-act.s9553330.49	446.41	455.9	B	ID	inf	+1	2	to forgot the scroll wheel for one of the buttons that would require a slightly more advanced say cobalt and if we just have the standards and push button 
+ES2014c.A.dialog-act.s9553330.31	452.26	452.95	A	PM	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.50	457.03	461.3	B	ID	inf	+1	1	Um one final think we can move for some information the speech recognition is the small 
+ES2014c.B.dialog-act.s9553330.51	461.3	467.56	B	ID	inf	+1	1	is the small unit available through the the company um we chose you would be nice to cost between the 
+ES2014c.B.dialog-act.s9553330.52	467.56	470.18	B	ID	inf	-1	0	between the side the size of the remote too much and 
+ES2014c.B.dialog-act.s9553330.53	470.18	474.37	B	ID	inf	-1	0	and i guess that would require yeah more fun stick a poster is next 
+ES2014c.B.dialog-act.s9553330.54	474.37	476.58	B	ID	inf	-1	0	a poster is next a price in a sense that is as 
+ES2014c.B.dialog-act.s9553330.55	476.58	479.0	B	ID	inf	-1	0	that is as an extra cost nonsense and there is what this preferences 
+ES2014c.B.dialog-act.s9553330.56	479.0	485.84	B	ID	inf	+1	1	and there is what this preferences um As a policy for how we could use kinetic and 
+ES2014c.B.dialog-act.s9553330.57	485.84	490.01	B	ID	inf	-1	0	and which the idea of the watches and you move you move the remote around 
+ES2014c.B.dialog-act.s9553330.58	490.01	492.66	B	ID	inf	-1	0	move the remote around to power that and it's 
+ES2014c.B.dialog-act.s9553330.59	492.66	497.82	B	ID	inf	+1	1	and it's weird to avoid but she's running out of place but she's and so it's like um 
+ES2014c.B.dialog-act.s9553330.60	497.82	505.97	B	ID	inf	+1	1	um for the past since i saw we put we go it's having the standard um pushbuttons of them the scroll wheel 
+ES2014c.B.dialog-act.s9553330.61	507.22	513.9	B	ID	inf	+1	2	Um and for the circuit board again depends on which features we want a national minimum wage to 
+ES2014c.B.dialog-act.s9553330.62	513.9	521.56	B	ID	inf	+1	2	wage to be one of the scroll-wheel the one the voice recognition um that we'd have to get uh a more costly circuit board That's it 
+ES2014c.B.dialog-act.s9553330.63	521.56	521.93	B	ID	inf	-1	0	That's it 
+ES2014c.D.dialog-act.s9553330.5	527.33	527.57	D	ME	bck	-1	0	Okay 
+ES2014c.A.dialog-act.s9553330.32	530.547	535.171	A	PM	el.inf	-1	0	Joe with a printed circuit board you were going for the 
+ES2014c.C.dialog-act.s9553330.2	531.11	532.919	C	UI	be.pos	-1	0	Thanks 
+ES2014c.B.dialog-act.s9553330.64	535.47	537.85	B	ID	inf	-1	0	Um it had the pens um i forgot 
+ES2014c.B.dialog-act.s9553330.65	537.85	543.15	B	ID	inf	+1	2	pens um i forgot the speech recognition we'd have to hold again the vance from guessing um but i don't know that's 
+ES2014c.A.dialog-act.s9553330.33	542.84	543.25	A	PM	und	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.66	543.15	544.07	B	ID	inf	+1	2	um but i don't know that's that's um don't have 
+ES2014c.B.dialog-act.s9553330.67	544.07	545.75	B	ID	off	+1	2	that's um don't have to look into it 
+ES2014c.A.dialog-act.s9553330.34	544.97	546.33	A	PM	el.inf	-1	0	But are we going for my 
+ES2014c.A.dialog-act.s9553330.35	546.33	546.67	A	PM	ass	-1	0	my 
+ES2014c.B.dialog-act.s9553330.68	546.5	549.28	B	ID	inf	+1	1	Um that's losses are for this um 
+ES2014c.A.dialog-act.s9553330.36	550.66	557.49	A	PM	sug	+1	1	So we want to make that decision now in the sense that this is the point at which were discussing that issue so 
+ES2014c.B.dialog-act.s9553330.69	552.06	552.99	B	ID	bck	-1	0	Yeah yeah 
+ES2014c.B.dialog-act.s9553330.70	556.16	557.84	B	ID	ass	-1	0	We decided yeah 
+ES2014c.D.dialog-act.s9553330.6	556.27	556.52	D	ME	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.37	557.49	560.5	A	PM	fra	-1	0	issue so we are not be best to Rather than 
+ES2014c.A.dialog-act.s9553330.38	560.5	561.57	A	PM	fra	-1	0	Rather than a name one 
+ES2014c.A.dialog-act.s9553330.39	561.57	564.05	A	PM	sug	+1	1	a name one we used to do each of the presentations and then make decisions going 
+ES2014c.A.dialog-act.s9553330.40	564.05	568.24	A	PM	sug	+1	1	and then make decisions going back to these presentations is that where you have a we would be 
+ES2014c.A.dialog-act.s9553330.41	568.24	570.47	A	PM	sug	-1	0	you have a we would be to do they presentation and then make 
+ES2014c.D.dialog-act.s9553330.7	569.77	570.18	D	ME	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.42	570.47	572.62	A	PM	sug	-1	0	and then make a decision at that point in time 
+ES2014c.B.dialog-act.s9553330.71	572.84	574.29	B	ID	fra	-1	0	Um maybe 
+ES2014c.C.dialog-act.s9553330.3	573.88	574.06	C	UI	ass	-1	0	Yeah that's probably about a one to 
+ES2014c.C.dialog-act.s9553330.4	574.06	576.16	C	UI	ass	+1	1	that's probably about a one to discuss it straight away 
+ES2014c.A.dialog-act.s9553330.43	576.79	579.24	A	PM	inf	-1	0	"'cause" at that point and you've got the details up there so if we wanted 
+ES2014c.A.dialog-act.s9553330.44	579.24	591.06	A	PM	inf	+1	1	there so if we wanted to know for instance it The scroll through required a regular and and what required and downs and therefore able to see that then um we could make a decision on that point i mean and that be the 
+ES2014c.B.dialog-act.s9553330.72	587.85	588.28	B	ID	bck	-1	0	Um 
+ES2014c.A.dialog-act.s9553330.45	591.06	593.34	A	PM	inf	-1	0	mean and that be the end of that issue that 
+ES2014c.A.dialog-act.s9553330.46	593.34	595.29	A	PM	el.und	-1	0	that makes sense 
+ES2014c.B.dialog-act.s9553330.73	593.52	594.08	B	ID	bck	-1	0	Yeah 
+ES2014c.C.dialog-act.s9553330.5	595.296	597.84	C	UI	inf	-1	0	Um half of the information they might 
+ES2014c.D.dialog-act.s9553330.8	595.9	596.37	D	ME	bck	-1	0	Hmm 
+ES2014c.C.dialog-act.s9553330.6	597.84	598.79	C	UI	inf	-1	0	they might not be very clear 
+ES2014c.B.dialog-act.s9553330.74	601.73	602.528	B	ID	fra	-1	0	Yes yeah 
+ES2014c.C.dialog-act.s9553330.7	602.16	603.7	C	UI	sug	-1	0	Bless you want to put it back in the euros 
+ES2014c.B.dialog-act.s9553330.75	604.34	605.12	B	ID	stl	-1	0	Um 
+ES2014c.B.dialog-act.s9553330.76	606.17	607.49	B	ID	ass	-1	0	You could do yeah and 
+ES2014c.B.dialog-act.s9553330.77	607.49	610.1	B	ID	inf	-1	0	and yours 
+ES2014c.A.dialog-act.s9553330.47	616.448	617.093	A	PM	fra	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.78	618.82	622.84	B	ID	inf	+1	1	As say they only specified that we need to move and say a couple of the scroll wheel didn't 
+ES2014c.A.dialog-act.s9553330.48	623.12	623.89	A	PM	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.79	622.84	623.56	B	ID	fra	-1	0	of the scroll wheel didn't the voice recognition 
+ES2014c.B.dialog-act.s9553330.80	623.56	627.54	B	ID	inf	+1	1	the voice recognition came a set of peace for information and 
+ES2014c.A.dialog-act.s9553330.50	627.23	627.35	A	PM	ass	-1	0	One scroll through 
+ES2014c.A.dialog-act.s9553330.49	627.35	629.17	A	PM	inf	+1	1	One scroll through required a regular so the 
+ES2014c.A.dialog-act.s9553330.51	629.17	629.776	A	PM	fra	-1	0	so the 
+ES2014c.B.dialog-act.s9553330.81	629.72	629.88	B	ID	ass	-1	0	Yeah if you 
+ES2014c.B.dialog-act.s9553330.82	629.88	634.44	B	ID	inf	-1	0	Yeah if you feel it down um This this but the ball much of highlights it but the scroll 
+ES2014c.A.dialog-act.s9553330.52	631.68	632.51	A	PM	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.83	634.44	638.61	B	ID	inf	-1	0	it but the scroll requires the main the main minimally a regular chip which is in high 
+ES2014c.A.dialog-act.s9553330.53	636.555	637.696	A	PM	fra	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.84	638.61	639.86	B	ID	inf	-1	0	which is in high price range 
+ES2014c.A.dialog-act.s9553330.54	640.59	642.37	A	PM	stl	-1	0	Okay The display requires 
+ES2014c.A.dialog-act.s9553330.55	642.37	644.64	A	PM	oth	+1	1	The display requires an advanced chip to display 
+ES2014c.C.dialog-act.s9553330.8	642.23	644.602	C	UI	fra	-1	0	I think the scroll wheel um 
+ES2014c.A.dialog-act.s9553330.56	644.64	649.63	A	PM	oth	-1	0	chip to display requires an advanced chip which in turn is more expensive 
+ES2014c.B.dialog-act.s9553330.85	647.11	649.92	B	ID	inf	-1	0	Oh so the this place for something else we should set against and 
+ES2014c.B.dialog-act.s9553330.86	649.92	651.472	B	ID	fra	-1	0	set against and about uh 
+ES2014c.A.dialog-act.s9553330.57	653.52	653.98	A	PM	und	-1	0	Okay 
+ES2014c.B.dialog-act.s9553330.87	655.22	658.06	B	ID	inf	+1	1	And uh the the pushbutton just requires a simple chip so i would keep the price 
+ES2014c.B.dialog-act.s9553330.88	658.06	660.28	B	ID	inf	-1	0	i would keep the price down 
+ES2014c.A.dialog-act.s9553330.58	659.73	660.17	A	PM	inf	-1	0	Down 
+ES2014c.C.dialog-act.s9553330.9	660.68	666.05	C	UI	ass	+1	1	Yeah if all of a sleek and sexy i think a scroll wheel is maybe a bit kind of bulky i have got um 
+ES2014c.D.dialog-act.s9553330.9	661.03	661.57	D	ME	bck	-1	0	Mm 
+ES2014c.C.dialog-act.s9553330.10	666.05	667.5	C	UI	inf	-1	0	i have got um pictures well seen pictures 
+ES2014c.C.dialog-act.s9553330.11	667.5	670.26	C	UI	inf	-1	0	pictures well seen pictures within the state of the side of it and the jury look great 
+ES2014c.A.dialog-act.s9553330.59	670.34	673.04	A	PM	bck	-1	0	Right Okay 
+ES2014c.C.dialog-act.s9553330.12	670.26	671.3	C	UI	inf	-1	0	and the jury look great 
+ES2014c.B.dialog-act.s9553330.89	671.83	672.04	B	ID	bck	-1	0	Yeah To maybe 
+ES2014c.B.dialog-act.s9553330.90	672.62	674.05	B	ID	sug	+1	2	To maybe simple push button and that would cut 
+ES2014c.B.dialog-act.s9553330.91	674.05	676.347	B	ID	inf	-1	0	and that would cut costs um 
+ES2014c.A.dialog-act.s9553330.60	674.64	679.56	A	PM	ass	-1	0	So so we're going for a "'kay" 
+ES2014c.A.dialog-act.s9553330.61	679.56	684.64	A	PM	fra	-1	0	Parser which is uh mm 
+ES2014c.D.dialog-act.s9553330.10	690.05	692.96	D	ME	el.inf	-1	0	So again for the wheel we have the simple one way 
+ES2014c.C.dialog-act.s9553330.13	693.19	695.77	C	UI	inf	+1	2	Yeah simple push buttons 
+ES2014c.A.dialog-act.s9553330.62	694.45	697.076	A	PM	inf	-1	0	Simple push button 
+ES2014c.D.dialog-act.s9553330.11	694.18	694.45	D	ME	bck	-1	0	Okay 
+ES2014c.B.dialog-act.s9553330.92	695.648	698.63	B	ID	el.inf	+1	1	{vocalsound}
+ES2014c.B.dialog-act.s9553330.93	698.63	699.34	B	ID	fra	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.94	699.34	700.58	B	ID	inf	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.95	700.58	703.64	B	ID	inf	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.96	703.64	707.72	B	ID	inf	-1	0	{vocalsound}
+ES2014c.A.dialog-act.s9553330.63	705.6	705.98	A	PM	bck	-1	0	Uh-huh 
+ES2014c.D.dialog-act.s9553330.12	705.86	706.25	D	ME	bck	-1	0	Yeah 
+ES2014c.B.dialog-act.s9553330.97	707.72	710.54	B	ID	inf	+1	1	{vocalsound}
+ES2014c.B.dialog-act.s9553330.98	710.54	716.3	B	ID	inf	+1	1	{vocalsound}
+ES2014c.D.dialog-act.s9553330.13	710.518	711.396	D	ME	fra	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.99	716.3	717.02	B	ID	inf	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.100	717.02	719.25	B	ID	inf	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.101	719.25	721.168	B	ID	sug	-1	0	{vocalsound}
+ES2014c.A.dialog-act.s9553330.64	721.88	726.62	A	PM	el.inf	+1	1	So we go for the simple push button and stuff like that we're going for the simple printed circuit board are we are we're going 
+ES2014c.A.dialog-act.s9553330.65	726.62	728.73	A	PM	el.inf	-1	0	board are we are we're going for the regular 
+ES2014c.B.dialog-act.s9553330.102	729.92	732.8	B	ID	inf	-1	0	And if it's just the push button and i just use simple circuit board 
+ES2014c.A.dialog-act.s9553330.66	732.69	733.75	A	PM	bck	-1	0	Uh-huh but 
+ES2014c.A.dialog-act.s9553330.67	733.75	737.19	A	PM	fra	-1	0	but Is there any other i mean okay 
+ES2014c.A.dialog-act.s9553330.68	737.19	741.28	A	PM	inf	-1	0	i mean okay that's true for the for for that element but we have 
+ES2014c.A.dialog-act.s9553330.69	741.28	745.86	A	PM	inf	-1	0	but we have to do you call them at l. elements into consideration and 
+ES2014c.A.dialog-act.s9553330.70	745.86	756.59	A	PM	inf	-1	0	and so there is one element that requires a lot more expensive one orbits in the regular one or the more advanced than that would have to be the same for all of them so 
+ES2014c.D.dialog-act.s9553330.14	752.85	753.1	D	ME	bck	-1	0	Uh-huh 
+ES2014c.C.dialog-act.s9553330.14	755.83	757.37	C	UI	bck	-1	0	Mm But 
+ES2014c.C.dialog-act.s9553330.15	757.37	757.991	C	UI	fra	-1	0	But 
+ES2014c.D.dialog-act.s9553330.15	756.98	763.05	D	ME	sug	+1	1	I suppose we need we need to find out what circuit board that requires maybe for many did they make a decision 
+ES2014c.A.dialog-act.s9553330.71	764.04	764.72	A	PM	bck	-1	0	Right 
+ES2014c.C.dialog-act.s9553330.16	763.95	768.73	C	UI	inf	+1	2	But the way that i interpret that um it doesn't seem to send out a signal to the telly it just 
+ES2014c.C.dialog-act.s9553330.17	768.73	769.58	C	UI	fra	-1	0	to the telly it just it's like 
+ES2014c.C.dialog-act.s9553330.18	769.58	774.38	C	UI	inf	+1	2	it's like a power just apply apply deal message so i don't think it 
+ES2014c.A.dialog-act.s9553330.72	772.3	772.72	A	PM	bck	-1	0	Uh-huh 
+ES2014c.D.dialog-act.s9553330.16	771.99	773.5	D	ME	ass	-1	0	Um yeah i was uh yeah 
+ES2014c.B.dialog-act.s9553330.103	773.48	775.25	B	ID	sug	-1	0	So maybe that would be something separate yeah 
+ES2014c.C.dialog-act.s9553330.19	774.38	777.4	C	UI	inf	+1	2	so i don't think it would affect our uh circuit board 
+ES2014c.A.dialog-act.s9553330.73	776.53	776.92	A	PM	ass	-1	0	No 
+ES2014c.D.dialog-act.s9553330.17	776.05	776.19	D	ME	bck	-1	0	Yeah 
+ES2014c.B.dialog-act.s9553330.104	776.9	777.3	B	ID	und	-1	0	Okay so we'd have a simple 
+ES2014c.B.dialog-act.s9553330.105	777.3	778.5	B	ID	inf	+1	2	so we'd have a simple circuit board and i'll be an extra 
+ES2014c.A.dialog-act.s9553330.74	778.64	779.04	A	PM	fra	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.106	778.5	781.15	B	ID	inf	-1	0	circuit board and i'll be an extra up in addition to uh make sense 
+ES2014c.C.dialog-act.s9553330.20	780.2	781.05	C	UI	ass	-1	0	Yeah i don't think you could really perform 
+ES2014c.B.dialog-act.s9553330.107	781.15	781.97	B	ID	und	-1	0	uh make sense 
+ES2014c.C.dialog-act.s9553330.21	781.05	784.38	C	UI	inf	+1	2	i don't think you could really perform any of the remote functions with that "'cause" the example 
+ES2014c.D.dialog-act.s9553330.18	780.77	780.96	D	ME	ass	-1	0	Yeah 
+ES2014c.C.dialog-act.s9553330.22	784.38	788.71	C	UI	inf	-1	0	"'cause" the example of a given day is good morning coffee machine good morning joe it might be 
+ES2014c.A.dialog-act.s9553330.75	788.06	788.79	A	PM	bck	-1	0	Uh-huh 
+ES2014c.C.dialog-act.s9553330.23	788.71	793.21	C	UI	inf	-1	0	it might be useful to see like well you moved here i am too well But i think 
+ES2014c.B.dialog-act.s9553330.108	791.01	791.26	B	ID	bck	-1	0	Okay 
+ES2014c.D.dialog-act.s9553330.19	791.872	795.168	D	ME	bck	-1	0	Yeah 
+ES2014c.A.dialog-act.s9553330.76	792.672	793.776	A	PM	fra	-1	0	{vocalsound}
+ES2014c.C.dialog-act.s9553330.24	793.21	796.09	C	UI	inf	-1	0	But i think that's maybe as far as that one could call 
+ES2014c.A.dialog-act.s9553330.77	796.53	797.1	A	PM	bck	-1	0	Okay 
+ES2014c.D.dialog-act.s9553330.20	797.44	797.62	D	ME	bck	-1	0	Yep 
+ES2014c.B.dialog-act.s9553330.109	797.94	798.7	B	ID	ass	-1	0	Yeah that makes sense so we stick 
+ES2014c.B.dialog-act.s9553330.110	798.7	800.28	B	ID	inf	+1	3	that makes sense so we stick to the simple circuit board and then think the 
+ES2014c.B.dialog-act.s9553330.111	800.28	804.65	B	ID	inf	-1	0	board and then think the speech recognition is next uh Yeah it's a possibility 
+ES2014c.C.dialog-act.s9553330.25	803.64	803.83	C	UI	ass	-1	0	Yeah just 
+ES2014c.C.dialog-act.s9553330.26	803.83	805.0	C	UI	inf	-1	0	Yeah just as a fun way to find it 
+ES2014c.A.dialog-act.s9553330.78	805.408	805.408	A	PM	fra	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.112	805.41	806.75	B	ID	bck	-1	0	Okay um 
+ES2014c.A.dialog-act.s9553330.79	808.0	809.83	A	PM	inf	-1	0	circuit board simple 
+ES2014c.A.dialog-act.s9553330.80	809.83	811.04	A	PM	inf	-1	0	board simple push button 
+ES2014c.A.dialog-act.s9553330.81	814.23	816.1	A	PM	stl	-1	0	Oh i see what we can 
+ES2014c.A.dialog-act.s9553330.82	816.1	817.32	A	PM	oth	+1	1	what we can if you you you 
+ES2014c.C.dialog-act.s9553330.27	816.1	816.91	C	UI	fra	-1	0	That's a sub i 
+ES2014c.A.dialog-act.s9553330.83	817.32	820.47	A	PM	el.ass	-1	0	if you you you were one to go for the kinetic power someone 
+ES2014c.C.dialog-act.s9553330.28	816.91	819.21	C	UI	inf	-1	0	That's a sub i think it said the cost that isn't too much 
+ES2014c.B.dialog-act.s9553330.113	820.82	821.7	B	ID	ass	-1	0	And yeah i i thought 
+ES2014c.B.dialog-act.s9553330.114	821.7	825.45	B	ID	inf	+1	1	yeah i i thought so just for uh just reuse not into place batteries 
+ES2014c.A.dialog-act.s9553330.84	825.79	827.56	A	PM	bck	-1	0	Uh-huh And how does 
+ES2014c.D.dialog-act.s9553330.21	826.16	826.35	D	ME	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.115	826.91	827.37	B	ID	bck	-1	0	Mm 
+ES2014c.A.dialog-act.s9553330.85	827.56	829.57	A	PM	el.inf	-1	0	And how does it get to charged up 
+ES2014c.B.dialog-act.s9553330.116	830.08	834.7	B	ID	inf	-1	0	Is um anyways the base to have some kind of ball bearings inside is um 
+ES2014c.B.dialog-act.s9553330.117	834.7	840.15	B	ID	inf	-1	0	is um is someone watches which you you kind of you shake to power that somehow mechanism 
+ES2014c.B.dialog-act.s9553330.118	840.15	843.38	B	ID	inf	+1	1	somehow mechanism inside house a few movement so you'd you'd miss 
+ES2014c.D.dialog-act.s9553330.22	840.37	840.73	D	ME	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.86	843.29	843.81	A	PM	bck	-1	0	Okay 
+ES2014c.B.dialog-act.s9553330.120	843.38	845.25	B	ID	inf	-1	0	so you'd you'd miss the remote around little bit and then uh powers up 
+ES2014c.B.dialog-act.s9553330.121	845.25	846.52	B	ID	inf	-1	0	bit and then uh powers up to use it 
+ES2014c.A.dialog-act.s9553330.87	846.8	847.61	A	PM	stl	-1	0	Okay so the speech 
+ES2014c.D.dialog-act.s9553330.23	847.11	847.39	D	ME	bck	-1	0	Yeah 
+ES2014c.A.dialog-act.s9553330.88	847.61	850.34	A	PM	fra	-1	0	so the speech recognition was are we going for 
+ES2014c.A.dialog-act.s9553330.89	850.34	851.95	A	PM	el.inf	+1	2	are we going for speech recognition know 
+ES2014c.A.dialog-act.s9553330.90	851.95	852.27	A	PM	el.ass	-1	0	speech recognition know as a record 
+ES2014c.A.dialog-act.s9553330.91	852.27	854.16	A	PM	sug	-1	0	as a record the advanced 
+ES2014c.C.dialog-act.s9553330.29	854.32	856.69	C	UI	inf	-1	0	Um i think it would be helpful to find it but i don't 
+ES2014c.C.dialog-act.s9553330.30	856.69	859.264	C	UI	fra	-1	0	it but i don't think it Um 
+ES2014c.D.dialog-act.s9553330.24	856.72	857.251	D	ME	fra	-1	0	Just 
+ES2014c.B.dialog-act.s9553330.122	858.21	859.01	B	ID	fra	-1	0	But yeah i think do is i didn't affect 
+ES2014c.B.dialog-act.s9553330.123	859.01	861.644	B	ID	inf	-1	0	do is i didn't affect the circuit board just the fact is 
+ES2014c.C.dialog-act.s9553330.31	861.73	862.65	C	UI	ass	-1	0	Yeah i think so 
+ES2014c.D.dialog-act.s9553330.25	861.86	864.95	D	ME	inf	+1	2	Just just for the call and find thing 
+ES2014c.B.dialog-act.s9553330.124	862.41	863.053	B	ID	fra	-1	0	Or just 
+ES2014c.A.dialog-act.s9553330.92	863.8	866.68	A	PM	inf	-1	0	I had speech recognition requires announced or 
+ES2014c.A.dialog-act.s9553330.93	866.68	867.76	A	PM	fra	-1	0	or require 
+ES2014c.B.dialog-act.s9553330.125	867.1	867.48	B	ID	ass	-1	0	Well that's for us 
+ES2014c.B.dialog-act.s9553330.126	867.48	868.57	B	ID	inf	-1	0	Well that's for us or so or maybe 
+ES2014c.B.dialog-act.s9553330.127	868.57	869.74	B	ID	inf	-1	0	or so or maybe maybe doesn't know 
+ES2014c.A.dialog-act.s9553330.94	870.55	871.86	A	PM	und	-1	0	Oh So 
+ES2014c.B.dialog-act.s9553330.128	870.44	871.64	B	ID	inf	-1	0	Um the him out of that one 
+ES2014c.A.dialog-act.s9553330.95	871.86	873.53	A	PM	stl	-1	0	So okay speech recognition 
+ES2014c.D.dialog-act.s9553330.26	871.84	873.09	D	ME	inf	-1	0	"'cause" it's a it's a prison a stamp of uh 
+ES2014c.A.dialog-act.s9553330.96	873.53	879.58	A	PM	inf	-1	0	speech recognition you recommend is so simple and so we 
+ES2014c.D.dialog-act.s9553330.27	873.09	874.373	D	ME	fra	-1	0	a stamp of uh 
+ES2014c.B.dialog-act.s9553330.129	876.72	877.99	B	ID	inf	+1	2	Is this just an addition thing is 
+ES2014c.B.dialog-act.s9553330.130	877.99	879.03	B	ID	fra	-1	0	just an addition thing is um yeah 
+ES2014c.B.dialog-act.s9553330.131	879.03	879.23	B	ID	ass	-1	0	{vocalsound}
+ES2014c.A.dialog-act.s9553330.97	879.58	881.34	A	PM	inf	+1	1	and so we would want it in as an extra because it doesn't 
+ES2014c.A.dialog-act.s9553330.98	881.34	883.88	A	PM	inf	-1	0	because it doesn't appear to cost too much about 
+ES2014c.A.dialog-act.s9553330.99	883.88	884.56	A	PM	el.ass	-1	0	about me 
+ES2014c.B.dialog-act.s9553330.132	883.94	884.33	B	ID	bck	-1	0	Okay 
+ES2014c.C.dialog-act.s9553330.32	883.94	884.18	C	UI	bck	-1	0	Hmm 
+ES2014c.D.dialog-act.s9553330.28	884.37	884.61	D	ME	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.133	888.34	889.49	B	ID	el.inf	-1	0	Okay shop or something 
+ES2014c.C.dialog-act.s9553330.33	888.97	889.688	C	UI	fra	-1	0	I think 
+ES2014c.A.dialog-act.s9553330.100	892.3	894.76	A	PM	inf	-1	0	That would be cost any more with it 
+ES2014c.C.dialog-act.s9553330.34	894.63	896.59	C	UI	off	-1	0	Or just just check what i said 
+ES2014c.C.dialog-act.s9553330.35	900.72	903.35	C	UI	inf	-1	0	A shot don't think it really see it's a thing about the cost but see is that it's 
+ES2014c.C.dialog-act.s9553330.36	903.35	906.58	C	UI	inf	-1	0	but see is that it's already in the coffee machines so 
+ES2014c.C.dialog-act.s9553330.37	906.58	909.692	C	UI	inf	-1	0	so Like it's already kind of 
+ES2014c.D.dialog-act.s9553330.29	908.12	908.43	D	ME	bck	-1	0	Yeah 
+ES2014c.B.dialog-act.s9553330.134	909.28	910.7	B	ID	inf	-1	0	As you know it costs text of uh 
+ES2014c.B.dialog-act.s9553330.135	910.7	915.94	B	ID	sug	+1	2	text of uh May we may will find out how much that those cost and that's that's life i realise that 
+ES2014c.A.dialog-act.s9553330.101	914.336	919.79	A	PM	inf	-1	0	And then have to change i change our everything the last minute 
+ES2014c.C.dialog-act.s9553330.38	915.024	915.63	C	UI	fra	-1	0	{vocalsound}
+ES2014c.A.dialog-act.s9553330.102	921.73	923.96	A	PM	stl	-1	0	Okay so 
+ES2014c.C.dialog-act.s9553330.39	922.56	923.34	C	UI	bck	-1	0	Um 
+ES2014c.C.dialog-act.s9553330.40	929.504	932.24	C	UI	ass	-1	0	Well that's good um 
+ES2014c.C.dialog-act.s9553330.41	932.24	936.22	C	UI	inf	+1	1	um all to use all very brief presentation um 
+ES2014c.C.dialog-act.s9553330.42	938.34	943.95	C	UI	inf	+1	1	From out of the remotes out that the minutes in on the mall particularly um sleek and sexy um 
+ES2014c.C.dialog-act.s9553330.43	943.95	947.7	C	UI	inf	+1	1	um how to actually got the examples of the scroll-button a um 
+ES2014c.C.dialog-act.s9553330.44	947.7	952.94	C	UI	inf	+1	1	a um buttons some "'kay" of cases that you can see um i mean just size as an old 
+ES2014c.C.dialog-act.s9553330.45	952.94	955.48	C	UI	inf	+1	1	just size as an old have quite a lot of buttons say um the seem to just 
+ES2014c.C.dialog-act.s9553330.46	955.48	957.36	C	UI	inf	-1	0	um the seem to just have the robot buttons 
+ES2014c.C.dialog-act.s9553330.47	958.83	959.44	C	UI	el.inf	-1	0	Summer yes 
+ES2014c.A.dialog-act.s9553330.103	960.5	960.88	A	PM	be.pos	-1	0	Sorry 
+ES2014c.C.dialog-act.s9553330.48	961.21	964.953	C	UI	inf	-1	0	It just seems to be skipped on what else do anything 
+ES2014c.A.dialog-act.s9553330.104	962.33	962.75	A	PM	ass	-1	0	Yeah a friend 
+ES2014c.A.dialog-act.s9553330.105	962.75	964.17	A	PM	inf	-1	0	Yeah a friend and then yeah sure i'm trying to do back 
+ES2014c.A.dialog-act.s9553330.106	964.17	966.23	A	PM	inf	-1	0	i'm trying to do back 
+ES2014c.B.dialog-act.s9553330.137	965.72	966.47	B	ID	sug	-1	0	If you right click during go on to 
+ES2014c.B.dialog-act.s9553330.138	966.47	967.82	B	ID	sug	-1	0	right click during go on to the previous slide 
+ES2014c.C.dialog-act.s9553330.49	968.32	968.94	C	UI	ass	-1	0	Art right um 
+ES2014c.B.dialog-act.s9553330.139	968.96	971.15	B	ID	bck	-1	0	Okay Okay 
+ES2014c.C.dialog-act.s9553330.50	968.94	972.85	C	UI	inf	-1	0	Art right um it was a much more see about a strong and Um 
+ES2014c.C.dialog-act.s9553330.51	972.85	983.7	C	UI	inf	+1	1	Um some of the uh remote i looked at one of the models that did actually have voice recognition way you cut um Where was connect to the remote control functions on that 
+ES2014c.C.dialog-act.s9553330.52	983.7	986.61	C	UI	inf	+1	1	on that was quite uh uh switch model way it can 
+ES2014c.C.dialog-act.s9553330.53	986.61	993.42	C	UI	inf	-1	0	model way it can control uh four devices t. v. cable satellite radio d. v. d. would feel um so 
+ES2014c.C.dialog-act.s9553330.54	993.42	996.16	C	UI	inf	-1	0	um so that's a bit of competition a soul 
+ES2014c.C.dialog-act.s9553330.55	996.16	996.72	C	UI	stl	-1	0	soul 
+ES2014c.C.dialog-act.s9553330.56	997.88	1000.88	C	UI	sug	+1	1	I mean it it's better not to try and compete with that sort of thing and 
+ES2014c.C.dialog-act.s9553330.57	1000.88	1008.02	C	UI	sug	-1	0	of thing and just to market it as a completely different um Like different viewpoint is the kind of fine you lost control rather than 
+ES2014c.B.dialog-act.s9553330.140	1005.96	1006.64	B	ID	bck	-1	0	Yeah yeah 
+ES2014c.C.dialog-act.s9553330.58	1008.02	1011.09	C	UI	sug	-1	0	than trying to compete with the functions um the scroll buttons 
+ES2014c.C.dialog-act.s9553330.59	1011.09	1017.42	C	UI	inf	+1	1	um the scroll buttons as you've already mentioned um There's examples of the was put that to look 
+ES2014c.C.dialog-act.s9553330.60	1017.42	1020.54	C	UI	inf	+1	1	the was put that to look at a sleek as for the models on his no 
+ES2014c.C.dialog-act.s9553330.61	1020.54	1021.91	C	UI	inf	-1	0	on his no we have one page and 
+ES2014c.C.dialog-act.s9553330.62	1021.91	1028.29	C	UI	inf	+1	1	we have one page and because it impacts on all the on the materials that price it's not great Um 
+ES2014c.B.dialog-act.s9553330.141	1025.0	1025.83	B	ID	inf	-1	0	On the price yeah 
+ES2014c.A.dialog-act.s9553330.107	1028.06	1030.076	A	PM	inf	-1	0	you're saying the scroll buttons 
+ES2014c.C.dialog-act.s9553330.63	1028.29	1028.767	C	UI	fra	-1	0	Um 
+ES2014c.C.dialog-act.s9553330.64	1030.39	1030.93	C	UI	ass	-1	0	Yeah 
+ES2014c.C.dialog-act.s9553330.65	1030.93	1035.08	C	UI	inf	+1	2	Yeah that was a specialist had a remote that'll cut think about um 
+ES2014c.C.dialog-act.s9553330.66	1036.88	1038.19	C	UI	inf	+1	2	Those children's remote way um they 
+ES2014c.C.dialog-act.s9553330.67	1038.19	1041.8	C	UI	inf	+1	2	way um they just had a very limited range of buttons and the 
+ES2014c.C.dialog-act.s9553330.68	1041.8	1043.95	C	UI	inf	+1	2	of buttons and the walk upright colourful and 
+ES2014c.C.dialog-act.s9553330.69	1043.95	1048.54	C	UI	inf	+1	2	and um you know you could program them so the the going look at certain channels 
+ES2014c.A.dialog-act.s9553330.108	1049.15	1049.73	A	PM	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.142	1048.93	1049.17	B	ID	bck	-1	0	"'kay" 
+ES2014c.C.dialog-act.s9553330.70	1049.99	1051.92	C	UI	el.ass	-1	0	Um but i don't know if that's true in a field 
+ES2014c.B.dialog-act.s9553330.143	1052.36	1055.02	B	ID	inf	-1	0	I guess i guess we're going for the biggest market then maybe not but 
+ES2014c.C.dialog-act.s9553330.71	1051.92	1053.44	C	UI	inf	-1	0	true in a field that's um that's out there 
+ES2014c.B.dialog-act.s9553330.144	1055.02	1058.85	B	ID	el.inf	-1	0	but Was it was a specified we went of the biggest 
+ES2014c.A.dialog-act.s9553330.109	1059.16	1062.41	A	PM	inf	+1	2	Or to go for the international market rather than a local market that that that 
+ES2014c.A.dialog-act.s9553330.110	1062.41	1065.41	A	PM	inf	-1	0	market that that that wouldn't necessarily preclude the one thing 
+ES2014c.C.dialog-act.s9553330.73	1062.76	1062.91	C	UI	bck	-1	0	Mm 
+ES2014c.A.dialog-act.s9553330.111	1065.41	1071.76	A	PM	inf	+1	2	the one thing you can often do with products is you can uh um a small modifications you have 
+ES2014c.A.dialog-act.s9553330.112	1071.76	1075.95	A	PM	inf	+1	2	modifications you have your basic model which you would sell at whatever and 
+ES2014c.A.dialog-act.s9553330.113	1075.95	1078.34	A	PM	inf	+1	2	and then you could have additional features and you 
+ES2014c.A.dialog-act.s9553330.114	1078.34	1080.33	A	PM	fra	-1	0	and you know like um you have more the one 
+ES2014c.A.dialog-act.s9553330.115	1080.33	1082.29	A	PM	inf	+1	2	you have more the one model to the model three and a half or you can 
+ES2014c.A.dialog-act.s9553330.116	1082.29	1084.96	A	PM	inf	-1	0	and a half or you can subdivide your market up but 
+ES2014c.A.dialog-act.s9553330.117	1084.96	1088.3	A	PM	inf	-1	0	up but that should be more your fingers 
+ES2014c.C.dialog-act.s9553330.72	1086.498	1088.337	C	UI	fra	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.30	1086.69	1086.94	D	ME	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.118	1088.3	1088.656	A	PM	fra	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.145	1088.1	1090.6	B	ID	sug	+1	2	It's maybe the tools rescue like uh an x. that maybe 
+ES2014c.B.dialog-act.s9553330.146	1090.6	1093.085	B	ID	fra	-1	0	x. that maybe as there for hours maybe she 
+ES2014c.A.dialog-act.s9553330.119	1092.11	1094.22	A	PM	inf	-1	0	Yeah we add on for an extra package go on this basic 
+ES2014c.A.dialog-act.s9553330.120	1094.22	1099.43	A	PM	inf	+1	2	go on this basic what i'm right in that we're going for the basic model to be discussed here and that so 
+ES2014c.A.dialog-act.s9553330.121	1099.43	1111.44	A	PM	inf	+1	2	here and that so you would have for future reference the possibility of adding an extra features the extra cost To take care of specialist market segments 
+ES2014c.C.dialog-act.s9553330.74	1106.5	1106.75	C	UI	bck	-1	0	Mm 
+ES2014c.D.dialog-act.s9553330.31	1107.68	1108.15	D	ME	bck	-1	0	Mm 
+ES2014c.D.dialog-act.s9553330.32	1110.85	1111.08	D	ME	bck	-1	0	Uh-huh 
+ES2014c.C.dialog-act.s9553330.75	1111.6	1112.99	C	UI	ass	-1	0	Oh okay okay 
+ES2014c.A.dialog-act.s9553330.122	1113.09	1114.9	A	PM	fra	-1	0	Yeah So 
+ES2014c.C.dialog-act.s9553330.76	1112.99	1116.14	C	UI	inf	-1	0	okay well after that we can be aware of 
+ES2014c.A.dialog-act.s9553330.123	1114.9	1118.46	A	PM	el.inf	-1	0	So so what are we deciding to do Here 
+ES2014c.C.dialog-act.s9553330.77	1117.96	1118.46	C	UI	stl	-1	0	Um 
+ES2014c.C.dialog-act.s9553330.78	1119.49	1133.01	C	UI	inf	+1	1	I think because it's already i'm very good voice recognition technology out they because i was might not cover the same functions that teleconference to to might be good idea to market has the um find a function 
+ES2014c.A.dialog-act.s9553330.124	1124.88	1125.39	A	PM	bck	-1	0	Right 
+ES2014c.A.dialog-act.s9553330.125	1129.08	1129.62	A	PM	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.126	1133.63	1134.23	A	PM	fra	-1	0	The fight yeah find a function 
+ES2014c.A.dialog-act.s9553330.127	1134.23	1134.51	A	PM	ass	-1	0	yeah find a function 
+ES2014c.A.dialog-act.s9553330.128	1134.51	1139.07	A	PM	inf	+1	1	yeah find a function rather than as a speech function to find your remote Okay 
+ES2014c.B.dialog-act.s9553330.147	1137.06	1137.46	B	ID	bck	-1	0	{vocalsound}
+ES2014c.C.dialog-act.s9553330.79	1138.38	1138.63	C	UI	ass	-1	0	Yeah 
+ES2014c.A.dialog-act.s9553330.129	1139.07	1139.87	A	PM	und	-1	0	Okay 
+ES2014c.B.dialog-act.s9553330.148	1139.06	1146.21	B	ID	inf	-1	0	Just as as for going for the international market um that's um so maybe a lot of people my know like the speech recognition So 
+ES2014c.B.dialog-act.s9553330.149	1146.88	1148.288	B	ID	fra	-1	0	So it's so um 
+ES2014c.C.dialog-act.s9553330.80	1146.8	1147.24	C	UI	ass	-1	0	Oh yeah 
+ES2014c.C.dialog-act.s9553330.81	1148.05	1150.49	C	UI	inf	-1	0	Different languages wanna be compatible 
+ES2014c.B.dialog-act.s9553330.150	1149.38	1150.68	B	ID	ass	-1	0	Yeah yeah it would 
+ES2014c.B.dialog-act.s9553330.151	1150.68	1153.03	B	ID	inf	-1	0	it would make a quick on the case where uh um 
+ES2014c.A.dialog-act.s9553330.130	1152.65	1153.32	A	PM	bck	-1	0	Mm 
+ES2014c.B.dialog-act.s9553330.152	1153.03	1155.57	B	ID	inf	-1	0	where uh um does this keeps a very simple and then the 
+ES2014c.B.dialog-act.s9553330.153	1155.57	1156.556	B	ID	fra	-1	0	simple and then the 
+ES2014c.C.dialog-act.s9553330.82	1155.94	1156.16	C	UI	bck	-1	0	Mm 
+ES2014c.D.dialog-act.s9553330.33	1156.9	1157.15	D	ME	bck	-1	0	Uh-huh 
+ES2014c.C.dialog-act.s9553330.83	1158.06	1164.54	C	UI	inf	-1	0	Yeah "'cause" i think you program um this one is self like to see any quite you want to your question 
+ES2014c.B.dialog-act.s9553330.154	1162.63	1163.52	B	ID	bck	-1	0	Yeah yeah 
+ES2014c.D.dialog-act.s9553330.34	1166.28	1168.04	D	ME	inf	-1	0	And else is quite cheap devices i don't know how much 
+ES2014c.D.dialog-act.s9553330.35	1168.04	1170.3	D	ME	ass	-1	0	i don't know how much would have to put into it 
+ES2014c.B.dialog-act.s9553330.155	1170.74	1171.07	B	ID	bck	-1	0	Yeah 
+ES2014c.A.dialog-act.s9553330.131	1171.9	1177.2	A	PM	inf	-1	0	So you have a finder feature or than uh voice recognition feature in your turn 
+ES2014c.D.dialog-act.s9553330.36	1171.79	1172.26	D	ME	bck	-1	0	Yeah 
+ES2014c.C.dialog-act.s9553330.84	1176.01	1176.75	C	UI	bck	-1	0	Mm maybe 
+ES2014c.A.dialog-act.s9553330.132	1177.2	1177.83	A	PM	fra	-1	0	in your turn 
+ES2014c.C.dialog-act.s9553330.85	1176.75	1177.4	C	UI	ass	-1	0	Mm maybe that's something else 
+ES2014c.C.dialog-act.s9553330.86	1177.4	1178.51	C	UI	el.inf	-1	0	that's something else comes up 
+ES2014c.A.dialog-act.s9553330.133	1179.02	1179.32	A	PM	bck	-1	0	and you don't remember 
+ES2014c.A.dialog-act.s9553330.134	1179.32	1181.45	A	PM	el.inf	-1	0	and you don't remember scroll buttons 
+ES2014c.C.dialog-act.s9553330.87	1181.69	1182.98	C	UI	ass	-1	0	Um yeah i 
+ES2014c.C.dialog-act.s9553330.88	1182.98	1187.44	C	UI	inf	-1	0	yeah i think um i think we've decided not to it's gonna increase the cost and give know 
+ES2014c.A.dialog-act.s9553330.135	1187.8	1189.64	A	PM	ass	-1	0	Okay I don't know 
+ES2014c.C.dialog-act.s9553330.89	1187.44	1189.94	C	UI	inf	-1	0	cost and give know we all ten extra benefit and 
+ES2014c.A.dialog-act.s9553330.136	1189.64	1189.74	A	PM	fra	-1	0	I don't know 
+ES2014c.B.dialog-act.s9553330.156	1189.19	1189.51	B	ID	bck	-1	0	Yeah 
+ES2014c.C.dialog-act.s9553330.90	1189.94	1192.12	C	UI	inf	-1	0	extra benefit and it's gonna decrease from the thickness of it 
+ES2014c.A.dialog-act.s9553330.137	1192.37	1194.81	A	PM	inf	+1	1	Alright so we're just gonna have the uh the rubber buttons as well 
+ES2014c.A.dialog-act.s9553330.138	1194.81	1195.9	A	PM	el.inf	-1	0	rubber buttons as well or 
+ES2014c.B.dialog-act.s9553330.157	1194.98	1195.63	B	ID	inf	-1	0	Yeah yeah 
+ES2014c.C.dialog-act.s9553330.91	1195.75	1197.32	C	UI	bck	-1	0	Yeah um and just to be a 
+ES2014c.C.dialog-act.s9553330.92	1197.32	1201.55	C	UI	inf	-1	0	and just to be a way that are kinda specialist functions and specialist remote ball would 
+ES2014c.C.dialog-act.s9553330.93	1201.55	1206.2	C	UI	inf	-1	0	ball would probably do we want to focus on those like such as the children true 
+ES2014c.A.dialog-act.s9553330.139	1205.53	1208.96	A	PM	inf	-1	0	Okay so not to be focused on mm 
+ES2014c.C.dialog-act.s9553330.94	1208.69	1209.55	C	UI	ass	-1	0	Yeah um 
+ES2014c.C.dialog-act.s9553330.95	1209.55	1215.15	C	UI	inf	+1	1	um does a mention just as kind of a wall and about what the design Um just to avoid 
+ES2014c.C.dialog-act.s9553330.96	1215.15	1219.42	C	UI	inf	+1	1	Um just to avoid um the kuwaiti So okay the example 
+ES2014c.C.dialog-act.s9553330.97	1219.42	1225.824	C	UI	inf	-1	0	So okay the example of a say you volume buttons for up and down that might both have a v. on for volume 
+ES2014c.C.dialog-act.s9553330.98	1227.06	1228.69	C	UI	off	-1	0	Um i think uh that at this 
+ES2014c.A.dialog-act.s9553330.140	1230.3	1231.76	A	PM	inf	-1	0	Good in in flip 
+ES2014c.A.dialog-act.s9553330.141	1231.76	1236.54	A	PM	inf	-1	0	in flip it around and i disagree a hundred eighty degrees another up and down and upside-down 
+ES2014c.C.dialog-act.s9553330.99	1231.64	1233.13	C	UI	off	-1	0	I'm just gonna check so do this right 
+ES2014c.A.dialog-act.s9553330.142	1236.54	1237.81	A	PM	inf	-1	0	and upside-down v. 
+ES2014c.A.dialog-act.s9553330.143	1238.88	1243.0	A	PM	inf	-1	0	So that which of the volume was going up but as the one underneath it see the volume and uh 
+ES2014c.C.dialog-act.s9553330.100	1238.52	1240.43	C	UI	oth	-1	0	Um let's see 
+ES2014c.C.dialog-act.s9553330.101	1243.64	1255.39	C	UI	inf	+1	1	Um i think the thing was soft If you decide to do this to have triangular buttons um somebody might look at this one and see all this triangular button is playing up i'm not suggesting 
+ES2014c.C.dialog-act.s9553330.102	1255.39	1256.784	C	UI	inf	-1	0	i'm not suggesting that the city 
+ES2014c.A.dialog-act.s9553330.144	1258.47	1258.98	A	PM	bck	-1	0	Right 
+ES2014c.C.dialog-act.s9553330.103	1258.45	1259.75	C	UI	ass	-1	0	That colour at all no them 
+ES2014c.C.dialog-act.s9553330.104	1259.75	1259.93	C	UI	ass	-1	0	all no them 
+ES2014c.C.dialog-act.s9553330.105	1259.93	1267.41	C	UI	inf	+1	1	all no them i see Yeah them i see this playing down i think right that's gonna turn the volume down where is 
+ES2014c.A.dialog-act.s9553330.145	1264.85	1265.25	A	PM	bck	-1	0	Uh-huh 
+ES2014c.C.dialog-act.s9553330.106	1267.41	1271.5	C	UI	inf	+1	1	where is the actual buttons point nope so the functions that and what not 
+ES2014c.A.dialog-act.s9553330.146	1269.99	1270.38	A	PM	bck	-1	0	Uh-huh 
+ES2014c.C.dialog-act.s9553330.107	1272.58	1275.19	C	UI	inf	+1	1	So be careful what you put on the buttons in the case for the shape 
+ES2014c.B.dialog-act.s9553330.158	1273.11	1273.808	B	ID	fra	-1	0	So we would have like 
+ES2014c.C.dialog-act.s9553330.108	1275.19	1277.18	C	UI	inf	+1	1	in the case for the shape that you make them because it might be kinda 
+ES2014c.B.dialog-act.s9553330.159	1277.11	1277.22	B	ID	bck	-1	0	Yeah 
+ES2014c.C.dialog-act.s9553330.109	1277.18	1281.88	C	UI	inf	+1	1	because it might be kinda to you um Contradicting kinda shapes 
+ES2014c.D.dialog-act.s9553330.37	1276.91	1277.13	D	ME	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.160	1280.8	1281.66	B	ID	ass	-1	0	Yeah they need to 
+ES2014c.B.dialog-act.s9553330.161	1281.66	1283.91	B	ID	sug	+1	1	they need to maybe not so volume is non the side 
+ES2014c.B.dialog-act.s9553330.162	1283.91	1286.52	B	ID	inf	-1	0	is non the side then up and down on the on the buttons themselves 
+ES2014c.A.dialog-act.s9553330.147	1286.98	1287.51	A	PM	ass	-1	0	Yeah you know volume 
+ES2014c.C.dialog-act.s9553330.110	1287.01	1287.62	C	UI	ass	-1	0	Yeah 
+ES2014c.A.dialog-act.s9553330.148	1287.51	1290.92	A	PM	fra	-1	0	you know volume up volume Volume 
+ES2014c.B.dialog-act.s9553330.163	1287.92	1288.41	B	ID	bck	-1	0	Awesome 
+ES2014c.A.dialog-act.s9553330.149	1290.92	1295.66	A	PM	sug	-1	0	Volume up down um And that and 
+ES2014c.B.dialog-act.s9553330.164	1293.78	1293.99	B	ID	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.150	1295.66	1298.46	A	PM	fra	-1	0	And that and "'cause" the idea was to have limited to do is to have 
+ES2014c.A.dialog-act.s9553330.151	1298.46	1302.36	A	PM	inf	-1	0	to do is to have a sizable by of information on a limited number 
+ES2014c.A.dialog-act.s9553330.152	1302.36	1304.67	A	PM	inf	-1	0	limited number of buttons "'cause" it was sixteen 
+ES2014c.B.dialog-act.s9553330.165	1301.99	1302.93	B	ID	bck	-1	0	Yeah yeah 
+ES2014c.A.dialog-act.s9553330.153	1304.67	1306.832	A	PM	inf	-1	0	"'cause" it was sixteen buttons wasn't it a four 
+ES2014c.B.dialog-act.s9553330.166	1304.46	1304.62	B	ID	bck	-1	0	Yeah 
+ES2014c.B.dialog-act.s9553330.167	1306.4	1306.64	B	ID	ass	-1	0	Yeah but that that's 
+ES2014c.B.dialog-act.s9553330.168	1306.64	1308.32	B	ID	inf	-1	0	Yeah but that that's uh that's mine 
+ES2014c.D.dialog-act.s9553330.38	1306.99	1307.21	D	ME	bck	-1	0	Uh-huh 
+ES2014c.C.dialog-act.s9553330.111	1311.48	1314.59	C	UI	inf	-1	0	Um and i think that's all have to see if uh huh 
+ES2014c.D.dialog-act.s9553330.39	1316.82	1317.18	D	ME	bck	-1	0	Okay 
+ES2014c.C.dialog-act.s9553330.112	1319.86	1322.97	C	UI	el.inf	-1	0	Um so what's a decision on them to design of the volume button 
+ES2014c.B.dialog-act.s9553330.169	1323.88	1324.624	B	ID	fra	-1	0	Um 
+ES2014c.B.dialog-act.s9553330.170	1327.42	1329.92	B	ID	el.inf	-1	0	Over here we guess is that all the buttons at the moment no 
+ES2014c.B.dialog-act.s9553330.171	1329.92	1331.82	B	ID	fra	-1	0	at the moment no we can uh 
+ES2014c.D.dialog-act.s9553330.40	1330.84	1335.48	D	ME	inf	+1	1	I've i've got something say about possible design things from Trend watching 
+ES2014c.A.dialog-act.s9553330.154	1334.15	1334.59	A	PM	ass	-1	0	Okay 
+ES2014c.B.dialog-act.s9553330.172	1333.67	1335.42	B	ID	ass	-1	0	Yeah maybe we should see yourself 
+ES2014c.C.dialog-act.s9553330.113	1334.1	1334.72	C	UI	bck	-1	0	We'll see 
+ES2014c.D.dialog-act.s9553330.41	1338.26	1338.5	D	ME	bck	-1	0	Cool 
+ES2014c.D.dialog-act.s9553330.42	1352.55	1366.83	D	ME	inf	+1	1	Right um A bill of years and trends In in sort of icsi fashion on top of doing the um research into the remote control market the 
+ES2014c.D.dialog-act.s9553330.43	1366.83	1369.08	D	ME	inf	-1	0	the the one that's what i told from last time that we it's a device people 
+ES2014c.D.dialog-act.s9553330.44	1369.08	1374.73	D	ME	inf	+1	1	that we it's a device people about remote controls what was good about what was bad but they used and 
+ES2014c.D.dialog-act.s9553330.45	1374.73	1381.94	D	ME	inf	+1	1	and we've also they're looking at sort of fat so the fashions of what people are wanting of can see because at the moment so 
+ES2014c.D.dialog-act.s9553330.46	1381.94	1388.0	D	ME	inf	+1	1	at the moment so that people in paris and milan watching the uh fashion trends So 
+ES2014c.B.dialog-act.s9553330.173	1385.427	1387.424	B	ID	fra	-1	0	{vocalsound}
+ES2014c.A.dialog-act.s9553330.155	1386.132	1392.016	A	PM	be.pos	-1	0	You know yourself 
+ES2014c.D.dialog-act.s9553330.47	1388.0	1391.95	D	ME	fra	-1	0	So 
+ES2014c.C.dialog-act.s9553330.114	1389.267	1390.483	C	UI	fra	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.48	1391.97	1398.02	D	ME	inf	-1	0	So to summarise the most important things which can live remote control market investigation the most important thing was the 
+ES2014c.D.dialog-act.s9553330.49	1398.02	1403.46	D	ME	inf	+1	1	the most important thing was the the things sort of look and fell fancy relevant as functional and 
+ES2014c.B.dialog-act.s9553330.176	1402.96	1403.14	B	ID	bck	-1	0	"'kay" 
+ES2014c.D.dialog-act.s9553330.50	1403.46	1407.63	D	ME	inf	+1	1	and second it should be sent to a logical innovation and then 
+ES2014c.D.dialog-act.s9553330.51	1407.63	1413.01	D	ME	inf	+1	1	and then it's uh it's in a lot less important are the two that should be the ease of use as well And 
+ES2014c.D.dialog-act.s9553330.52	1413.51	1425.42	D	ME	inf	+1	1	And apparently the fashion trends are the people want sort of clothes and shoes and things with the fruit and vegetables see I think that 
+ES2014c.C.dialog-act.s9553330.115	1416.784	1417.344	C	UI	fra	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.174	1424.512	1424.864	B	ID	fra	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.53	1425.42	1429.2	D	ME	inf	+1	1	I think that um the feel of the material should be spongy which is country 
+ES2014c.B.dialog-act.s9553330.175	1426.192	1427.216	B	ID	fra	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.54	1429.2	1431.23	D	ME	inf	-1	0	which is country to last year partly should be must 
+ES2014c.D.dialog-act.s9553330.55	1431.23	1435.41	D	ME	inf	-1	0	should be must be not not spongy last year So 
+ES2014c.A.dialog-act.s9553330.156	1433.056	1436.672	A	PM	fra	-1	0	{vocalsound}
+ES2014c.C.dialog-act.s9553330.116	1433.622	1434.609	C	UI	fra	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.56	1435.41	1436.47	D	ME	stl	-1	0	So 
+ES2014c.D.dialog-act.s9553330.57	1438.42	1445.17	D	ME	inf	+1	1	We need to emphasise a fancy design this on on a remote control above all else and then also try 
+ES2014c.D.dialog-act.s9553330.58	1445.17	1448.51	D	ME	inf	+1	1	and then also try and i didn't technologically of them uh innovation which could be a 
+ES2014c.D.dialog-act.s9553330.60	1448.51	1452.41	D	ME	sug	+1	1	which could be a sort of find the thing with the hand clap and then we need 
+ES2014c.D.dialog-act.s9553330.59	1452.41	1457.73	D	ME	inf	-1	0	and then we need to make to make it easy to use that's as the third priority so perhaps 
+ES2014c.D.dialog-act.s9553330.61	1457.73	1463.5	D	ME	sug	-1	0	so perhaps uh um few few buttons and functions as we've as we've discussed and then 
+ES2014c.C.dialog-act.s9553330.117	1461.152	1461.44	C	UI	fra	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.62	1463.5	1468.36	D	ME	inf	+1	1	and then maybe find a way to incorporate this trend so this is a catchy people's imaginations So maybe 
+ES2014c.D.dialog-act.s9553330.63	1468.77	1472.02	D	ME	sug	+1	1	So maybe we could make the buttons shape like fruit and veg should all 
+ES2014c.D.dialog-act.s9553330.64	1472.02	1477.3	D	ME	sug	+1	1	the the buttons could be spongy uh somehow maybe we can make "'em" of 
+ES2014c.D.dialog-act.s9553330.65	1477.3	1481.46	D	ME	sug	-1	0	maybe we can make "'em" of rubber rather than sort of hard plastic and then 
+ES2014c.D.dialog-act.s9553330.66	1481.46	1485.97	D	ME	sug	+1	1	and then cities mark it and that we could maybe have a fruit or vegetable shaped remote say 
+ES2014c.D.dialog-act.s9553330.67	1485.97	1489.088	D	ME	inf	-1	0	remote say in the shape of a pen on all something like that 
+ES2014c.D.dialog-act.s9553330.68	1490.42	1493.25	D	ME	inf	-1	0	Right so Okay maybe a banana 
+ES2014c.C.dialog-act.s9553330.118	1491.808	1492.16	C	UI	fra	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.69	1493.25	1497.628	D	ME	sug	-1	0	maybe a banana course yeah or something 
+ES2014c.A.dialog-act.s9553330.157	1496.308	1499.009	A	PM	fra	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.70	1499.89	1504.42	D	ME	el.inf	+1	1	How how far we actually want to go along and so to follow the trends do you think the trends 
+ES2014c.D.dialog-act.s9553330.71	1504.42	1508.03	D	ME	el.inf	+1	1	do you think the trends ought to take important for this type of catching all all 
+ES2014c.D.dialog-act.s9553330.72	1508.03	1511.86	D	ME	el.inf	+1	1	all all at dinner but they're not matter that much 
+ES2014c.C.dialog-act.s9553330.119	1512.37	1516.87	C	UI	ass	+1	1	I think if you start making the buttons fruitshaped it might make it more complicated to use 
+ES2014c.A.dialog-act.s9553330.158	1517.1	1520.75	A	PM	inf	+1	1	Well you were just talking about you've gotta be careful about how you shake your buttons "'cause" you 
+ES2014c.A.dialog-act.s9553330.159	1520.75	1522.33	A	PM	inf	-1	0	your buttons "'cause" you gonna stay right people on i would've thought 
+ES2014c.A.dialog-act.s9553330.160	1522.33	1529.88	A	PM	inf	-1	0	on i would've thought the functionality "'cause" that people get teased off by a thing "'cause" i haven't instructions except right so 
+ES2014c.C.dialog-act.s9553330.120	1523.01	1523.75	C	UI	bck	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.73	1522.8	1523.08	D	ME	bck	-1	0	Yeah 
+ES2014c.A.dialog-act.s9553330.161	1530.528	1538.019	A	PM	fra	-1	0	Okay 
+ES2014c.C.dialog-act.s9553330.121	1531.52	1532.84	C	UI	sug	+1	1	Maybe just one button see 
+ES2014c.C.dialog-act.s9553330.122	1532.84	1536.53	C	UI	inf	+1	2	button see the stand-by button is quite kind a separate from all the other functions maybe that could 
+ES2014c.C.dialog-act.s9553330.123	1536.53	1538.14	C	UI	sug	+1	2	functions maybe that could be a little couple And and that 
+ES2014c.D.dialog-act.s9553330.74	1537.976	1540.91	D	ME	ass	-1	0	Maybe yeah 
+ES2014c.A.dialog-act.s9553330.162	1538.76	1542.45	A	PM	ass	-1	0	Okay No yeah stand-by button 
+ES2014c.C.dialog-act.s9553330.124	1538.71	1541.07	C	UI	inf	-1	0	And and that wouldn't can we have like an a one to nine and it wouldn't confuse the 
+ES2014c.B.dialog-act.s9553330.177	1540.244	1542.018	B	ID	fra	-1	0	{vocalsound}
+ES2014c.C.dialog-act.s9553330.125	1541.07	1542.58	C	UI	inf	-1	0	and it wouldn't confuse the numbers 
+ES2014c.A.dialog-act.s9553330.163	1542.45	1543.9	A	PM	inf	-1	0	stand-by button know 
+ES2014c.A.dialog-act.s9553330.164	1543.9	1544.21	A	PM	ass	-1	0	know that that that 
+ES2014c.A.dialog-act.s9553330.165	1544.21	1550.95	A	PM	inf	+1	1	that that that incorporates the trend also the same time not confusing people If you're looking for functionality 
+ES2014c.B.dialog-act.s9553330.178	1543.861	1545.351	B	ID	fra	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.75	1547.99	1548.24	D	ME	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.179	1551.48	1552.19	B	ID	ass	-1	0	Yeah i know i i guess maybe 
+ES2014c.B.dialog-act.s9553330.180	1552.19	1554.82	B	ID	inf	-1	0	i i guess maybe fruit vegetables maybe popular um but as 
+ES2014c.B.dialog-act.s9553330.181	1554.82	1557.53	B	ID	inf	-1	0	popular um but as we know how fickle the fashion markets are made it 
+ES2014c.A.dialog-act.s9553330.166	1555.49	1556.5	A	PM	el.inf	-1	0	But what they're gonna be nice yeah 
+ES2014c.A.dialog-act.s9553330.167	1556.5	1557.09	A	PM	ass	-1	0	be nice yeah for the gonna be next year 
+ES2014c.A.dialog-act.s9553330.168	1557.09	1559.78	A	PM	el.inf	-1	0	for the gonna be next year But 
+ES2014c.B.dialog-act.s9553330.182	1557.53	1558.259	B	ID	fra	-1	0	are made it 
+ES2014c.D.dialog-act.s9553330.76	1557.53	1559.776	D	ME	bck	-1	0	Yeah yeah 
+ES2014c.C.dialog-act.s9553330.126	1559.03	1560.04	C	UI	bck	-1	0	Hmm 
+ES2014c.A.dialog-act.s9553330.169	1559.78	1563.76	A	PM	fra	-1	0	But but but that would be a keep that you you can incorporate that if you 
+ES2014c.A.dialog-act.s9553330.170	1563.76	1574.36	A	PM	inf	+1	1	that if you if you change all the buttons then you've got the problem that this year's fruit days next year's uh that was the animal the relevance or whatever that means you're "'cause" 
+ES2014c.D.dialog-act.s9553330.77	1565.97	1566.25	D	ME	bck	-1	0	Uh-huh 
+ES2014c.D.dialog-act.s9553330.78	1572.49	1574.2	D	ME	ass	-1	0	Yeah And uh 
+ES2014c.A.dialog-act.s9553330.171	1574.36	1576.87	A	PM	inf	-1	0	that means you're "'cause" we change your production as usual and 
+ES2014c.D.dialog-act.s9553330.79	1574.2	1574.973	D	ME	fra	-1	0	And uh 
+ES2014c.A.dialog-act.s9553330.172	1576.87	1579.14	A	PM	inf	-1	0	as usual and you've gotta make the from also have a also that's not a good 
+ES2014c.D.dialog-act.s9553330.80	1578.26	1578.58	D	ME	bck	-1	0	Yeah 
+ES2014c.A.dialog-act.s9553330.173	1579.14	1581.58	A	PM	ass	-1	0	that's not a good idea i would i would suggest 
+ES2014c.D.dialog-act.s9553330.81	1580.33	1586.53	D	ME	inf	-1	0	I'm not i'm not sure but well well the sort of time scale with thinking of selling the product of errors i don't know 
+ES2014c.D.dialog-act.s9553330.82	1586.53	1587.02	D	ME	oth	-1	0	of errors i don't know 
+ES2014c.B.dialog-act.s9553330.183	1587.06	1593.28	B	ID	inf	+1	1	Me to see is really see the remote control market isn't a kind of thing which takes in These kinds of fashion trends they're looking for something 
+ES2014c.D.dialog-act.s9553330.83	1592.12	1593.36	D	ME	ass	-1	0	Yeah yeah 
+ES2014c.B.dialog-act.s9553330.184	1593.28	1596.13	B	ID	inf	+1	1	they're looking for something which is maybe more universal 
+ES2014c.A.dialog-act.s9553330.174	1596.95	1597.376	A	PM	fra	-1	0	Well 
+ES2014c.C.dialog-act.s9553330.127	1597.03	1599.74	C	UI	sug	+1	1	But suppose as long as it's quite a simple design um 
+ES2014c.D.dialog-act.s9553330.84	1596.68	1596.93	D	ME	bck	-1	0	Uh-huh 
+ES2014c.C.dialog-act.s9553330.128	1599.74	1603.146	C	UI	inf	-1	0	um even if the design kind of changes 
+ES2014c.D.dialog-act.s9553330.85	1599.68	1599.82	D	ME	bck	-1	0	Hmm 
+ES2014c.B.dialog-act.s9553330.185	1600.78	1603.64	B	ID	sug	-1	0	We we can maybe can apply a fruit shape of it 
+ES2014c.A.dialog-act.s9553330.175	1604.19	1607.32	A	PM	fra	-1	0	I wanted mm but if Uh-huh 
+ES2014c.D.dialog-act.s9553330.86	1603.72	1604.04	D	ME	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.186	1605.37	1608.79	B	ID	sug	+1	1	Maybe the spongy feel is something we could think about um 
+ES2014c.A.dialog-act.s9553330.176	1607.32	1609.76	A	PM	ass	-1	0	Uh-huh well 
+ES2014c.A.dialog-act.s9553330.177	1609.76	1610.72	A	PM	ass	-1	0	well yep 
+ES2014c.B.dialog-act.s9553330.187	1611.12	1613.648	B	ID	sug	+1	1	Maybe store the rubber design weekend 
+ES2014c.A.dialog-act.s9553330.178	1613.58	1619.53	A	PM	el.inf	-1	0	With that and this other fashion sense that this is what was the spongy feel was that to uh to fashion it was wasn't 
+ES2014c.A.dialog-act.s9553330.179	1619.53	1621.8	A	PM	inf	-1	0	fashion it was wasn't it So 
+ES2014c.D.dialog-act.s9553330.87	1620.47	1620.7	D	ME	inf	-1	0	Yeah 
+ES2014c.A.dialog-act.s9553330.180	1621.8	1622.56	A	PM	fra	-1	0	So that 
+ES2014c.C.dialog-act.s9553330.129	1621.68	1625.05	C	UI	inf	+1	2	It seems that you can have rubber case as as well as buttons 
+ES2014c.D.dialog-act.s9553330.88	1625.3	1625.62	D	ME	ass	-1	0	Yeah 
+ES2014c.D.dialog-act.s9553330.89	1626.84	1627.02	D	ME	ass	-1	0	Yeah 
+ES2014c.B.dialog-act.s9553330.188	1627.74	1628.22	B	ID	fra	-1	0	Um 
+ES2014c.C.dialog-act.s9553330.130	1628.74	1631.65	C	UI	inf	-1	0	And i you can make them curved or double curved and that would 
+ES2014c.C.dialog-act.s9553330.131	1631.65	1634.11	C	UI	inf	-1	0	curved and that would be the kind of thing and sex or not 
+ES2014c.B.dialog-act.s9553330.189	1632.93	1633.47	B	ID	oth	-1	0	Oh yeah a lot of things so if 
+ES2014c.B.dialog-act.s9553330.190	1633.47	1636.69	B	ID	inf	-1	0	yeah a lot of things so if you have robust as a new heights have rubber case 
+ES2014c.A.dialog-act.s9553330.181	1637.48	1637.87	A	PM	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.191	1637.57	1638.95	B	ID	ass	-1	0	Um i only know the size 
+ES2014c.C.dialog-act.s9553330.132	1637.55	1638.18	C	UI	und	-1	0	Alright that it's is that 
+ES2014c.C.dialog-act.s9553330.133	1638.18	1639.09	C	UI	ass	-1	0	that it's is that 
+ES2014c.B.dialog-act.s9553330.192	1638.95	1639.21	B	ID	be.pos	-1	0	i only know the size of use uh 
+ES2014c.B.dialog-act.s9553330.193	1639.21	1644.0	B	ID	inf	-1	0	of use uh uh rubber double curved case any message or buttons also and if you have the rubber 
+ES2014c.B.dialog-act.s9553330.194	1644.0	1644.55	B	ID	inf	-1	0	and if you have the rubber 
+ES2014c.B.dialog-act.s9553330.195	1644.55	1647.31	B	ID	inf	-1	0	and if you have the rubber casing of of a rubber buttons it with the 
+ES2014c.B.dialog-act.s9553330.196	1648.36	1649.42	B	ID	ass	-1	0	Which makes sense 
+ES2014c.C.dialog-act.s9553330.134	1650.13	1650.41	C	UI	ass	-1	0	Right 
+ES2014c.A.dialog-act.s9553330.182	1651.51	1654.96	A	PM	oth	+1	2	Number buttons require rubber case 
+ES2014c.B.dialog-act.s9553330.197	1651.27	1651.61	B	ID	fra	-1	0	Um 
+ES2014c.C.dialog-act.s9553330.135	1653.99	1657.8	C	UI	inf	-1	0	A dolphin with what one button for the spongy feel have everything about 
+ES2014c.D.dialog-act.s9553330.90	1655.88	1656.22	D	ME	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.183	1658.46	1659.85	A	PM	fra	-1	0	So yeah the 
+ES2014c.A.dialog-act.s9553330.184	1659.85	1663.82	A	PM	inf	+1	1	the the main problem is and how frequently do the fashions change "'cause" 
+ES2014c.A.dialog-act.s9553330.185	1663.82	1667.49	A	PM	inf	-1	0	change "'cause" in a sense and the production you want things to stay if you want 
+ES2014c.A.dialog-act.s9553330.186	1667.49	1669.91	A	PM	inf	-1	0	if you want to basically men the men "'cause" 
+ES2014c.D.dialog-act.s9553330.93	1668.05	1668.27	D	ME	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.187	1669.91	1680.04	A	PM	inf	-1	0	the men "'cause" if you got Fashion changes and you're incorporating then it means that your stock it is um this last year still i never use only are 
+ES2014c.D.dialog-act.s9553330.92	1678.92	1679.19	D	ME	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.188	1680.04	1684.5	A	PM	inf	-1	0	i never use only are having to sell at discounted rate which you would want to do whereas if you 
+ES2014c.A.dialog-act.s9553330.189	1684.5	1698.3	A	PM	inf	+1	1	to do whereas if you get the product the same but you could have a difference from here to here and seems to me that you could incorporate a fashion statement if you like rather than changing the whole uh-huh get double you just changing 
+ES2014c.D.dialog-act.s9553330.91	1684.04	1684.37	D	ME	bck	-1	0	Yeah 
+ES2014c.D.dialog-act.s9553330.94	1691.43	1691.98	D	ME	bck	-1	0	Okay 
+ES2014c.A.dialog-act.s9553330.190	1698.3	1703.57	A	PM	sug	+1	1	you just changing one aspect like like the stand-by button or something like that and especially 
+ES2014c.B.dialog-act.s9553330.198	1698.0	1698.33	B	ID	bck	-1	0	Yeah 
+ES2014c.D.dialog-act.s9553330.95	1697.68	1698.05	D	ME	bck	-1	0	Yeah 
+ES2014c.A.dialog-act.s9553330.191	1703.57	1707.892	A	PM	fra	-1	0	something like that and especially "'cause" then you could make it something that 
+ES2014c.B.dialog-act.s9553330.199	1706.81	1711.01	B	ID	inf	+1	1	As as you may be a limit to the far east los put the logo on the yeah shall we will never know whether or not 
+ES2014c.D.dialog-act.s9553330.96	1707.25	1707.46	D	ME	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.194	1710.78	1714.28	A	PM	ass	-1	0	Well we might be a limited in space that uh yes we are sure of 
+ES2014c.B.dialog-act.s9553330.200	1711.01	1712.6	B	ID	fra	-1	0	will never know whether or not 
+ES2014c.B.dialog-act.s9553330.201	1713.38	1713.71	B	ID	bck	-1	0	Yeah 
+ES2014c.D.dialog-act.s9553330.97	1713.66	1714.09	D	ME	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.195	1714.28	1727.68	A	PM	inf	-1	0	we are sure of a second or find a a fairly quickly when you move or at your kid modelling stages to where How much but how much how much but i hope liable is plasticene 
+ES2014c.C.dialog-act.s9553330.136	1714.48	1714.79	C	UI	bck	-1	0	Hmm 
+ES2014c.B.dialog-act.s9553330.202	1719.54	1721.02	B	ID	ass	-1	0	Yeah yeah 
+ES2014c.C.dialog-act.s9553330.137	1720.096	1722.058	C	UI	fra	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.203	1726.53	1729.53	B	ID	sug	+1	1	Maybe think of the the cases like change with the fashions like the nokia 
+ES2014c.A.dialog-act.s9553330.196	1727.68	1727.89	A	PM	fra	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.204	1729.53	1732.65	B	ID	inf	+1	1	like the nokia phones we could take the case enough yeah so i 
+ES2014c.B.dialog-act.s9553330.205	1732.65	1736.77	B	ID	ass	-1	0	yeah so i was about be too much to incorporate that action over that 
+ES2014c.D.dialog-act.s9553330.98	1732.81	1733.12	D	ME	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.206	1736.77	1738.39	B	ID	ass	-1	0	over that we just increase the cost make it more 
+ES2014c.A.dialog-act.s9553330.197	1737.62	1740.95	A	PM	bck	-1	0	Mm So 
+ES2014c.B.dialog-act.s9553330.207	1738.39	1739.77	B	ID	ass	-1	0	make it more complicated 
+ES2014c.A.dialog-act.s9553330.198	1740.95	1747.13	A	PM	inf	-1	0	So are you talking about to changing Changing the casing 
+ES2014c.D.dialog-act.s9553330.99	1740.87	1741.82	D	ME	ass	-1	0	Yeah 
+ES2014c.B.dialog-act.s9553330.208	1747.11	1747.31	B	ID	ass	-1	0	Yep yeah that's also 
+ES2014c.B.dialog-act.s9553330.209	1747.31	1749.47	B	ID	inf	-1	0	Yep yeah that's also of the look from the outside so the buttons 
+ES2014c.B.dialog-act.s9553330.210	1749.47	1751.27	B	ID	inf	-1	0	outside so the buttons was the inside and the channel 
+ES2014c.B.dialog-act.s9553330.211	1751.27	1754.2	B	ID	inf	-1	0	and the channel function of the most of time do you could change the 
+ES2014c.D.dialog-act.s9553330.100	1751.28	1751.52	D	ME	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.212	1754.2	1756.22	B	ID	inf	-1	0	do you could change the way it worked 
+ES2014c.C.dialog-act.s9553330.138	1756.61	1756.76	C	UI	ass	-1	0	Yeah and then you 
+ES2014c.C.dialog-act.s9553330.139	1756.76	1757.91	C	UI	fra	-1	0	Yeah and then you could have all 
+ES2014c.C.dialog-act.s9553330.140	1757.91	1761.5	C	UI	inf	+1	1	could have all we still that would have to have the roll call on if we knew case we could have like 
+ES2014c.B.dialog-act.s9553330.213	1761.01	1762.16	B	ID	ass	-1	0	that's yeah 
+ES2014c.C.dialog-act.s9553330.141	1761.5	1766.6	C	UI	sug	-1	0	we could have like in cases for kills and red ones something for 
+ES2014c.A.dialog-act.s9553330.199	1764.38	1764.76	A	PM	ass	-1	0	Yeah you 
+ES2014c.A.dialog-act.s9553330.200	1764.76	1766.37	A	PM	inf	-1	0	Yeah you could do a colour change so there for you 
+ES2014c.A.dialog-act.s9553330.201	1766.37	1767.39	A	PM	fra	-1	0	change so there for you today i mean 
+ES2014c.A.dialog-act.s9553330.202	1767.39	1768.25	A	PM	ass	-1	0	today i mean minutes 
+ES2014c.A.dialog-act.s9553330.203	1768.25	1775.21	A	PM	inf	-1	0	minutes left i don't know whether you know mobile phones instance um and blue some in rates um and rather than alan black or we know 
+ES2014c.B.dialog-act.s9553330.214	1771.27	1771.64	B	ID	bck	-1	0	Yeah 
+ES2014c.D.dialog-act.s9553330.101	1773.51	1773.93	D	ME	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.204	1775.21	1779.44	A	PM	inf	-1	0	or we know which forty one as long as it's black Uh-huh to 
+ES2014c.C.dialog-act.s9553330.142	1776.2	1776.48	C	UI	bck	-1	0	Mm 
+ES2014c.A.dialog-act.s9553330.205	1779.44	1782.544	A	PM	stl	-1	0	Uh-huh to Two 
+ES2014c.B.dialog-act.s9553330.215	1781.94	1783.52	B	ID	inf	-1	0	That's a possibility um 
+ES2014c.C.dialog-act.s9553330.143	1783.67	1787.0	C	UI	inf	+1	1	Oh we are supposed to use um company colour scheme oh well haven't really seen 
+ES2014c.A.dialog-act.s9553330.206	1787.36	1788.79	A	PM	ass	-1	0	Yes well that's true um 
+ES2014c.C.dialog-act.s9553330.144	1787.0	1788.89	C	UI	inf	-1	0	haven't really seen that yeah 
+ES2014c.B.dialog-act.s9553330.216	1787.57	1789.15	B	ID	und	-1	0	Oh okay yes um 
+ES2014c.A.dialog-act.s9553330.207	1788.79	1790.24	A	PM	fra	-1	0	that's true um i know 
+ES2014c.D.dialog-act.s9553330.102	1788.39	1788.98	D	ME	ass	-1	0	Yeah 
+ES2014c.B.dialog-act.s9553330.217	1789.15	1790.082	B	ID	fra	-1	0	um 
+ES2014c.C.dialog-act.s9553330.145	1789.62	1790.2	C	UI	fra	-1	0	And like i mean what don't you posted 
+ES2014c.C.dialog-act.s9553330.146	1790.2	1791.27	C	UI	sug	-1	0	i mean what don't you posted in my cautious 
+ES2014c.C.dialog-act.s9553330.147	1791.27	1792.76	C	UI	inf	-1	0	in my cautious and things 
+ES2014c.A.dialog-act.s9553330.208	1792.68	1794.08	A	PM	ass	-1	0	Well not necessarily because you could have 
+ES2014c.A.dialog-act.s9553330.209	1794.08	1797.01	A	PM	fra	-1	0	because you could have your company uh overwhelming to be finishing 
+ES2014c.A.dialog-act.s9553330.210	1797.01	1799.18	A	PM	inf	-1	0	to be finishing up you could have your company 
+ES2014c.A.dialog-act.s9553330.211	1799.18	1801.46	A	PM	inf	+1	2	you could have your company badge and no one a lot of 
+ES2014c.A.dialog-act.s9553330.212	1801.46	1809.53	A	PM	inf	+1	2	and no one a lot of them computers for instance like like um that when you've got there he actually has a sort of um stick on bad so what you 
+ES2014c.D.dialog-act.s9553330.103	1805.35	1805.8	D	ME	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.213	1809.53	1820.34	A	PM	inf	-1	0	so what you would all all you would really need whether the you know whether the casing beep or any colour could be any colour but that bad should we don't have to stick out on top of it so that um 
+ES2014c.A.dialog-act.s9553330.214	1820.34	1832.32	A	PM	inf	-1	0	so that um you know scenes with uh with uh the like that because it's a lovely back read the only colour that might not stick action by long would be a quite casing "'cause" 
+ES2014c.D.dialog-act.s9553330.104	1822.07	1822.55	D	ME	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.216	1832.86	1835.12	A	PM	inf	-1	0	"'cause" you you you know you saw your battery uh if at all companies 
+ES2014c.B.dialog-act.s9553330.218	1833.1	1833.49	B	ID	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.217	1835.12	1837.62	A	PM	inf	-1	0	if at all companies get somebody else to make them um let's see 
+ES2014c.A.dialog-act.s9553330.218	1837.62	1842.53	A	PM	inf	-1	0	to make them um let's see just by some um cells with their own uh but over the top and i thought the 
+ES2014c.D.dialog-act.s9553330.105	1839.52	1840.0	D	ME	bck	-1	0	Uh-huh 
+ES2014c.D.dialog-act.s9553330.106	1841.91	1842.13	D	ME	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.219	1842.53	1856.19	A	PM	inf	-1	0	and i thought the way they've got that they're even if you had a lot of light which is the predominant colour of the uh the windows bad you still be able to see it clearly from you know wiki same route product so 
+ES2014c.B.dialog-act.s9553330.219	1852.81	1853.27	B	ID	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.220	1855.31	1855.63	B	ID	bck	-1	0	Yeah 
+ES2014c.A.dialog-act.s9553330.220	1856.19	1857.17	A	PM	stl	-1	0	so 
+ES2014c.B.dialog-act.s9553330.221	1856.74	1863.28	B	ID	sug	+1	1	We went with have a big enough market to have this can like second you marcus allen the cases Might be some to consider 
+ES2014c.C.dialog-act.s9553330.148	1856.71	1857.28	C	UI	bck	-1	0	Yeah 
+ES2014c.A.dialog-act.s9553330.221	1863.856	1864.56	A	PM	fra	-1	0	{vocalsound}
+ES2014c.C.dialog-act.s9553330.149	1864.37	1870.23	C	UI	inf	-1	0	Uh if it's for young people um like phone generation that's what they put it put on on the market research 
+ES2014c.D.dialog-act.s9553330.107	1863.96	1864.27	D	ME	bck	-1	0	Uh-huh 
+ES2014c.D.dialog-act.s9553330.108	1867.04	1867.34	D	ME	bck	-1	0	Yeah 
+ES2014c.B.dialog-act.s9553330.222	1869.32	1869.63	B	ID	bck	-1	0	Yeah 
+ES2014c.C.dialog-act.s9553330.150	1870.23	1872.86	C	UI	inf	-1	0	on the market research has been on that side of things that yeah 
+ES2014c.D.dialog-act.s9553330.109	1873.15	1873.45	D	ME	ass	-1	0	Yeah i mean it's people's 
+ES2014c.D.dialog-act.s9553330.110	1873.45	1877.85	D	ME	inf	-1	0	Yeah i mean it's people's say that it's the lock they want a fancy looking think um 
+ES2014c.D.dialog-act.s9553330.111	1877.85	1878.258	D	ME	fra	-1	0	looking think um 
+ES2014c.D.dialog-act.s9553330.112	1879.49	1880.22	D	ME	bck	-1	0	Yeah i'm not convinced or 
+ES2014c.D.dialog-act.s9553330.113	1880.22	1885.13	D	ME	ass	+1	1	i'm not convinced or whether having changeable covers would be something that people buy into i think with about files 
+ES2014c.D.dialog-act.s9553330.114	1885.13	1888.87	D	ME	inf	-1	0	i think with about files It's the you know it's an indication device to 
+ES2014c.D.dialog-act.s9553330.115	1888.87	1890.53	D	ME	inf	-1	0	device to see with all about hmm 
+ES2014c.B.dialog-act.s9553330.223	1890.75	1891.35	B	ID	ass	-1	0	Yeah space where you 
+ES2014c.C.dialog-act.s9553330.151	1890.624	1891.152	C	UI	fra	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.224	1891.35	1894.47	B	ID	inf	-1	0	where you you keep the remote hit the the the syphilis that's fine 
+ES2014c.D.dialog-act.s9553330.116	1891.12	1892.3	D	ME	fra	-1	0	I think 
+ES2014c.A.dialog-act.s9553330.222	1892.92	1894.9	A	PM	inf	-1	0	As uh in in the house isn't it i suppose 
+ES2014c.A.dialog-act.s9553330.223	1894.9	1895.7	A	PM	ass	-1	0	isn't it i suppose 
+ES2014c.D.dialog-act.s9553330.117	1894.71	1895.08	D	ME	ass	-1	0	Yeah 
+ES2014c.C.dialog-act.s9553330.152	1896.45	1900.026	C	UI	unset	+1	2	Okay so if we just went for one colour of a rubber case 
+ES2014c.D.dialog-act.s9553330.118	1896.44	1896.821	D	ME	fra	-1	0	I think 
+ES2014c.A.dialog-act.s9553330.224	1899.87	1902.36	A	PM	inf	-1	0	So we don't change case changed his 
+ES2014c.D.dialog-act.s9553330.119	1900.26	1900.75	D	ME	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.225	1902.36	1904.34	A	PM	inf	-1	0	changed his colour and more sort 
+ES2014c.A.dialog-act.s9553330.226	1904.34	1907.44	A	PM	inf	-1	0	and more sort of saying no to that 
+ES2014c.C.dialog-act.s9553330.153	1908.05	1909.63	C	UI	el.inf	-1	0	It would decide on the rubber case the spongy 
+ES2014c.C.dialog-act.s9553330.154	1909.63	1910.47	C	UI	inf	-1	0	case the spongy feel it it would think 
+ES2014c.C.dialog-act.s9553330.155	1910.47	1913.02	C	UI	el.inf	-1	0	feel it it would think that that might call as a trend 
+ES2014c.D.dialog-act.s9553330.120	1913.73	1915.57	D	ME	inf	-1	0	Well there's different last year the trend is 
+ES2014c.D.dialog-act.s9553330.121	1915.57	1917.47	D	ME	inf	-1	0	last year the trend is different last year partly is not 
+ES2014c.D.dialog-act.s9553330.122	1917.47	1919.02	D	ME	inf	-1	0	is not not spongy feel But 
+ES2014c.D.dialog-act.s9553330.123	1919.54	1920.272	D	ME	fra	-1	0	But 
+ES2014c.D.dialog-act.s9553330.124	1922.08	1923.46	D	ME	inf	-1	0	I don't know of the channel change i don't know whether 
+ES2014c.D.dialog-act.s9553330.125	1923.46	1932.14	D	ME	inf	-1	0	change i don't know whether it's from those things that Like sort of having all fruit shape the keys that that probably would go out of fashion very quickly where it's just 
+ES2014c.A.dialog-act.s9553330.228	1932.38	1933.13	A	PM	bck	-1	0	Yeah 
+ES2014c.D.dialog-act.s9553330.126	1932.14	1940.12	D	ME	inf	+1	2	where it's just the fact that was a rubber case probably less less of something that You you can do anything in a in a 
+ES2014c.B.dialog-act.s9553330.225	1935.99	1937.587	B	ID	ass	-1	0	Yeah last slide it's a 
+ES2014c.A.dialog-act.s9553330.227	1937.03	1937.76	A	PM	ass	-1	0	Sounds reasonable 
+ES2014c.A.dialog-act.s9553330.229	1939.28	1939.28	A	PM	fra	-1	0	{vocalsound}
+ES2014c.A.dialog-act.s9553330.230	1942.23	1946.92	A	PM	inf	-1	0	If you're going for fashion trends that they need you to have the the interchangeable cases so 
+ES2014c.B.dialog-act.s9553330.226	1941.8	1943.222	B	ID	fra	-1	0	So a little lower 
+ES2014c.A.dialog-act.s9553330.231	1946.92	1948.06	A	PM	fra	-1	0	so that you could it door "'cause" otherwise 
+ES2014c.B.dialog-act.s9553330.227	1948.06	1948.36	B	ID	bck	-1	0	Yeah 
+ES2014c.A.dialog-act.s9553330.232	1948.06	1952.49	A	PM	inf	-1	0	door "'cause" otherwise someone's gonna have to buy a complete new remote island just a case 
+ES2014c.D.dialog-act.s9553330.127	1949.27	1949.73	D	ME	bck	-1	0	Yeah 
+ES2014c.B.dialog-act.s9553330.228	1953.088	1956.9	B	ID	inf	+1	1	Here at this is my sense of it which spent stick with the standard the case then 
+ES2014c.D.dialog-act.s9553330.128	1952.89	1953.13	D	ME	bck	-1	0	Hmm 
+ES2014c.B.dialog-act.s9553330.229	1956.9	1958.85	B	ID	inf	+1	1	standard the case then have the standard rubber buttons as well 
+ES2014c.A.dialog-act.s9553330.233	1959.51	1960.32	A	PM	ass	-1	0	Okay 
+ES2014c.D.dialog-act.s9553330.129	1959.57	1960.08	D	ME	bck	-1	0	Okay 
+ES2014c.B.dialog-act.s9553330.230	1960.29	1961.04	B	ID	bck	-1	0	Yeah 
+ES2014c.C.dialog-act.s9553330.156	1960.45	1964.14	C	UI	inf	-1	0	Oh wow really talk about uh the curvature of the keys as far as the 
+ES2014c.C.dialog-act.s9553330.157	1964.14	1964.9	C	UI	inf	-1	0	as far as the 
+ES2014c.D.dialog-act.s9553330.130	1964.048	1964.528	D	ME	fra	-1	0	{vocalsound}
+ES2014c.C.dialog-act.s9553330.158	1964.9	1965.58	C	UI	inf	-1	0	as far as the single curved and double 
+ES2014c.C.dialog-act.s9553330.159	1965.58	1966.63	C	UI	inf	-1	0	single curved and double curved 
+ES2014c.B.dialog-act.s9553330.231	1967.33	1968.08	B	ID	bck	-1	0	Um 
+ES2014c.B.dialog-act.s9553330.232	1969.14	1969.27	B	ID	fra	-1	0	Yeah 
+ES2014c.C.dialog-act.s9553330.160	1969.06	1971.38	C	UI	inf	-1	0	I'm not exactly sure what we think look like 
+ES2014c.B.dialog-act.s9553330.233	1970.36	1973.4	B	ID	sug	+1	1	Maybe cares get the like uh so the more stuff you feel the double 
+ES2014c.B.dialog-act.s9553330.234	1973.4	1981.904	B	ID	inf	+1	1	the double curve would require us to perform miracles the plasticine 
+ES2014c.C.dialog-act.s9553330.161	1976.457	1978.204	C	UI	fra	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.131	1976.752	1977.36	D	ME	fra	-1	0	{vocalsound}
+ES2014c.A.dialog-act.s9553330.234	1977.344	1982.048	A	PM	fra	-1	0	{vocalsound}
+ES2014c.C.dialog-act.s9553330.162	1979.25	1980.874	C	UI	fra	-1	0	Well it's a. s. r. 
+ES2014c.D.dialog-act.s9553330.132	1981.88	1985.14	D	ME	el.inf	-1	0	I say two ways a double curved what what exactly does that mean 
+ES2014c.C.dialog-act.s9553330.163	1985.16	1987.66	C	UI	inf	-1	0	And not exactly sure Um 
+ES2014c.C.dialog-act.s9553330.164	1987.66	1993.71	C	UI	off	-1	0	Um oh sure yeah The remotes out of cost c. r. 
+ES2014c.D.dialog-act.s9553330.133	1987.58	1988.26	D	ME	ass	-1	0	Okay 
+ES2014c.C.dialog-act.s9553330.165	1993.71	1994.432	C	UI	fra	-1	0	c. r. uh 
+ES2014c.C.dialog-act.s9553330.166	1995.62	1996.5	C	UI	off	-1	0	It's just uh huh 
+ES2014c.C.dialog-act.s9553330.167	1998.05	1999.24	C	UI	fra	-1	0	See how that the one on 
+ES2014c.C.dialog-act.s9553330.169	1999.24	2000.92	C	UI	inf	-1	0	on not for the number i 
+ES2014c.D.dialog-act.s9553330.134	2000.34	2000.42	D	ME	ass	-1	0	In our next 
+ES2014c.D.dialog-act.s9553330.135	2000.42	2004.332	D	ME	inf	-1	0	In our next meeting 
+ES2014c.B.dialog-act.s9553330.235	2001.069	2002.787	B	ID	inf	-1	0	{vocalsound}
+ES2014c.C.dialog-act.s9553330.170	2000.92	2003.23	C	UI	ass	-1	0	not for the number i dunno i So i just turn around 
+ES2014c.A.dialog-act.s9553330.235	2002.07	2004.69	A	PM	fra	-1	0	One one thing to get is one 
+ES2014c.C.dialog-act.s9553330.168	2003.23	2004.5	C	UI	el.inf	-1	0	So i just turn around the time 
+ES2014c.A.dialog-act.s9553330.236	2004.69	2013.32	A	PM	inf	+1	1	one thing to consider is that in some way if you want um having a fairly standard case it means we can all fit together on top of each other there for for storage 
+ES2014c.D.dialog-act.s9553330.136	2005.152	2006.297	D	ME	fra	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.137	2008.91	2010.06	D	ME	inf	-1	0	I should come up 
+ES2014c.A.dialog-act.s9553330.237	2013.32	2018.64	A	PM	inf	+1	1	other there for for storage propose is a shop so i can makes it easier dick and if you stop until we said was if you 
+ES2014c.D.dialog-act.s9553330.138	2016.9	2018.52	D	ME	bck	-1	0	Mm 
+ES2014c.B.dialog-act.s9553330.236	2017.79	2018.21	B	ID	bck	-1	0	Uh-huh 
+ES2014c.A.dialog-act.s9553330.238	2018.64	2026.88	A	PM	inf	-1	0	said was if you do um fancy things what do you think or put it in a cat have a packaging box that that does that And 
+ES2014c.A.dialog-act.s9553330.239	2026.88	2032.11	A	PM	inf	-1	0	And the cost of packaging could be quite important easily the total cost of the product 
+ES2014c.B.dialog-act.s9553330.237	2032.08	2033.74	B	ID	bck	-1	0	Yeah yeah so sure 
+ES2014c.C.dialog-act.s9553330.171	2032.81	2033.19	C	UI	bck	-1	0	Uh-huh 
+ES2014c.D.dialog-act.s9553330.139	2032.71	2032.88	D	ME	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.238	2033.74	2036.37	B	ID	sug	-1	0	so sure it's a grieving just work out war it's either we have to 
+ES2014c.B.dialog-act.s9553330.239	2036.37	2038.665	B	ID	fra	-1	0	we have to kind of 
+ES2014c.A.dialog-act.s9553330.240	2037.95	2040.976	A	PM	stl	-1	0	So but 
+ES2014c.D.dialog-act.s9553330.140	2039.04	2039.32	D	ME	ass	-1	0	Yeah 
+ES2014c.C.dialog-act.s9553330.172	2040.45	2041.77	C	UI	ass	-1	0	And it's not very clear a paper you can 
+ES2014c.A.dialog-act.s9553330.241	2041.89	2042.34	A	PM	ass	-1	0	No 
+ES2014c.C.dialog-act.s9553330.173	2041.77	2047.95	C	UI	inf	-1	0	clear a paper you can see some of them have a kind of all which is a second one and and for uh ways to say on 
+ES2014c.A.dialog-act.s9553330.242	2044.21	2045.08	A	PM	bck	-1	0	Uh-huh yep 
+ES2014c.D.dialog-act.s9553330.142	2046.04	2046.22	D	ME	bck	-1	0	Right 
+ES2014c.C.dialog-act.s9553330.174	2047.95	2048.76	C	UI	fra	-1	0	say on that so i don't 
+ES2014c.C.dialog-act.s9553330.175	2048.76	2052.59	C	UI	sug	-1	0	that so i don't know if double curved it's maybe it comes up slightly uh 
+ES2014c.D.dialog-act.s9553330.141	2052.086	2053.84	D	ME	inf	-1	0	It's a source kind of a cat 
+ES2014c.C.dialog-act.s9553330.176	2053.728	2058.01	C	UI	ass	-1	0	But i mean it's a kind of sleek a lot if you've got kids in there 
+ES2014c.A.dialog-act.s9553330.243	2055.18	2056.43	A	PM	bck	-1	0	Hmm 
+ES2014c.A.dialog-act.s9553330.244	2058.56	2062.0	A	PM	el.inf	-1	0	So you wanna go for curves more curves uh-huh Well maybe if we're 
+ES2014c.D.dialog-act.s9553330.143	2058.32	2058.59	D	ME	fra	-1	0	Sure 
+ES2014c.B.dialog-act.s9553330.240	2059.107	2060.338	B	ID	inf	-1	0	{vocalsound}
+ES2014c.A.dialog-act.s9553330.245	2062.0	2066.78	A	PM	inf	-1	0	maybe if we're meant to be fashion uh some meeting in that manner so 
+ES2014c.C.dialog-act.s9553330.177	2062.22	2063.23	C	UI	inf	-1	0	Definitely a single maybe double 
+ES2014c.C.dialog-act.s9553330.178	2063.23	2064.25	C	UI	inf	-1	0	maybe double 
+ES2014c.B.dialog-act.s9553330.241	2067.19	2067.32	B	ID	und	-1	0	"'kay" shrinking 
+ES2014c.B.dialog-act.s9553330.242	2067.32	2068.212	B	ID	sug	-1	0	"'kay" shrinking 
+ES2014c.D.dialog-act.s9553330.144	2066.84	2067.08	D	ME	bck	-1	0	Yeah 
+ES2014c.C.dialog-act.s9553330.179	2067.43	2069.42	C	UI	el.inf	+1	2	Sure go for single curve just a compromise 
+ES2014c.B.dialog-act.s9553330.243	2069.24	2070.61	B	ID	inf	+1	2	What if single k. i think that yeah 
+ES2014c.A.dialog-act.s9553330.246	2070.59	2071.38	A	PM	stl	-1	0	Oh she curved or double 
+ES2014c.B.dialog-act.s9553330.244	2070.61	2071.33	B	ID	inf	-1	0	i think that yeah 
+ES2014c.C.dialog-act.s9553330.180	2070.33	2071.4	C	UI	fra	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.145	2070.21	2070.83	D	ME	bck	-1	0	Okay 
+ES2014c.A.dialog-act.s9553330.247	2071.38	2073.86	A	PM	inf	-1	0	curved or double curved so it's single curve 
+ES2014c.B.dialog-act.s9553330.245	2074.02	2077.0	B	ID	el.inf	+1	1	This is do we decide on the kinetic power supply line 
+ES2014c.B.dialog-act.s9553330.246	2077.0	2078.98	B	ID	inf	-1	0	line of round okay 
+ES2014c.C.dialog-act.s9553330.181	2077.99	2078.51	C	UI	ass	-1	0	Yeah 
+ES2014c.D.dialog-act.s9553330.146	2077.57	2079.79	D	ME	ass	-1	0	Yeah i think that's good idea 
+ES2014c.A.dialog-act.s9553330.248	2078.82	2079.12	A	PM	und	-1	0	Yep 
+ES2014c.B.dialog-act.s9553330.248	2078.98	2079.93	B	ID	bck	-1	0	of round okay um 
+ES2014c.B.dialog-act.s9553330.249	2079.93	2080.688	B	ID	stl	-1	0	um 
+ES2014c.B.dialog-act.s9553330.247	2083.31	2085.593	B	ID	fra	-1	0	{vocalsound}
+ES2014c.C.dialog-act.s9553330.182	2084.21	2086.75	C	UI	inf	+1	1	And them about pushbuttons trip up to yes 
+ES2014c.D.dialog-act.s9553330.147	2085.6	2085.945	D	ME	inf	-1	0	No but 
+ES2014c.D.dialog-act.s9553330.148	2088.44	2089.69	D	ME	inf	-1	0	Well problems in case 
+ES2014c.C.dialog-act.s9553330.183	2091.57	2095.66	C	UI	inf	-1	0	Um i would draw really know much about the cost a normal creativity but 
+ES2014c.B.dialog-act.s9553330.250	2095.75	2097.54	B	ID	fra	-1	0	Oh we had Yeah he was 
+ES2014c.C.dialog-act.s9553330.184	2095.66	2097.05	C	UI	sug	-1	0	but possibly sticker 
+ES2014c.B.dialog-act.s9553330.251	2097.54	2097.98	B	ID	ass	-1	0	Yeah he was 
+ES2014c.B.dialog-act.s9553330.252	2097.98	2099.25	B	ID	fra	-1	0	Yeah he was love the way they have a simple 
+ES2014c.B.dialog-act.s9553330.253	2099.25	2102.76	B	ID	el.inf	-1	0	way they have a simple circuit board just to keep the cost on the i 
+ES2014c.B.dialog-act.s9553330.254	2102.76	2106.14	B	ID	inf	-1	0	on the i think we can by by not having anything to complicated 
+ES2014c.D.dialog-act.s9553330.149	2104.02	2104.52	D	ME	inf	-1	0	Yeah 
+ES2014c.C.dialog-act.s9553330.185	2106.39	2107.59	C	UI	inf	-1	0	Yeah yeah and and 
+ES2014c.C.dialog-act.s9553330.186	2107.59	2113.43	C	UI	sug	+1	1	yeah and and the voice recognition we can use uh call it just to find it Stuff at the circuit board 
+ES2014c.A.dialog-act.s9553330.249	2112.04	2114.19	A	PM	ass	-1	0	Yep 
+ES2014c.B.dialog-act.s9553330.255	2111.712	2112.56	B	ID	bck	-1	0	Um mm 
+ES2014c.D.dialog-act.s9553330.150	2111.52	2112.34	D	ME	ass	-1	0	Yeah yeah 
+ES2014c.B.dialog-act.s9553330.256	2113.92	2118.82	B	ID	sug	-1	0	As we could always decide against is something comes up that's just something to the single ear out 
+ES2014c.D.dialog-act.s9553330.151	2121.08	2122.76	D	ME	bck	-1	0	Okay And then 
+ES2014c.D.dialog-act.s9553330.152	2122.76	2128.49	D	ME	el.inf	+1	2	And then we can sort of one button shaped like a fruit yeah Perfect 
+ES2014c.C.dialog-act.s9553330.187	2127.59	2127.88	C	UI	inf	-1	0	Yeah that 
+ES2014c.C.dialog-act.s9553330.188	2127.88	2131.51	C	UI	ass	-1	0	Yeah that sounds like you wouldn't do too much um and a couple years uh what 
+ES2014c.C.dialog-act.s9553330.189	2131.51	2133.18	C	UI	el.inf	-1	0	uh what sort of shape you want 
+ES2014c.A.dialog-act.s9553330.250	2135.45	2138.37	A	PM	el.inf	-1	0	So we'll spongy feel buttons as well as we as well as 
+ES2014c.D.dialog-act.s9553330.153	2135.01	2135.28	D	ME	inf	-1	0	And maybe just 
+ES2014c.D.dialog-act.s9553330.154	2135.28	2136.1	D	ME	fra	-1	0	And maybe just 
+ES2014c.A.dialog-act.s9553330.251	2138.37	2139.14	A	PM	fra	-1	0	as well as or or was that 
+ES2014c.A.dialog-act.s9553330.252	2139.14	2140.496	A	PM	fra	-1	0	or or was that 
+ES2014c.D.dialog-act.s9553330.155	2139.16	2139.69	D	ME	inf	-1	0	Yeah 
+ES2014c.D.dialog-act.s9553330.156	2140.47	2141.82	D	ME	inf	-1	0	That's the rubber buttons yeah 
+ES2014c.A.dialog-act.s9553330.253	2141.89	2142.71	A	PM	inf	-1	0	So it's rubber buttons is not 
+ES2014c.B.dialog-act.s9553330.257	2141.67	2141.82	B	ID	inf	-1	0	Yeah this 
+ES2014c.B.dialog-act.s9553330.258	2141.82	2142.832	B	ID	fra	-1	0	Yeah this is 
+ES2014c.A.dialog-act.s9553330.254	2142.71	2145.95	A	PM	inf	+1	1	it's rubber buttons is not only spongy feel buttons as as rubber buttons with 
+ES2014c.A.dialog-act.s9553330.255	2145.95	2147.62	A	PM	el.inf	-1	0	with the rubber case right 
+ES2014c.B.dialog-act.s9553330.259	2145.54	2145.71	B	ID	bck	-1	0	Okay 
+ES2014c.D.dialog-act.s9553330.157	2145.68	2146.27	D	ME	ass	-1	0	Yeah the reason be spongy 
+ES2014c.C.dialog-act.s9553330.190	2146.19	2146.52	C	UI	ass	-1	0	Yes it's not you 
+ES2014c.C.dialog-act.s9553330.191	2146.52	2147.84	C	UI	inf	-1	0	Yes it's not you want p. 
+ES2014c.D.dialog-act.s9553330.158	2146.27	2147.64	D	ME	ass	-1	0	the reason be spongy i guess yeah 
+ES2014c.A.dialog-act.s9553330.256	2148.93	2151.0	A	PM	inf	-1	0	And the stand-by button is gonna be different 
+ES2014c.D.dialog-act.s9553330.159	2151.29	2152.08	D	ME	ass	-1	0	Yeah okay 
+ES2014c.C.dialog-act.s9553330.192	2153.56	2156.72	C	UI	inf	-1	0	Um i think an apple would be a good recognisable she if you start 
+ES2014c.C.dialog-act.s9553330.193	2156.72	2159.89	C	UI	inf	-1	0	if you start and end to can all be jeans and things you get that we have 
+ES2014c.D.dialog-act.s9553330.160	2159.104	2159.853	D	ME	fra	-1	0	{vocalsound}
+ES2014c.A.dialog-act.s9553330.257	2161.01	2164.53	A	PM	el.inf	-1	0	Okay so what we should we making this number button Apple 
+ES2014c.D.dialog-act.s9553330.161	2160.96	2161.64	D	ME	bck	-1	0	Yeah 
+ES2014c.D.dialog-act.s9553330.162	2163.8	2164.17	D	ME	sug	-1	0	Apple 
+ES2014c.A.dialog-act.s9553330.258	2164.53	2164.94	A	PM	und	-1	0	Apple 
+ES2014c.C.dialog-act.s9553330.194	2164.31	2164.67	C	UI	sug	-1	0	Four 
+ES2014c.A.dialog-act.s9553330.260	2164.94	2166.26	A	PM	be.pos	-1	0	Apple oh sorry 
+ES2014c.B.dialog-act.s9553330.260	2164.905	2166.335	B	ID	fra	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.163	2165.46	2165.98	D	ME	bck	-1	0	Yeah 
+ES2014c.C.dialog-act.s9553330.195	2166.65	2168.31	C	UI	el.inf	-1	0	Show for it anyone got any suggestions 
+ES2014c.B.dialog-act.s9553330.261	2167.99	2170.12	B	ID	inf	-1	0	Look of uh out of all falls off of 
+ES2014c.D.dialog-act.s9553330.164	2167.81	2168.7	D	ME	inf	-1	0	Yeah uh-huh for 
+ES2014c.C.dialog-act.s9553330.196	2168.31	2170.24	C	UI	el.sug	-1	0	anyone got any suggestions i 
+ES2014c.D.dialog-act.s9553330.165	2168.7	2169.76	D	ME	inf	-1	0	uh-huh for a for that 
+ES2014c.D.dialog-act.s9553330.166	2169.76	2173.1	D	ME	inf	-1	0	a for that it it quite big one as well this big apple 
+ES2014c.A.dialog-act.s9553330.261	2171.888	2172.96	A	PM	fra	-1	0	{vocalsound}
+ES2014c.C.dialog-act.s9553330.197	2172.39	2175.38	C	UI	bck	-1	0	Oh okay well Well it could be red 
+ES2014c.D.dialog-act.s9553330.167	2173.1	2175.776	D	ME	inf	-1	0	big apple and 
+ES2014c.C.dialog-act.s9553330.198	2175.38	2176.12	C	UI	sug	-1	0	Well it could be red 
+ES2014c.A.dialog-act.s9553330.262	2176.0	2176.656	A	PM	fra	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.168	2176.96	2178.41	D	ME	ass	+1	2	We read a poll yeah 
+ES2014c.D.dialog-act.s9553330.169	2179.65	2180.75	D	ME	ass	-1	0	At the top line 
+ES2014c.A.dialog-act.s9553330.263	2180.82	2181.81	A	PM	und	-1	0	Or a double that 
+ES2014c.A.dialog-act.s9553330.264	2181.81	2182.57	A	PM	fra	-1	0	a double that 
+ES2014c.C.dialog-act.s9553330.199	2181.78	2185.66	C	UI	inf	+1	2	Yeah "'cause" i wanna incorporate bit of call it if one wants to find 
+ES2014c.C.dialog-act.s9553330.200	2185.66	2187.329	C	UI	fra	-1	0	wants to find out um 
+ES2014c.B.dialog-act.s9553330.262	2186.32	2186.65	B	ID	bck	-1	0	Yeah and then we 
+ES2014c.B.dialog-act.s9553330.263	2186.65	2187.52	B	ID	fra	-1	0	Yeah and then we can uh you know 
+ES2014c.B.dialog-act.s9553330.264	2187.52	2190.79	B	ID	el.inf	-1	0	can uh you know work on keeping the bus things like uh a simple decide 
+ES2014c.B.dialog-act.s9553330.265	2190.79	2191.568	B	ID	fra	-1	0	simple decide the 
+ES2014c.B.dialog-act.s9553330.266	2192.95	2194.72	B	ID	inf	-1	0	As we can hold it if the next time 
+ES2014c.D.dialog-act.s9553330.170	2195.98	2196.26	D	ME	bck	-1	0	Uh-huh 
+ES2014c.B.dialog-act.s9553330.267	2196.52	2197.08	B	ID	bck	-1	0	Um 
+ES2014c.C.dialog-act.s9553330.201	2197.81	2198.45	C	UI	bck	-1	0	Yeah 
+ES2014c.C.dialog-act.s9553330.202	2199.97	2202.22	C	UI	ass	-1	0	Yeah seems pretty straight-forward small some would just be 
+ES2014c.B.dialog-act.s9553330.268	2201.81	2202.0	B	ID	bck	-1	0	Yeah 
+ES2014c.C.dialog-act.s9553330.203	2202.22	2206.83	C	UI	inf	+1	1	small some would just be kind of mean basically a whole like very clean 
+ES2014c.B.dialog-act.s9553330.269	2206.99	2207.63	B	ID	bck	-1	0	Okay 
+ES2014c.D.dialog-act.s9553330.171	2207.64	2207.79	D	ME	bck	-1	0	Uh-huh 
+ES2014c.D.dialog-act.s9553330.172	2209.88	2210.32	D	ME	oth	-1	0	Okay 
+ES2014c.A.dialog-act.s9553330.265	2213.21	2213.39	A	PM	be.pos	-1	0	There was a mouse 
+ES2014c.A.dialog-act.s9553330.266	2213.39	2216.21	A	PM	el.inf	-1	0	There was a mouse yeah mm yeah 
+ES2014c.C.dialog-act.s9553330.204	2215.46	2217.77	C	UI	inf	+1	1	Uh just to keep the shape of the buttons simple 
+ES2014c.A.dialog-act.s9553330.267	2219.09	2221.47	A	PM	inf	-1	0	Mine too yeah Much option and that sort of 
+ES2014c.A.dialog-act.s9553330.268	2221.47	2224.704	A	PM	inf	-1	0	and that sort of a single curve on 
+ES2014c.C.dialog-act.s9553330.205	2224.17	2226.7	C	UI	inf	-1	0	I just uh a shape of the buttons 
+ES2014c.A.dialog-act.s9553330.269	2227.25	2228.49	A	PM	ass	-1	0	Right 
+ES2014c.B.dialog-act.s9553330.270	2228.98	2234.72	B	ID	inf	-1	0	It's yeah it's keep in uh so the later than one way point of them fairly simple as well Have 
+ES2014c.B.dialog-act.s9553330.271	2234.72	2236.3	B	ID	inf	-1	0	Have a source of expansion 
+ES2014c.C.dialog-act.s9553330.206	2234.32	2234.64	C	UI	ass	-1	0	Yeah 
+ES2014c.A.dialog-act.s9553330.270	2236.95	2239.22	A	PM	inf	-1	0	Oh it's a shape of the buttons simple 
+ES2014c.A.dialog-act.s9553330.271	2248.42	2249.28	A	PM	stl	-1	0	Okay so 
+ES2014c.A.dialog-act.s9553330.272	2249.28	2252.8	A	PM	inf	-1	0	so That's what i guess you know 
+ES2014c.A.dialog-act.s9553330.273	2252.8	2255.26	A	PM	sug	-1	0	you know goal we in get these things or to go in addition to 
+ES2014c.A.dialog-act.s9553330.275	2255.26	2260.0	A	PM	inf	+1	1	go in addition to run plasticine defeat or whatever Okay so 
+ES2014c.C.dialog-act.s9553330.207	2257.957	2259.395	C	UI	fra	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.174	2257.575	2259.766	D	ME	fra	-1	0	{vocalsound}
+ES2014c.B.dialog-act.s9553330.273	2258.94	2259.26	B	ID	bck	-1	0	Okay 
+ES2014c.A.dialog-act.s9553330.276	2260.0	2262.22	A	PM	stl	-1	0	so um 
+ES2014c.B.dialog-act.s9553330.272	2266.58	2267.18	B	ID	el.inf	-1	0	So yeah 
+ES2014c.B.dialog-act.s9553330.274	2267.18	2267.4	B	ID	bck	-1	0	{vocalsound}
+ES2014c.D.dialog-act.s9553330.173	2268.1	2268.57	D	ME	inf	-1	0	Looks like a 
+ES2014c.A.dialog-act.s9553330.277	2272.61	2273.36	A	PM	stl	-1	0	He 

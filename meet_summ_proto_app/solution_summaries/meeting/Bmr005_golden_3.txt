@@ -1,0 +1,43 @@
+The current corpus of data comprises twelve hours of recordings of which forty five minutes are transcribed.
+Up to fifty hours of controlled recordings are expected to be completed in the next six months.
+Additional material acquired through collaborations with local broadcast media and UW will probably bring the total to more than a hundrend hours.
+A revised consent form to be signed by the participants is being put together.
+The first transcribed session is being used for the marking and labeling of speaker overlaps.
+This manual coding of the overlapping zones can be compared with automatic detections of such zones.
+A simple program to achieve those by checking and filtering energy increases is also being developed.
+The potential usefulness of block echo cancellation was put forward.
+Its study would test the initial consensus which favoured feature approaches for the recogniser instead.
+The digit reading parts of the meetings would be appropriate data for this study.
+There was also mention of the potential future gain in the analysis of meetings from the study of the inference of implicit knowledge structures.
+A preliminary look at the data suggested that these are abundant in the recorded sessions.
+In order to increase the number and variety of the recorded data the group will contact the local broadcast media and discuss the possibility of arranging specially set up recordings of discussion panels.
+Further contacts can also be made within ICSI or the university in general.
+The digit reading will not have to be done in all these recordings.
+What is necessary though is that all recordings are made using both close and distant mikes.
+The revised consent forms will be valid for ten meetings.
+It was agreed that although its good practice to avoid sensitive material in the recordings complete anonymisation would make them unnatural.
+From a research point of view only exploratory work preliminary measurements etc can be done until more data are collected.
+The transcription of the acoustic events in the first session will continue but focusing only on speaker overlaps in order to speed up progress.
+Parallelly a simple program to detect those overlapping zones will be run and its results compared with the hand coded material.
+Finally it was agreed that there will be further study into the use of inference structures in the analysis of meetings more closely.
+It will be difficult to recruit many groups that would agree to have their meetings recorded regularly.
+However the use of found data is not possible as they are not recorded in the required setup.
+The point of potential legal problems with the presence of sensitive material in the recordings or the identification of individuals was also raised.
+The latter gave rise to difficulties that pronoun identification may pose in future analysis.
+There was some delay in sending the first batch of recordings for transcription due to some missing files.
+It is also hard to speculate how long it will take IBM to carry out these transcriptions.
+Furthermore even when they are completed and sent back they will need another pass through for adjustment to the requirements of the project.
+Also time consuming would be the detailed transcription of all acoustic events as it took twelve hours to analyze twelve recorded minutes.
+As to these acoustic events there is significant variation in their respective numbers depending on whether the data used come from the close or the distant microphones.
+Moreover the issue of block echo cancellation was re opened although its use may be problematic for this specific data.
+A forty five minute session has already been transcribed at ICSI and also sent to IBM.
+Another twelve hours have been recorded and are currently being put on CDs in order to be sent to IBM for transcription.
+There are already arrangements in place for the regular recording of some morning meetings as well as those by the natural language and network services teams.
+Problems with crashing equipment are being sorted out.
+Jose has completed a detailed marking and labeling of all one thousand acoustic events in the first twelve minutes of the transcribed session mentioned above.
+He has counted three hundrend overlapping zones in the whole session.
+In the meantime Adam is working on a revised interface for the transcription of these zones.
+A simple program to locate overlapping zones automatically by in a nutshell detecting energy increases in the signal is being written.
+Its output can be impported into Transcriber.
+Other potentially useful scripts that are ready include one for a cross correlation filter which cleans up the original signal and some for automatic transcription of digits.
+Finally a preliminary check on the usefulness of inference structures in the analysis of meetings was carried out.

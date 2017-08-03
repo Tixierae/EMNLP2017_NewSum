@@ -1,0 +1,22 @@
+The Project Manager reviewed the minutes from the last meeting.
+The Industrial Designer discussed options for each of the internal components.
+He showed that the size of the chip was dependent on the type and number of additional features used.
+The group discussed incorporating speech recognition and other functions to be able to decide on chip size.
+They decided that using speech recognition for the locator function only would allow them to use a simple chip.
+The User Interface Designer presented several existing products.
+She presented a specialized childrens remote the group decided to focus on a basic remote that would appeal to a wide market.
+She expressed that buttons are often ambiguously shaped and that their remote must have an easy to use interface.
+The Marketing Expert presented trends in the remote control market and the fruit and vegetable and spongy material trends in fashion.
+The group discussed ways to incorporate these trends.
+They decided to make the standby button shaped like an apple to use a rubber case and buttons and to use a single curved shape.
+The Project Manager instructed the User Interface Designer and the Industrial Designer to construct the prototype.
+The User Interface Designer and the Industrial Designer will construct the prototype.
+The group decided to use speech recognition but only for the locator function.
+The remote will feature push buttons instead of scroll buttons and a kinetic power supply.
+The remote will contain a simple chip.
+The group decided to focus on a basic remote that will appeal to the widest market.
+They also decided to market the speech recognition component as a finder function so as not to confuse it with more advanced speech recognition components in other remote controls.
+The group decided to make the standby button in the shape of an apple.
+The remote will also feature a rubber case and rubber buttons and a single curved design.
+The remote will feature the company logo possibly in a sticker form.
+NA.

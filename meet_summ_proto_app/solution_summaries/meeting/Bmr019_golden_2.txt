@@ -1,0 +1,10 @@
+The meeting at Berkley was of ICSIs group concerned with recognition of recorded meeting data.
+The two main topics of conversation were adaptation within digit recognition and alignment within the larger vocabulary meeting recognition.
+The group discussed issues of different microphones changing to using a new system and whether people were making Eurospeech submissions.
+They talked about adaption models issues of multiple speakers and they feel they lack data per speaker.
+On alignment they were concerned over matters of background and foreground speech though they have identified common errors by looking more closely at the waves.
+They also discussed plans for an up coming group meeting.
+NA.
+Most people have given up on submissions to Eurospeech because the deadline was moved forward this year.
+It has been found that lowering the pruning level actually improves performance on the meeting recognition.
+It appears that most backchannels are created by someone who has asked a question while it is being answered.
