@@ -514,24 +514,24 @@ shinyServer(function(input, output) {
 
 			if (length(my_file)>1){
 
-			golden_summary = lapply(my_file, function(x) readChar(x, file.info(x)$size))
+				golden_summary = lapply(my_file, function(x) readChar(x, file.info(x)$size))
 
-			iii = 1
-			for (elt in my_file){
+				iii = 1
+				for (elt in my_file){
 
-			clean_golden_summary = clean_summary(readLines(elt))
-			writeLines(clean_golden_summary,paste0(overall_wd,"/rouge2.0-distribution/test-summarization/reference/",golden_names[index_meeting[iii]]))
-			iii = iii + 1
+					clean_golden_summary = clean_summary(readLines(elt))
+					writeLines(clean_golden_summary,paste0(overall_wd,"/rouge2.0-distribution/test-summarization/reference/",golden_names[index_meeting[iii]]))
+					iii = iii + 1
 
-			}
+				}
 
 			} else {
 
-			golden_summary = readChar(my_file, file.info(my_file)$size)
+				golden_summary = readChar(my_file, file.info(my_file)$size)
 
-			clean_golden_summary = clean_summary(readLines(my_file))
+				clean_golden_summary = clean_summary(readLines(my_file))
 
-			writeLines(clean_golden_summary,paste0(overall_wd,"/rouge2.0-distribution/test-summarization/reference/",golden_names[index_meeting]))
+				writeLines(clean_golden_summary,paste0(overall_wd,"/rouge2.0-distribution/test-summarization/reference/",golden_names[index_meeting]))
 
 			}
 
@@ -541,27 +541,27 @@ shinyServer(function(input, output) {
 			withProgress({
 			setProgress(message = "Computing ROUGE scores...")
 
-			setwd(paste0(overall_wd,"/rouge2.0-distribution/"))
+				setwd(paste0(overall_wd,"/rouge2.0-distribution/"))
 
-			command = 'java -jar "rouge2.0.jar"'
-			command_unix = 'java -jar rouge2.0.jar'
+				command = 'java -jar "rouge2.0.jar"'
+				command_unix = 'java -jar rouge2.0.jar'
 
-			if (operating_system=="unix"){
+				if (operating_system=="unix"){
 
-			# calls to a Linux environment - shinyapps
-			system(paste0(command_unix))
+					# calls to a Linux environment - shinyapps
+					system(paste0(command_unix))
 
-			} else if (operating_system=="windows"){
+				} else if (operating_system=="windows"){
 
-			system(paste("cmd.exe /c", command), intern = FALSE, wait = TRUE)
+					system(paste("cmd.exe /c", command), intern = FALSE, wait = TRUE)
+					
+				}
 
-			}
+				# read back results
+				rouge_scores = read.csv("results.csv", header=TRUE)[,c("Avg_Recall","Avg_Precision","Avg_F.Score")]
 
-			# read back results
-			rouge_scores = read.csv("results.csv", header=TRUE)[,c("Avg_Recall","Avg_Precision","Avg_F.Score")]
-
-			# set back to old wd
-			setwd(overall_wd)
+				# set back to old wd
+				setwd(overall_wd)
 
 			})
 
@@ -573,12 +573,12 @@ shinyServer(function(input, output) {
 
 			if (class(golden_summary)=="list"){
 
-			outputs = lapply(golden_summary, function(x) overlap_html(my_summary, x, c(custom_stopwords_basic,custom_stopwords_stemmed), is_trad_doc=is_trad_doc))
+				outputs = lapply(golden_summary, function(x) overlap_html(my_summary, x, c(custom_stopwords_basic,custom_stopwords_stemmed), is_trad_doc=is_trad_doc))
 
 			} else {
 
-			outputs = list()
-			outputs[[1]] = overlap_html(my_summary, golden_summary, c(custom_stopwords_basic,custom_stopwords_stemmed),is_trad_doc=is_trad_doc)
+				outputs = list()
+				outputs[[1]] = overlap_html(my_summary, golden_summary, c(custom_stopwords_basic,custom_stopwords_stemmed),is_trad_doc=is_trad_doc)
 
 			}
 
@@ -596,13 +596,12 @@ shinyServer(function(input, output) {
 
 	})
 
-
 	output$keywords_scores = downloadHandler(
 		filename = function() {
-		paste("keywords_scores.txt")
+			paste("keywords_scores.txt")
 		},
 		content = function(file) {
-		write.table(third()$df_wc, file, col.names = FALSE, row.names = FALSE, quote=FALSE)
+			write.table(third()$df_wc, file, col.names = FALSE, row.names = FALSE, quote=FALSE)
 		}
 	)
 
@@ -610,13 +609,11 @@ shinyServer(function(input, output) {
 		wordcloud2(third()$df_wc_bis, size = 0.5)
 	})
 
-
 	output$keywords_barplot = renderMetricsgraphics(third()$m1)
 
 	output$rouge = renderText({
 		paste(c("Recall:","Precision:","F1:"), round(fourth()$rouge_scores,3), collapse=", ")
 	})
-
 
 	output$"summary_custom"=renderUI({
 		HTML(fourth()$outputs[[1]])
