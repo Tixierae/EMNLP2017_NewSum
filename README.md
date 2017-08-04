@@ -2,7 +2,8 @@
 Please cite:
 
 ```
-Tixier, A. J. P., Meladianos, P., & Vazirgiannis, M. (2017). Real-Time Keyword Extraction from Conversations. 
+Tixier, A. J. P., Meladianos, P., & Vazirgiannis, M. (2017). Combining Graph Degeneracy and Submodularity 
+for Unsupervised Extractive Summarization. 
 EMNLP 2017 Workshop on New Frontiers in Summarization
 ```
 
