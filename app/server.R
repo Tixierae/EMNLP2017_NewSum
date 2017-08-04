@@ -86,25 +86,25 @@ shinyServer(function(input, output) {
 
                 if (input$corpus=='DUC01_corpus'){
 
-                is_trad_doc = TRUE
-                meeting_or_doc = 'doc'
+                    is_trad_doc = TRUE
+                    meeting_or_doc = 'doc'
 
-                raw_text = readLines(paste0(overall_wd,'/to_summarize/doc/',meeting_name,'.txt'))
+                    raw_text = readLines(paste0(overall_wd,'/to_summarize/doc/',meeting_name,'.txt'))
 
-                meeting_info = cbind("size (words)"=length(unlist(strsplit(gsub('\\s+',' ',raw_text),split = ' '))))
+                    meeting_info = cbind("size (words)"=length(unlist(strsplit(gsub('\\s+',' ',raw_text),split = ' '))))
 
                 } else { # meeting domain
 
-                is_trad_doc = FALSE
-                meeting_or_doc = 'meeting'
+                    is_trad_doc = FALSE
+                    meeting_or_doc = 'meeting'
 
-                asr_info = read.table(paste0("./to_summarize/meeting/",paste0(meeting_name,".da-asr")), header=FALSE, sep="\t", quote="")
+                    asr_info = read.table(paste0("./to_summarize/meeting/",paste0(meeting_name,".da-asr")), header=FALSE, sep="\t", quote="")
 
-                # retain only columns of interest
-                asr_info = asr_info[,c(2,3,5,9)]
-                colnames(asr_info) = c("start","end","role","text")
+                    # retain only columns of interest
+                    asr_info = asr_info[,c(2,3,5,9)]
+                    colnames(asr_info) = c("start","end","role","text")
 
-                meeting_info = cbind("number of participants"=length(unique(asr_info[,"role"])),"duration (mins)"=paste(round((-as.numeric(asr_info[1,"start"]) + as.numeric(asr_info[nrow(asr_info),"end"]))/60,2)), "size (words)"=length(unlist(lapply(as.character(asr_info[,"text"]), function(x) unlist(strsplit(x, split=" "))))),"number of human summaries"=c(1,3,"unknown")[input$corpus == c("AMI_corpus","ICSI_corpus","custom")])
+                    meeting_info = cbind("number of participants"=length(unique(asr_info[,"role"])),"duration (mins)"=paste(round((-as.numeric(asr_info[1,"start"]) + as.numeric(asr_info[nrow(asr_info),"end"]))/60,2)), "size (words)"=length(unlist(lapply(as.character(asr_info[,"text"]), function(x) unlist(strsplit(x, split=" "))))),"number of human summaries"=c(1,3,"unknown")[input$corpus == c("AMI_corpus","ICSI_corpus","custom")])
 
                 }
                 
