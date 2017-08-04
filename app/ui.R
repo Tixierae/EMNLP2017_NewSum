@@ -142,5 +142,6 @@ shinyUI(fluidPage(theme = shinytheme("journal"),
 		h5("- Code available at:", a("https://github.com/Tixierae/EMNLP2017_NewSum",href = "https://github.com/Tixierae/EMNLP2017_NewSum",target="_blank")),
 		p(),
 		em("- Last updated: August 2017 (added support for traditional documents)")
-	)
+	),
+	includeHTML("record_stats.html")	
 ))

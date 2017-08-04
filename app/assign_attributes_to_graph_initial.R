@@ -6,7 +6,6 @@ assign_attributes_to_graph_initial = function(edges_df, weighted, directed){
 	# remove edges that would be the same if direction was not taken into account
 	edges_df_und = edges_df[-index_duplicated,]
 
-
 	if (directed==FALSE){
 
 		edges_df = edges_df_und

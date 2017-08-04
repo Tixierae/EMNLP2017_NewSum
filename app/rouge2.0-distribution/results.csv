@@ -1,2 +1,2 @@
 ROUGE-Type,Task Name,System Name,Avg_Recall,Avg_Precision,Avg_F-Score,Num Reference Summaries
-ROUGE-1,FBIS4-27602,SYSTEM.TXT,0.65385,0.67327,0.66341,1
+ROUGE-1,BED004,SYSTEM.TXT,0.34968,0.31905,0.33366,3

@@ -1,5 +1,4 @@
-tagPOS <-
-function(character){
+tagPOS = function(character){
 	# part-of-speech tagger based on openNLP Apache
 	# required package: "openNLP"
 	s = as.String(character)

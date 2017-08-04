@@ -29,7 +29,7 @@ source('cleaning_transcript.R')
 source('from_cleaned_transcript_to_terms_list.R')
 source('from_terms_to_graph.R')
 source('from_terms_to_summary.R')
-source('heapify.R')
+#source('heapify.R')
 source('keyword_extraction.R')
 source('keyword_extraction_inner.R')
 source('sentence_selection_greedy.R')
@@ -72,8 +72,8 @@ shinyServer(function(input, output) {
 
 		if (input$corpus!="custom"){
 
-			dir.create(overall_wd,"/rouge2.0-distribution/test-summarization/reference",recursive=T)
-			dir.create(overall_wd,"/rouge2.0-distribution/test-summarization/system")
+			dir.create("./rouge2.0-distribution/test-summarization/reference",recursive=T)
+			dir.create("./rouge2.0-distribution/test-summarization/system")
 			boolean = FALSE
 			meeting_name = input$input_data
 
@@ -99,7 +99,7 @@ shinyServer(function(input, output) {
 				is_trad_doc = FALSE
 				meeting_or_doc = 'meeting'
 
-				asr_info = read.table(paste0(overall_wd,"/to_summarize/meeting/",paste0(meeting_name,".da-asr")), header=FALSE, sep="\t", quote="")
+				asr_info = read.table(paste0("./to_summarize/meeting/",paste0(meeting_name,".da-asr")), header=FALSE, sep="\t", quote="")
 
 				# retain only columns of interest
 				asr_info = asr_info[,c(2,3,5,9)]
@@ -117,11 +117,9 @@ shinyServer(function(input, output) {
 		} else {
 
 			is_trad_doc = NA # will be determined at the very beginning of initial (the next reactive expression)
-
+            meeting_or_doc = NA
 			boolean = TRUE
-
 			meeting_info = cbind("number of participants"=NA,"duration (mins)"=NA, "size (words)"=NA,"number of human summaries"=NA)
-
 			golden_names = NA
 
 		}
@@ -252,7 +250,7 @@ shinyServer(function(input, output) {
 				if (!is_trad_doc){
 					# meeting domain
 
-					asr_info = read.table(paste0(overall_wd,"/to_summarize/meeting/",paste0(meeting_name,".da-asr")), header=FALSE, sep="\t", quote="")
+					asr_info = read.table(paste0("./to_summarize/meeting/",paste0(meeting_name,".da-asr")), header=FALSE, sep="\t", quote="")
 
 					# retain only columns of interest
 					asr_info = asr_info[,c(2,3,5,9)]
@@ -278,7 +276,7 @@ shinyServer(function(input, output) {
 				# load original summary for display
 				# but write clean golden summary(ies) to ROUGE directory (again, to remediate the unlink when modifying summary size)
 				index_meeting = which(unlist(lapply(golden_names, function(x) grepl(meeting_name,x)))==TRUE)
-				my_file = paste0(overall_wd,"/solution_summaries/",meeting_or_doc,'/',golden_names[index_meeting])
+				my_file = paste0("./solution_summaries/",meeting_or_doc,'/',golden_names[index_meeting])
 
 				if (length(my_file)>1){
 
@@ -288,7 +286,7 @@ shinyServer(function(input, output) {
 					for (elt in my_file){
 
 						clean_golden_summary = clean_summary(readLines(elt))
-						writeLines(clean_golden_summary,paste0(overall_wd,"/rouge2.0-distribution/test-summarization/reference/",golden_names[index_meeting[iii]]))
+						writeLines(clean_golden_summary,paste0("./rouge2.0-distribution/test-summarization/reference/",golden_names[index_meeting[iii]]))
 						iii = iii + 1
 
 					}
@@ -299,7 +297,7 @@ shinyServer(function(input, output) {
 
 					clean_golden_summary = clean_summary(readLines(my_file))
 
-					writeLines(clean_golden_summary,paste0(overall_wd,"/rouge2.0-distribution/test-summarization/reference/",golden_names[index_meeting]))
+					writeLines(clean_golden_summary,paste0("./rouge2.0-distribution/test-summarization/reference/",golden_names[index_meeting]))
 
 				}
 
@@ -510,7 +508,7 @@ shinyServer(function(input, output) {
 			# load original summary for display
 			# but write clean golden summary(ies) to ROUGE directory (again, to remediate the unlink when modifying summary size)
 			index_meeting = which(unlist(lapply(golden_names, function(x) grepl(meeting_name,x)))==TRUE)
-			my_file = paste0(overall_wd,"/solution_summaries/",meeting_or_doc,'/',golden_names[index_meeting])
+			my_file = paste0("./solution_summaries/",meeting_or_doc,'/',golden_names[index_meeting])
 
 			if (length(my_file)>1){
 
@@ -520,7 +518,7 @@ shinyServer(function(input, output) {
 				for (elt in my_file){
 
 					clean_golden_summary = clean_summary(readLines(elt))
-					writeLines(clean_golden_summary,paste0(overall_wd,"/rouge2.0-distribution/test-summarization/reference/",golden_names[index_meeting[iii]]))
+					writeLines(clean_golden_summary,paste0("./rouge2.0-distribution/test-summarization/reference/",golden_names[index_meeting[iii]]))
 					iii = iii + 1
 
 				}
@@ -531,17 +529,17 @@ shinyServer(function(input, output) {
 
 				clean_golden_summary = clean_summary(readLines(my_file))
 
-				writeLines(clean_golden_summary,paste0(overall_wd,"/rouge2.0-distribution/test-summarization/reference/",golden_names[index_meeting]))
+				writeLines(clean_golden_summary,paste0("./rouge2.0-distribution/test-summarization/reference/",golden_names[index_meeting]))
 
 			}
 
 			# write cleaned system summary to ROUGE directory
-			writeLines(clean_summary(my_summary), paste0(overall_wd,"/rouge2.0-distribution/test-summarization/system/",meeting_name,"_system.txt"))
+			writeLines(clean_summary(my_summary), paste0("./rouge2.0-distribution/test-summarization/system/",meeting_name,"_system.txt"))
 
 			withProgress({
 			setProgress(message = "Computing ROUGE scores...")
 
-				setwd(paste0(overall_wd,"/rouge2.0-distribution/"))
+				setwd(paste0("./rouge2.0-distribution/"))
 
 				command = 'java -jar "rouge2.0.jar"'
 				command_unix = 'java -jar rouge2.0.jar'
@@ -565,8 +563,8 @@ shinyServer(function(input, output) {
 
 			})
 
-			unlink(paste0(overall_wd,"/rouge2.0-distribution/test-summarization/reference/",golden_names[index_meeting]))
-			unlink(paste0(overall_wd,"/rouge2.0-distribution/test-summarization/system/",meeting_name,"_system.txt"))
+			unlink(paste0("./rouge2.0-distribution/test-summarization/reference/",golden_names[index_meeting]))
+			unlink(paste0("./rouge2.0-distribution/test-summarization/system/",meeting_name,"_system.txt"))
 
 			withProgress({
 			setProgress(message = "Displaying results...")

@@ -1,5 +1,4 @@
-keyword_extraction_inner <-
-function(g, method, use_elbow, use_percentage, percentage, number_to_retain, which_nodes){
+keyword_extraction_inner = function(g, method, use_elbow, use_percentage, percentage, number_to_retain, which_nodes){
   
   # method can be one of (TR, main, inf, CR, dens)
   

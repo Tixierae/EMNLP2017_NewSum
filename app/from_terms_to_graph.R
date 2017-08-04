@@ -1,5 +1,4 @@
-from_terms_to_graph <- 
-function(terms_list,w,overspan,processed){
+from_terms_to_graph = function(terms_list,w,overspan,processed){
 	# this function returns a data frame that can be passed to igraph::graph.data.frame to build a graph
 
 	# terms: tokenized processed and unprocessed text (with punctuation in both cases), as list of two character vectors

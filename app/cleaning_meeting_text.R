@@ -9,30 +9,30 @@ function(X, custom, pos, stem, detected_language, remove_single, is_trad_doc) {
 	}
   
     if (!is_trad_doc){
-  
-	# remove between word dashes
-	x = gsub("- ", " ", X, perl = TRUE) 
-	x = gsub(" -", " ", x, perl = TRUE)
-	
-	# remove everything within curly brackets ({vocalsound}, etc)
-	x = gsub("{.*?}", '', x, perl = TRUE)
+	  
+		# remove between word dashes
+		x = gsub("- ", " ", X, perl = TRUE) 
+		x = gsub(" -", " ", x, perl = TRUE)
+		
+		# remove everything within curly brackets ({vocalsound}, etc)
+		x = gsub("{.*?}", '', x, perl = TRUE)
 
-	# remove space before apostrophes
-	x = gsub("\\b\\s+'\\b", "'", x, perl=TRUE)
-    
-	# remove punctuation except apostrophes (the only punctuation mark featured in the ASR output)
-	x = gsub("[^[:alnum:][:space:]']", " ", x)
-	
-	# remove apostrophes that are not intra-word
-	x = gsub("' ", " ", x, perl = TRUE)
-	x = gsub(" '", " ", x, perl = TRUE)
-	
-	# convert to lower case
-	x = tolower(x)
+		# remove space before apostrophes
+		x = gsub("\\b\\s+'\\b", "'", x, perl=TRUE)
+		
+		# remove punctuation except apostrophes (the only punctuation mark featured in the ASR output)
+		x = gsub("[^[:alnum:][:space:]']", " ", x)
+		
+		# remove apostrophes that are not intra-word
+		x = gsub("' ", " ", x, perl = TRUE)
+		x = gsub(" '", " ", x, perl = TRUE)
+		
+		# convert to lower case
+		x = tolower(x)
 	
 	} else {
 	
-	x = X
+		x = X
 	
 	}
 

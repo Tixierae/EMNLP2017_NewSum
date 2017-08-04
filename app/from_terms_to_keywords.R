@@ -1,5 +1,4 @@
-from_terms_to_keywords <-
-  function(terms_list, window_size, to_overspan, to_build_on_processed, community_algo, weighted_comm, directed_comm, rw_length, size_threshold, degeneracy, directed_mode, method, use_elbow, use_percentage, percentage, number_to_retain, which_nodes, overall_wd){
+from_terms_to_keywords = function(terms_list, window_size, to_overspan, to_build_on_processed, community_algo, weighted_comm, directed_comm, rw_length, size_threshold, degeneracy, directed_mode, method, use_elbow, use_percentage, percentage, number_to_retain, which_nodes, overall_wd){
     
     edges_df = from_terms_to_graph(terms_list = terms_list, w = window_size, overspan = to_overspan, processed = to_build_on_processed)$output
     

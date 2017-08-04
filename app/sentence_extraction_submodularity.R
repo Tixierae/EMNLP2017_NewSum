@@ -6,11 +6,7 @@ sentence_extraction_submodularity = function(units_splitted, units_splitted_stem
   scores_internal = scores_temp
   
   # prune out units not containing any concept to save iterations
-  #   if (to_stem){
-  #     unit_presence_index = unlist(lapply(units_splitted, function(x) any(keywords_temp %in% wordStem(x))))
-  #   } else {
-  unit_presence_index = unlist(lapply(units_splitted_stemmed, function(x) any(keywords_temp %in% x)))
-  # }
+  unit_presence_index = unlist(lapply(units_splitted_stemmed, function(x) any(keywords_temp %in% x))) 
   
   index_absent = which(unit_presence_index==FALSE)
   if (length(index_absent)>0){
@@ -22,24 +18,16 @@ sentence_extraction_submodularity = function(units_splitted, units_splitted_stem
   # if at least one unit remains
   if (length(units_splitted)>0){
     
-    # prune out units exceeding the budget. If no unit remains, 
-    #units_splitted_sizes = unlist(lapply(units_splitted, length))
-    #index_below_budget = which(units_splitted_sizes<budget)
-    
-    #if (length(index_below_budget>0)){
-      
-      #units_splitted = units_splitted[index_below_budget]
-      #units_splitted_stemmed = units_splitted_stemmed[index_below_budget]
-      #start_time = start_time[index_below_budget]
-      
       start_time_save = start_time
       
-      singletons_scores = unlist(lapply(units_splitted_stemmed, function(x) concept_submodularity_objective(units=x, concepts=keywords_temp, my_scores=scores_internal, to_stem=to_stem, weighted_sum_concepts=weighted_sum_concepts, negative_terms=negative_terms, lambda)$score))
+	  # ensure that singletons that exceed budget get truncated (otherwise their scores are increased)!
+	  
+      singletons_scores = unlist(lapply(units_splitted_stemmed, function(x) concept_submodularity_objective(units=x[min(length(x),budget)], concepts=keywords_temp, my_scores=scores_internal, to_stem=to_stem, weighted_sum_concepts=weighted_sum_concepts, negative_terms=negative_terms, lambda)$score))
       
       # if multiple singletons are best, select the first one
       max_singletons_scores = max(singletons_scores)
       first_best = which(singletons_scores==max_singletons_scores)[1]
-      v_star = units_splitted[first_best]
+      v_star = units_splitted[[first_best]][min(length(units_splitted[[first_best]]),budget)] # make sure that v_star is not a list!
       v_star_start_time = start_time[first_best]
       
       # initialization
@@ -142,16 +130,8 @@ sentence_extraction_submodularity = function(units_splitted, units_splitted_stem
         start_times = v_star_start_time
         
       }
-      
-      # if no unit meets budget 
-    #} else {
-      
-    #  G_final = ""
-    # start_times = NA
-      
-    #}
     
-    # if no unit contains a concept
+  # if no unit contains a concept
   } else {
     
     G_final = ""

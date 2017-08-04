@@ -50,11 +50,10 @@ from_keyword_to_summary_submodularity = function(graph_keywords_scores_temp, utt
       keywords_temp = unlist(extracted_keywords[gg])
       scores_temp = unlist(scores[gg])
       names(scores_temp) = keywords_temp
-      # normalize so that it sums up to 1 (might be needed if we want a lambda between 0 and 1)
+      # normalize so that scores sum up to 1 (might be needed if we want a lambda between 0 and 1)
       # round up to avoid carrying many decimals (to improve efficiency)
       scores_temp = round(scores_temp/sum(scores_temp),4)
       budget = max_lengthes[gg]
-      # ? redundancy_threshold
       
       output = sentence_extraction_submodularity(units_splitted, units_splitted_stemmed, keywords_temp, scores_temp, to_stem, budget, start_time, scaling_factor, weighted_sum_concepts, negative_terms, lambda)
       

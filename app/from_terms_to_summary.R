@@ -1,7 +1,5 @@
 from_terms_to_summary = function(terms_list, utterances, start_time, window_size, to_overspan, to_build_on_processed, community_algo, weighted_comm, directed_comm, rw_length, size_threshold, degeneracy, directed_mode, method, use_elbow, use_percentage, percentage, number_to_retain, which_nodes, redundancy_threshold, to_stem, filler_words, my_stopwords, max_summary_length){
-  
-  # seems like community detection is needed to remove noise topics
-  
+    
   graph_keywords_scores = from_terms_to_keywords(terms_list, window_size, to_overspan, to_build_on_processed, community_algo, weighted_comm, directed_comm, rw_length, size_threshold, degeneracy, directed_mode, method, use_elbow, use_percentage, percentage, number_to_retain, which_nodes)
   
   g = graph_keywords_scores$g
@@ -49,25 +47,7 @@ from_terms_to_summary = function(terms_list, utterances, start_time, window_size
     }
     
     my_summary = unlist(my_summary)
-    my_start_times = unlist(my_start_times)
-    
-	    # since community detection has already been used to extract the keywords, it means that they are representative of all topics tackled during the meeting
-    # therefore, maybe at this time selecting sentences independently for each community is not best
-    # maybe some sentences can contain keywords belonging to multiple topics...
-    # and those sentences are the best ones...
-	
-      # scores = unlist(scores)
-      # extracted_keywords = unlist(extracted_keywords)
-      
-      # output = sentence_extraction(utterances=utterances,extracted_keywords_temp=extracted_keywords, scores_temp=scores, to_stem=to_stem, custom_stopwords=my_stopwords, redundancy_threshold=redundancy_threshold, max_length=max_summary_length, start_time=start_time)
-      
-      # my_summary = output$surviving_sentences
-      # my_start_times = output$start_times
-      
-      # my_logical = !unlist(lapply(my_summary, is.null))
-      # my_summary = my_summary[my_logical]
-      # my_start_times = my_start_times[my_logical]
-      
+    my_start_times = unlist(my_start_times) 
     
   } else {
     

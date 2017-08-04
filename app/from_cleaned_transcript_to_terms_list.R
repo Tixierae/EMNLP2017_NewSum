@@ -1,5 +1,4 @@
-from_cleaned_transcript_to_terms_list <-
-function(cleaned_transcript_text){
+from_cleaned_transcript_to_terms_list = function(cleaned_transcript_text){
   
   temp = as.character(cleaned_transcript_text)
   temp = paste(temp, collapse = " . ")

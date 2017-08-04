@@ -1,5 +1,4 @@
-keyword_extraction <-
-  function(g, community_algo, method, use_elbow, use_percentage, percentage, number_to_retain, which_nodes){
+keyword_extraction = function(g, community_algo, method, use_elbow, use_percentage, percentage, number_to_retain, which_nodes){
     
     # use_elbow and use_percentage are only used for TR (for CR, both CRE and CRP are returned)
     # therefore, for CR, one should always have specified a "percentage" value

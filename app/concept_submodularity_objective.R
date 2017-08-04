@@ -13,22 +13,7 @@ concept_submodularity_objective = function(units, concepts, my_scores, to_stem, 
     } else {
       sum_my_scores_coverage = sum(my_scores[concepts %in% units]) 
     }
-    
-    # if (negative_terms){
-    # # note: the problem when using negative scores is that the function is not monotone anymore - you can have a bigger sentence that has a lower score than a smaller sentence
-    
-    # index_present = which(concepts %in% x)
-    # index_absent = setdiff(1:length(concepts), index_present)
-    
-    # score_unit_neg = sum(my_scores[index_absent])
-    
-    # score_unit = score_unit_pos - score_unit_neg
-    
-    # } else {
-    
-    #  score_unit = score_unit_pos
-    
-    
+     
     ########################
     ### DIVERSITY REWARD ###
     ########################
