@@ -8,3 +8,5 @@ EMNLP 2017 Workshop on New Frontiers in Summarization
 ```
 
 When using any of the resources contained in this repository.
+
+Interactive web app: https://safetyapp.shinyapps.io/meet_summ_proto/
