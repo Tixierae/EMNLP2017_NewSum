@@ -12,7 +12,7 @@ A script that can be run from the command line/terminal can be found here: https
 ### Cite
 If you use some of the code in this repo in your own work, of if you just want to refer to our paper, please cite:
 
-```
+```BibTeX
 @inproceedings{tixier2017combining,
   title={Combining graph degeneracy and submodularity for unsupervised extractive summarization},
   author={Tixier, Antoine and Meladianos, Polykarpos and Vazirgiannis, Michalis},
